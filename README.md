@@ -64,3 +64,6 @@ Other      🕓 1h3m  █▎░░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+### My stats
+[![Salvage's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
