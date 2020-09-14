@@ -10,6 +10,9 @@
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
 
+### Contact me:
+* Join my [discord](https://discord.gg/3ucGCpa) to chat
+
 ### Languages & Tools:
 **Code editor** Visual Studio Code
 
