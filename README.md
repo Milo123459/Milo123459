@@ -32,3 +32,6 @@
 * Klasa
 * GraphQL
 
+### Latest videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
