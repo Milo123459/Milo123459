@@ -35,3 +35,7 @@
 ### Latest videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+### WakaTime stats
+<!-- waka-box start -->
+<!-- waka-box end -->
