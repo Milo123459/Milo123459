@@ -16,7 +16,7 @@ jobs:
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
       UPDATE_OPTION: MARKDOWN
-      MARKDOWN_FILE: README.md
+      MARKDOWN_FILE: ./README.md
     steps:
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
