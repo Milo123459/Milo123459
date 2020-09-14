@@ -17,7 +17,9 @@
 
 **Favourite DB** MongoDB
 
-**Libraries / Frameworks / Langugaes I know**
+<details>
+<summary><b>Libraries / Frameworks / Langugaes I know</b></summary>
+
 * ExpressJS
 * NodeJS
 * VueJS
@@ -25,13 +27,18 @@
 * Docker
 * MongoDB
 
-**Libraries / Frameworks / Langugaes I want to know**
+</details>
+
+<details>
+<summary><b>Libraries / Frameworks / Langugaes I want to know</b></summary>
+
 * Rust
 * Gatsby
 * Koa
 * Klasa
 * GraphQL
 
+</details>
 ### Latest videos
 <!-- YOUTUBE:START -->
 - [Discord Bot Races : Captcha bot](https://www.youtube.com/watch?v=EJpT63AWFZA)
