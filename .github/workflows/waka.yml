@@ -15,8 +15,6 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
-    name: install dependencies
-      run: npm i
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -26,6 +24,8 @@ jobs:
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: ./README.md
     steps:
+      - name: install dependencies
+        run: npm i
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
         with:
