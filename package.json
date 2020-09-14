@@ -1,0 +1,22 @@
+{
+  "name": "Milo123459",
+  "version": "1.0.0",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milo123459/Milo123459.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milo123459/Milo123459/issues"
+  },
+  "homepage": "https://github.com/Milo123459/Milo123459#readme",
+  "devDependencies": {
+    "git-go": "^1.0.3"
+  }
+}
