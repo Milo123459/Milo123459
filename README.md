@@ -39,6 +39,7 @@
 * GraphQL
 
 </details>
+
 ### Latest videos
 <!-- YOUTUBE:START -->
 - [Discord Bot Races : Captcha bot](https://www.youtube.com/watch?v=EJpT63AWFZA)
