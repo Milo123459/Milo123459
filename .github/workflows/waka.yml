@@ -10,13 +10,13 @@ on:
 
 jobs:
   build:
+    name: Update-gist
+    runs-on: ubuntu-latest
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
     name: install dependencies
       run: npm i
-    name: Update-gist
-    runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
