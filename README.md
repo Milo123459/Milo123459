@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary><b>:television: Latest videos</b></summary>
+<summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
 - [Discord Bot Races : Captcha bot](https://www.youtube.com/watch?v=EJpT63AWFZA)
