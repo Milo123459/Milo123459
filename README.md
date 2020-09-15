@@ -78,7 +78,6 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 4. ❗️ Opened issue [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
 5. ❗️ Opened issue [#40543](https://github.com//microsoft/TypeScript/issues/40543) in [microsoft/TypeScript](https://github.com//microsoft/TypeScript)
 <!--END_SECTION:activity-->
-
 </details>
 
 ### :zap: My stats
