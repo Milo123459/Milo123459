@@ -54,6 +54,7 @@
 
 <details>
 <summary><b>:zap: Coding activity</b></summary>
+
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
