@@ -52,7 +52,8 @@
 - [How to make a Discord.JS giveaway bot!](https://www.youtube.com/watch?v=1yMM8NwhOhY)
 <!-- YOUTUBE:END -->
 
-### WakaTime stats
+<details>
+<summary><b>:zap: Coding activity</b></summary>
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
@@ -64,8 +65,10 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+</details>
 
-### My GitHub activity
+<details>
+<summary><b>:zap: My recent GitHub activity</b></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//Milo123459/activity-box/pull/1) in [Milo123459/activity-box](https://github.com//Milo123459/activity-box)
 2. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
@@ -73,7 +76,9 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 4. ❗️ Opened issue [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
 5. ❗️ Opened issue [#40543](https://github.com//microsoft/TypeScript/issues/40543) in [microsoft/TypeScript](https://github.com//microsoft/TypeScript)
 <!--END_SECTION:activity-->
-### My stats
+</details>
+
+### :zap: My stats
 <details>
 <summary><u><b>:zap: My GitHub stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
