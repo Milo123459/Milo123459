@@ -65,6 +65,8 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
+### My GitHub activity
+<!--START_SECTION:activity-->
 ### My stats
 <details>
 <summary><u><b>My GitHub stats</b></u></summary>
