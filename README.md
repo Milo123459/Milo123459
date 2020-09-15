@@ -66,14 +66,9 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 <!-- waka-box end -->
 
 ### My GitHub activity
-```text
 <!--START_SECTION:activity-->
+```text
 ```
-1. 🎉 Merged PR [#1](https://github.com//Milo123459/activity-box/pull/1) in [Milo123459/activity-box](https://github.com//Milo123459/activity-box)
-2. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
-3. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
-4. ❗️ Opened issue [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
-5. ❗️ Opened issue [#40543](https://github.com//microsoft/TypeScript/issues/40543) in [microsoft/TypeScript](https://github.com//microsoft/TypeScript)
 <!--END_SECTION:activity-->
 ### My stats
 <details>
