@@ -67,8 +67,8 @@ Markdown   🕓 1h26m  █▌░░░░░░░░░░░░░░░░░
 
 ### My GitHub activity
 <!--START_SECTION:activity-->
-```text
-```
+1. 🎉 Merged PR [#1](https://github.com//Milo123459/activity-box/pull/1) in [Milo123459/activity-box](https://github.com//Milo123459/activity-box)
+2. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
 <!--END_SECTION:activity-->
 ### My stats
 <details>
