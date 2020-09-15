@@ -66,11 +66,16 @@ Other      🕓 1h3m  █▎░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 
 ### My stats
-
+<details>
+<summary><u><b>My GitHub stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Salvage's github stats" />
 </a>
+</details>
+<details>
+<summary><u><b>My most used languages</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milo123459&layout=compact&theme=radical" />
 </a>
+<details>
