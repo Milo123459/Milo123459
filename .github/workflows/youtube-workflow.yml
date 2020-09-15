@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+  push:
+    branches: [ master ]
 jobs:
   update-readme-with-youtube:
     name: Update repo with latest videos
