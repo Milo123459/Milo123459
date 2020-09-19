@@ -76,10 +76,10 @@ Markdown   🕓 2h36m ██▏░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1670](https://github.com//cli/cli/issues/1670) in [cli/cli](https://github.com//cli/cli)
-2. ❗️ Opened issue [#1804](https://github.com//npm/cli/issues/1804) in [npm/cli](https://github.com//npm/cli)
-3. 🎉 Merged PR [#1](https://github.com//Milo123459/activity-box/pull/1) in [Milo123459/activity-box](https://github.com//Milo123459/activity-box)
-4. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
+1. 🗣 Commented on [#106677](https://github.com//microsoft/vscode/issues/106677) in [microsoft/vscode](https://github.com//microsoft/vscode)
+2. 🗣 Commented on [#1670](https://github.com//cli/cli/issues/1670) in [cli/cli](https://github.com//cli/cli)
+3. ❗️ Opened issue [#1804](https://github.com//npm/cli/issues/1804) in [npm/cli](https://github.com//npm/cli)
+4. 🎉 Merged PR [#1](https://github.com//Milo123459/activity-box/pull/1) in [Milo123459/activity-box](https://github.com//Milo123459/activity-box)
 5. 🗣 Commented on [#136](https://github.com//timocov/dts-bundle-generator/issues/136) in [timocov/dts-bundle-generator](https://github.com//timocov/dts-bundle-generator)
 <!--END_SECTION:activity-->
 </details>
