@@ -109,7 +109,7 @@ YAML       🕓 1h18m █▍░░░░░░░░░░░░░░░░░�
 <summary><u><b>:zap: My newest project stats</b></u></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milo123459&repo=vstore&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milo123459&repo=vstore&theme=radical" />
 </a>
   
 </details>
