@@ -71,6 +71,10 @@ YAML       🕓 1h18m █▍░░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salvage_dev&theme=radical" />
+</a>
 </details>
 
 <details>
