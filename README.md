@@ -81,11 +81,11 @@ YAML       🕓 1h4m  █▏░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Milo123459/vstore/pull/1) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
-2. 💪 Opened PR [#1](https://github.com//Milo123459/vstore/pull/1) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
-3. 🗣 Commented on [#129](https://github.com//sindresorhus/type-fest/issues/129) in [sindresorhus/type-fest](https://github.com//sindresorhus/type-fest)
-4. 🗣 Commented on [#129](https://github.com//sindresorhus/type-fest/issues/129) in [sindresorhus/type-fest](https://github.com//sindresorhus/type-fest)
-5. 🗣 Commented on [#106677](https://github.com//microsoft/vscode/issues/106677) in [microsoft/vscode](https://github.com//microsoft/vscode)
+1. 🎉 Merged PR [#4](https://github.com//Milo123459/vstore/pull/4) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
+2. 🎉 Merged PR [#5](https://github.com//Milo123459/vstore/pull/5) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
+3. 🎉 Merged PR [#1](https://github.com//Milo123459/vstore/pull/1) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
+4. 💪 Opened PR [#1](https://github.com//Milo123459/vstore/pull/1) in [Milo123459/vstore](https://github.com//Milo123459/vstore)
+5. 🗣 Commented on [#129](https://github.com//sindresorhus/type-fest/issues/129) in [sindresorhus/type-fest](https://github.com//sindresorhus/type-fest)
 <!--END_SECTION:activity-->
 </details>
 
