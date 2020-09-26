@@ -81,11 +81,11 @@ Text       🕓 39m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
-2. ❗️ Opened issue [#25624](https://github.com/electron/electron/issues/25624) in [electron/electron](https://github.com/electron/electron)
-3. ❗️ Closed issue [#6](https://github.com/Milo123459/vstore/issues/6) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
-4. ❗️ Opened issue [#6](https://github.com/Milo123459/vstore/issues/6) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
-5. 🎉 Merged PR [#4](https://github.com/Milo123459/vstore/pull/4) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
+1. ❌ Closed PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+2. 🗣 Commented on [#18](https://github.com/timotejroiko/discord.js-light/issues/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+3. 💪 Opened PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+4. ❗️ Opened issue [#25624](https://github.com/electron/electron/issues/25624) in [electron/electron](https://github.com/electron/electron)
+5. ❗️ Closed issue [#6](https://github.com/Milo123459/vstore/issues/6) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
 <!--END_SECTION:activity-->
 </details>
 
