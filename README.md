@@ -81,11 +81,11 @@ Markdown   🕓 19m   █▌░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
-2. 🗣 Commented on [#18](https://github.com/timotejroiko/discord.js-light/issues/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
-3. 💪 Opened PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
-4. ❗️ Opened issue [#25624](https://github.com/electron/electron/issues/25624) in [electron/electron](https://github.com/electron/electron)
-5. ❗️ Closed issue [#6](https://github.com/Milo123459/vstore/issues/6) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
+1. 🎉 Merged PR [#2](https://github.com/Milo123459/activity-box/pull/2) in [Milo123459/activity-box](https://github.com/Milo123459/activity-box)
+2. ❌ Closed PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+3. 🗣 Commented on [#18](https://github.com/timotejroiko/discord.js-light/issues/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+4. 💪 Opened PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+5. ❗️ Opened issue [#25624](https://github.com/electron/electron/issues/25624) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
 </details>
 
