@@ -1,4 +1,4 @@
-### Hey, I'm Salvage, I like to code things <img src="https://komarev.com/ghpvc/?username=Milo123459" alt="" align="center" />
+### Hey, I'm Salvage, I like to code things
 
 ## I enjoy coding random things and contributing to open source projects
 
