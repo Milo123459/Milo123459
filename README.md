@@ -81,11 +81,11 @@ Other      🕓 28m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1269](https://github.com/minbrowser/min/issues/1269) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❌ Closed PR [#4887](https://github.com/discordjs/discord.js/pull/4887) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-3. 💪 Opened PR [#4887](https://github.com/discordjs/discord.js/pull/4887) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-4. 🎉 Merged PR [#2](https://github.com/Milo123459/activity-box/pull/2) in [Milo123459/activity-box](https://github.com/Milo123459/activity-box)
-5. ❌ Closed PR [#18](https://github.com/timotejroiko/discord.js-light/pull/18) in [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light)
+1. ❗️ Opened issue [#1271](https://github.com/minbrowser/min/issues/1271) in [minbrowser/min](https://github.com/minbrowser/min)
+2. ❗️ Opened issue [#1270](https://github.com/minbrowser/min/issues/1270) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1009](https://github.com/minbrowser/min/issues/1009) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1227](https://github.com/minbrowser/min/issues/1227) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1091](https://github.com/minbrowser/min/issues/1091) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
