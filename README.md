@@ -81,11 +81,11 @@ YAML       🕓 30m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1271](https://github.com/minbrowser/min/issues/1271) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❗️ Opened issue [#1270](https://github.com/minbrowser/min/issues/1270) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1009](https://github.com/minbrowser/min/issues/1009) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1227](https://github.com/minbrowser/min/issues/1227) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1091](https://github.com/minbrowser/min/issues/1091) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Closed issue [#1](https://github.com/Milo123459/bot-in-a-bot/issues/1) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+2. 🗣 Commented on [#1](https://github.com/Milo123459/bot-in-a-bot/issues/1) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+3. ❗️ Opened issue [#1271](https://github.com/minbrowser/min/issues/1271) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Opened issue [#1270](https://github.com/minbrowser/min/issues/1270) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1009](https://github.com/minbrowser/min/issues/1009) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
