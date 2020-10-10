@@ -48,11 +48,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [Create a Discord Bot with NodeJS! Command and Event Handler](https://www.youtube.com/watch?v=cLI0TADyxCU)
 - [How to create a Discord.JS application bot!](https://www.youtube.com/watch?v=vJQmB-aNk2Y)
 - [Discord Bot Races : Captcha bot](https://www.youtube.com/watch?v=EJpT63AWFZA)
 - [Create a Discord.JS music bot!](https://www.youtube.com/watch?v=LeH2R-UIx0s)
 - [Create a Discord.JS economy bot!](https://www.youtube.com/watch?v=SMOzHrteCcM)
-- [How to create a Discord.JS ModMail bot!](https://www.youtube.com/watch?v=FfuTv2ZHx24)
 <!-- YOUTUBE:END -->
 
 </details>
