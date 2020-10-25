@@ -81,11 +81,11 @@ Other      🕓 4m  █▌░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1273](https://github.com/minbrowser/min/issues/1273) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#8](https://github.com/Milo123459/vstore/issues/8) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
-3. ❗️ Opened issue [#1036](https://github.com/tauri-apps/tauri/issues/1036) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. ❗️ Closed issue [#1](https://github.com/Milo123459/bot-in-a-bot/issues/1) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
-5. 🗣 Commented on [#1](https://github.com/Milo123459/bot-in-a-bot/issues/1) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+1. 🗣 Commented on [#1](https://github.com/simp-node/node-caps/issues/1) in [simp-node/node-caps](https://github.com/simp-node/node-caps)
+2. 🗣 Commented on [#1273](https://github.com/minbrowser/min/issues/1273) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#8](https://github.com/Milo123459/vstore/issues/8) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
+4. ❗️ Opened issue [#1036](https://github.com/tauri-apps/tauri/issues/1036) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. ❗️ Closed issue [#1](https://github.com/Milo123459/bot-in-a-bot/issues/1) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
 <!--END_SECTION:activity-->
 </details>
 
