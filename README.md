@@ -81,11 +81,11 @@ Markdown   🕓 0s  ░░░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Milo123459/Spencer/pull/2) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#1](https://github.com/simp-node/node-caps/issues/1) in [simp-node/node-caps](https://github.com/simp-node/node-caps)
-3. 🗣 Commented on [#1273](https://github.com/minbrowser/min/issues/1273) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#8](https://github.com/Milo123459/vstore/issues/8) in [Milo123459/vstore](https://github.com/Milo123459/vstore)
-5. ❗️ Opened issue [#1036](https://github.com/tauri-apps/tauri/issues/1036) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🎉 Merged PR [#13](https://github.com/Milo123459/bot-in-a-bot/pull/13) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+2. 🎉 Merged PR [#12](https://github.com/Milo123459/bot-in-a-bot/pull/12) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+3. 🎉 Merged PR [#11](https://github.com/Milo123459/bot-in-a-bot/pull/11) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+4. 🎉 Merged PR [#10](https://github.com/Milo123459/bot-in-a-bot/pull/10) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+5. 🎉 Merged PR [#3](https://github.com/Milo123459/bot-in-a-bot/pull/3) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
 <!--END_SECTION:activity-->
 </details>
 
