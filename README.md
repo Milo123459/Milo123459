@@ -81,11 +81,11 @@ JavaScript 🕓 43m   █▎░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Milo123459/Spencer/pull/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#10](https://github.com/Milo123459/Spencer/issues/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#9](https://github.com/Milo123459/Spencer/pull/9) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#13](https://github.com/Milo123459/bot-in-a-bot/pull/13) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
-5. 🎉 Merged PR [#12](https://github.com/Milo123459/bot-in-a-bot/pull/12) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+1. ❗️ Opened issue [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
+2. 🎉 Merged PR [#10](https://github.com/Milo123459/Spencer/pull/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🗣 Commented on [#10](https://github.com/Milo123459/Spencer/issues/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#9](https://github.com/Milo123459/Spencer/pull/9) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#13](https://github.com/Milo123459/bot-in-a-bot/pull/13) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
 <!--END_SECTION:activity-->
 </details>
 
