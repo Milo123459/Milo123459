@@ -81,11 +81,11 @@ JavaScript 🕓 43m   █▎░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/jowsey/discord.js-menu/pull/6) in [jowsey/discord.js-menu](https://github.com/jowsey/discord.js-menu)
-2. 💪 Opened PR [#6](https://github.com/IntriguingTiles/cleverbot-free/pull/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
-3. ❗️ Opened issue [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
-4. 🎉 Merged PR [#10](https://github.com/Milo123459/Spencer/pull/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#10](https://github.com/Milo123459/Spencer/issues/10) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🎉 Merged PR [#12](https://github.com/Milo123459/Spencer/pull/12) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🎉 Merged PR [#11](https://github.com/Milo123459/Spencer/pull/11) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 💪 Opened PR [#6](https://github.com/jowsey/discord.js-menu/pull/6) in [jowsey/discord.js-menu](https://github.com/jowsey/discord.js-menu)
+4. 💪 Opened PR [#6](https://github.com/IntriguingTiles/cleverbot-free/pull/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
+5. ❗️ Opened issue [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
 <!--END_SECTION:activity-->
 </details>
 
