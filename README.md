@@ -93,7 +93,7 @@ JavaScript 🕓 43m   █▎░░░░░░░░░░░░░░░░░�
 <details>
 <summary><u><b>:zap: My GitHub stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Salvage's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Salvage's github stats" />
 </a>
 </details>
 
