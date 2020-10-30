@@ -81,11 +81,11 @@ JavaScript 🕓 56m   █▎░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Milo123459/Spencer/pull/13) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🎉 Merged PR [#12](https://github.com/Milo123459/Spencer/pull/12) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#11](https://github.com/Milo123459/Spencer/pull/11) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 💪 Opened PR [#6](https://github.com/jowsey/discord.js-menu/pull/6) in [jowsey/discord.js-menu](https://github.com/jowsey/discord.js-menu)
-5. 💪 Opened PR [#6](https://github.com/IntriguingTiles/cleverbot-free/pull/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
+1. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+2. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+3. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+4. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+5. ❗️ Opened issue [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
 <!--END_SECTION:activity-->
 </details>
 
