@@ -82,10 +82,10 @@ JavaScript 🕓 56m   █▎░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-2. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+2. 💪 Opened PR [#3](https://github.com/benawad/vscode-stories-serverless-image-uploader/pull/3) in [benawad/vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
 3. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
 4. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-5. ❗️ Opened issue [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+5. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
 <!--END_SECTION:activity-->
 </details>
 
