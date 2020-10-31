@@ -81,10 +81,10 @@ JavaScript 🕓 56m    █▏░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
-2. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-3. 💪 Opened PR [#3](https://github.com/benawad/vscode-stories-serverless-image-uploader/pull/3) in [benawad/vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
-4. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+1. 🗣 Commented on [#6](https://github.com/jowsey/discord.js-menu/issues/6) in [jowsey/discord.js-menu](https://github.com/jowsey/discord.js-menu)
+2. ❗️ Opened issue [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
+3. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+4. 💪 Opened PR [#3](https://github.com/benawad/vscode-stories-serverless-image-uploader/pull/3) in [benawad/vscode-stories-serverless-image-uploader](https://github.com/benawad/vscode-stories-serverless-image-uploader)
 5. 🗣 Commented on [#13](https://github.com/benawad/vscode-stories/issues/13) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
 <!--END_SECTION:activity-->
 </details>
