@@ -81,11 +81,11 @@ JavaScript 🕓 57m    █░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/BitSine/express-decorators/pull/3) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
-2. 🎉 Merged PR [#2](https://github.com/BitSine/express-decorators/pull/2) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
-3. 💪 Opened PR [#2](https://github.com/BitSine/express-decorators/pull/2) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
-4. 🎉 Merged PR [#1](https://github.com/BitSine/express-decorators/pull/1) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
-5. 🗣 Commented on [#6](https://github.com/jowsey/discord.js-menu/issues/6) in [jowsey/discord.js-menu](https://github.com/jowsey/discord.js-menu)
+1. 🎉 Merged PR [#4](https://github.com/BitSine/express-decorators/pull/4) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
+2. 🎉 Merged PR [#3](https://github.com/BitSine/express-decorators/pull/3) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
+3. 🎉 Merged PR [#2](https://github.com/BitSine/express-decorators/pull/2) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
+4. 💪 Opened PR [#2](https://github.com/BitSine/express-decorators/pull/2) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
+5. 🎉 Merged PR [#1](https://github.com/BitSine/express-decorators/pull/1) in [BitSine/express-decorators](https://github.com/BitSine/express-decorators)
 <!--END_SECTION:activity-->
 </details>
 
