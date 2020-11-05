@@ -1,6 +1,6 @@
  ### Hey, I'm Salvage, I like to code things 
  
- ![Discord (Status)](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/status/450212014912962560?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://nocache.advaith.workers.dev?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/450212014912962560&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=Milo123459)
+ ![Discord (Status)]https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/450212014912962560?simple=true) ![Discord (Spotify)](https://nocache.advaith.workers.dev?label=Listening%20To&url=img.shields.io/endpoint?ur=https://dev.discordprofiles.me/api/badge/spotify/450212014912962560&color=1ED45F) ![Profile Views](https://komarev.com/ghpvc/?username=Milo123459)
 
 ## I enjoy coding random things and contributing to open source projects
 
