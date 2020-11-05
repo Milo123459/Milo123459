@@ -81,11 +81,11 @@ Other      🕓 19m    ▌░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1313](https://github.com/minbrowser/min/issues/1313) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 💪 Opened PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🎉 Merged PR [#21](https://github.com/Milo123459/Spencer/pull/21) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#20](https://github.com/Milo123459/Spencer/pull/20) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#16](https://github.com/Milo123459/bot-in-a-bot/pull/16) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+1. ❌ Closed PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1313](https://github.com/minbrowser/min/issues/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 💪 Opened PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🎉 Merged PR [#21](https://github.com/Milo123459/Spencer/pull/21) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#20](https://github.com/Milo123459/Spencer/pull/20) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
