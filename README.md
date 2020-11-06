@@ -1,9 +1,9 @@
  ### Hey, I'm Salvage, I like to code things 
  
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/450212014912962560?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/450212014912962560)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/450212014912962560)
-![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/450212014912962560)
+![status](https://nocache.salvage.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/450212014912962560?simple=true)
+![playing](https://nocache.salvage.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/450212014912962560)
+![vscode](https://nocache.salvage.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/450212014912962560)
+![spotify](https://nocache.salvage.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/450212014912962560)
 ![Profile Views](https://komarev.com/ghpvc/?username=Milo123459)
 
 ## I enjoy coding random things and contributing to open source projects
