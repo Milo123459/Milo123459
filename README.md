@@ -87,11 +87,11 @@ TOML       🕓 11m   ▍░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1313](https://github.com/minbrowser/min/issues/1313) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 💪 Opened PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🎉 Merged PR [#21](https://github.com/Milo123459/Spencer/pull/21) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#20](https://github.com/Milo123459/Spencer/pull/20) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🎉 Merged PR [#22](https://github.com/Milo123459/Spencer/pull/22) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. ❌ Closed PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1313](https://github.com/minbrowser/min/issues/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 💪 Opened PR [#1313](https://github.com/minbrowser/min/pull/1313) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🎉 Merged PR [#21](https://github.com/Milo123459/Spencer/pull/21) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
