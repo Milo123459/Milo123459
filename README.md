@@ -87,11 +87,11 @@ CSS        🕓 27m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1323](https://github.com/minbrowser/min/pull/1323) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#6](https://github.com/IntriguingTiles/cleverbot-free/issues/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
-3. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
-4. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
-5. 🎉 Merged PR [#22](https://github.com/Milo123459/Spencer/pull/22) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 💪 Opened PR [#1325](https://github.com/minbrowser/min/pull/1325) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 💪 Opened PR [#1324](https://github.com/minbrowser/min/pull/1324) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 💪 Opened PR [#1323](https://github.com/minbrowser/min/pull/1323) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#6](https://github.com/IntriguingTiles/cleverbot-free/issues/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
+5. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
 <!--END_SECTION:activity-->
 </details>
 
