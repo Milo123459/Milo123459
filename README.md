@@ -87,11 +87,11 @@ CSS        🕓 35m   █▍░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1325](https://github.com/minbrowser/min/issues/1325) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🎉 Merged PR [#25](https://github.com/Milo123459/Spencer/pull/25) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#24](https://github.com/Milo123459/Spencer/pull/24) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#23](https://github.com/Milo123459/Spencer/pull/23) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 💪 Opened PR [#1325](https://github.com/minbrowser/min/pull/1325) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1326](https://github.com/minbrowser/min/issues/1326) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1325](https://github.com/minbrowser/min/issues/1325) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🎉 Merged PR [#25](https://github.com/Milo123459/Spencer/pull/25) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#24](https://github.com/Milo123459/Spencer/pull/24) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#23](https://github.com/Milo123459/Spencer/pull/23) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
