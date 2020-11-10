@@ -87,11 +87,11 @@ CSS        🕓 35m   █▍░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1325](https://github.com/minbrowser/min/pull/1325) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 💪 Opened PR [#1324](https://github.com/minbrowser/min/pull/1324) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 💪 Opened PR [#1323](https://github.com/minbrowser/min/pull/1323) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#6](https://github.com/IntriguingTiles/cleverbot-free/issues/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
-5. 🗣 Commented on [#457](https://github.com/top-gg/issues/issues/457) in [top-gg/issues](https://github.com/top-gg/issues)
+1. 🗣 Commented on [#1325](https://github.com/minbrowser/min/issues/1325) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🎉 Merged PR [#25](https://github.com/Milo123459/Spencer/pull/25) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#24](https://github.com/Milo123459/Spencer/pull/24) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#23](https://github.com/Milo123459/Spencer/pull/23) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 💪 Opened PR [#1325](https://github.com/minbrowser/min/pull/1325) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
