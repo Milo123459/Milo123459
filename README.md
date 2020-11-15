@@ -87,11 +87,11 @@ TypeScript 🕓 18m   ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1338](https://github.com/minbrowser/min/pull/1338) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❌ Closed PR [#1337](https://github.com/minbrowser/min/pull/1337) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 💪 Opened PR [#1337](https://github.com/minbrowser/min/pull/1337) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 💪 Opened PR [#1335](https://github.com/minbrowser/min/pull/1335) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🎉 Merged PR [#28](https://github.com/Milo123459/Spencer/pull/28) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 💪 Opened PR [#1338](https://github.com/minbrowser/min/pull/1338) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❌ Closed PR [#1337](https://github.com/minbrowser/min/pull/1337) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 💪 Opened PR [#1337](https://github.com/minbrowser/min/pull/1337) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
