@@ -87,9 +87,9 @@ EJS        🕓 7m    ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1339](https://github.com/minbrowser/min/issues/1339) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❌ Closed PR [#1338](https://github.com/minbrowser/min/pull/1338) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1339](https://github.com/minbrowser/min/issues/1339) in [minbrowser/min](https://github.com/minbrowser/min)
+3. ❌ Closed PR [#1338](https://github.com/minbrowser/min/pull/1338) in [minbrowser/min](https://github.com/minbrowser/min)
 4. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
 5. 🗣 Commented on [#1338](https://github.com/minbrowser/min/issues/1338) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
