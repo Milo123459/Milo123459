@@ -87,11 +87,11 @@ EJS        🕓 7m    ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
-3. ❗️ Closed issue [#1246](https://github.com/minbrowser/min/issues/1246) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Closed issue [#1276](https://github.com/minbrowser/min/issues/1276) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1276](https://github.com/minbrowser/min/issues/1276) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Closed issue [#1179](https://github.com/minbrowser/min/issues/1179) in [minbrowser/min](https://github.com/minbrowser/min)
+2. ❗️ Closed issue [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Closed issue [#1246](https://github.com/minbrowser/min/issues/1246) in [minbrowser/min](https://github.com/minbrowser/min)
+5. ❗️ Closed issue [#1276](https://github.com/minbrowser/min/issues/1276) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
