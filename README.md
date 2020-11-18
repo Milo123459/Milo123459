@@ -87,11 +87,11 @@ HTML       🕓 15m  █▌░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1179](https://github.com/minbrowser/min/issues/1179) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❗️ Closed issue [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1214](https://github.com/minbrowser/min/issues/1214) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Closed issue [#1246](https://github.com/minbrowser/min/issues/1246) in [minbrowser/min](https://github.com/minbrowser/min)
-5. ❗️ Closed issue [#1276](https://github.com/minbrowser/min/issues/1276) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🎉 Merged PR [#33](https://github.com/Milo123459/Spencer/pull/33) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🎉 Merged PR [#32](https://github.com/Milo123459/Spencer/pull/32) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#31](https://github.com/Milo123459/Spencer/pull/31) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#30](https://github.com/Milo123459/Spencer/pull/30) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. ❗️ Closed issue [#1179](https://github.com/minbrowser/min/issues/1179) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
