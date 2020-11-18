@@ -87,11 +87,11 @@ HTML       🕓 15m  █▌░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
-3. ❗️ Opened issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🎉 Merged PR [#33](https://github.com/Milo123459/Spencer/pull/33) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#32](https://github.com/Milo123459/Spencer/pull/32) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
+2. ❗️ Closed issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Opened issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🎉 Merged PR [#33](https://github.com/Milo123459/Spencer/pull/33) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
