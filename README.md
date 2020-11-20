@@ -87,11 +87,11 @@ Git Config 🕓 7m    ▉░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Milo123459/Spencer/pull/34) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
-3. ❗️ Closed issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
-5. ❗️ Opened issue [#1346](https://github.com/minbrowser/min/issues/1346) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🎉 Merged PR [#37](https://github.com/Milo123459/Spencer/pull/37) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🎉 Merged PR [#38](https://github.com/Milo123459/Spencer/pull/38) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#36](https://github.com/Milo123459/Spencer/pull/36) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#35](https://github.com/Milo123459/Spencer/pull/35) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#34](https://github.com/Milo123459/Spencer/pull/34) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
