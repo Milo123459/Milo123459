@@ -87,11 +87,11 @@ HTML       🕓 7m    █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/IntriguingTiles/cleverbot-free/issues/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
-2. 🎉 Merged PR [#37](https://github.com/Milo123459/Spencer/pull/37) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#38](https://github.com/Milo123459/Spencer/pull/38) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#36](https://github.com/Milo123459/Spencer/pull/36) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#35](https://github.com/Milo123459/Spencer/pull/35) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. ❗️ Closed issue [#5](https://github.com/Milo123459/imageapi.js/issues/5) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
+2. 🗣 Commented on [#6](https://github.com/IntriguingTiles/cleverbot-free/issues/6) in [IntriguingTiles/cleverbot-free](https://github.com/IntriguingTiles/cleverbot-free)
+3. 🎉 Merged PR [#37](https://github.com/Milo123459/Spencer/pull/37) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#38](https://github.com/Milo123459/Spencer/pull/38) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#36](https://github.com/Milo123459/Spencer/pull/36) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
