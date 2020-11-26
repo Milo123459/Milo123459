@@ -83,11 +83,11 @@ Other      🕓 14m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Opened issue [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
 2. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1341](https://github.com/minbrowser/min/issues/1341) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1348](https://github.com/minbrowser/min/issues/1348) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1341](https://github.com/minbrowser/min/issues/1341) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1348](https://github.com/minbrowser/min/issues/1348) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
