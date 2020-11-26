@@ -83,11 +83,11 @@ Other      🕓 14m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
-2. 🎉 Merged PR [#43](https://github.com/Milo123459/Spencer/pull/43) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#42](https://github.com/Milo123459/Spencer/pull/42) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#40](https://github.com/Milo123459/Spencer/pull/40) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#39](https://github.com/Milo123459/Spencer/pull/39) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#1341](https://github.com/minbrowser/min/issues/1341) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1348](https://github.com/minbrowser/min/issues/1348) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Opened issue [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
+5. 🎉 Merged PR [#43](https://github.com/Milo123459/Spencer/pull/43) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
