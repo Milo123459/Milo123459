@@ -84,10 +84,10 @@ Markdown   🕓 15m   ▉░░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
-2. ❗️ Opened issue [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
-3. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
+3. ❗️ Opened issue [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
 4. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1341](https://github.com/minbrowser/min/issues/1341) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
