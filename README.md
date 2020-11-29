@@ -83,11 +83,11 @@ Markdown   🕓 15m   ▉░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
-3. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
-4. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
-5. ❗️ Opened issue [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
+1. 🎉 Merged PR [#44](https://github.com/Milo123459/Spencer/pull/44) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#44](https://github.com/Milo123459/Spencer/issues/44) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
+5. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
 <!--END_SECTION:activity-->
 </details>
 
