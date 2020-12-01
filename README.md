@@ -83,8 +83,8 @@ Markdown   🕓 34m   █▋░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. ❗️ Opened issue [#47](https://github.com/Milo123459/Spencer/issues/47) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. ❗️ Closed issue [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 3. 🗣 Commented on [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 4. 🗣 Commented on [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 5. 🗣 Commented on [#45](https://github.com/Milo123459/Spencer/issues/45) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
