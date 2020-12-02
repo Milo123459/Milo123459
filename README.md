@@ -83,11 +83,11 @@ Markdown   🕓 37m   █▉░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Milo123459/imageapi.js/issues/10) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
-2. ❗️ Closed issue [#9](https://github.com/Milo123459/imageapi.js/issues/9) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
-3. 🗣 Commented on [#9](https://github.com/Milo123459/imageapi.js/issues/9) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
-4. 🎉 Merged PR [#8](https://github.com/Milo123459/imageapi.js/pull/8) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
-5. 💪 Opened PR [#1366](https://github.com/minbrowser/min/pull/1366) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❌ Closed PR [#48](https://github.com/Milo123459/Spencer/pull/48) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#10](https://github.com/Milo123459/imageapi.js/issues/10) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
+3. ❗️ Closed issue [#9](https://github.com/Milo123459/imageapi.js/issues/9) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
+4. 🗣 Commented on [#9](https://github.com/Milo123459/imageapi.js/issues/9) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
+5. 🎉 Merged PR [#8](https://github.com/Milo123459/imageapi.js/pull/8) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
 <!--END_SECTION:activity-->
 </details>
 
