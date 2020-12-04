@@ -83,11 +83,11 @@ Markdown   🕓 37m   ██▋░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/Milo123459/Spencer/issues/47) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. ❗️ Closed issue [#1](https://github.com/Milo123459/salvage-music/issues/1) in [Milo123459/salvage-music](https://github.com/Milo123459/salvage-music)
-3. 🗣 Commented on [#1](https://github.com/Milo123459/salvage-music/issues/1) in [Milo123459/salvage-music](https://github.com/Milo123459/salvage-music)
-4. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 💪 Opened PR [#4](https://github.com/iShibi/ezio.js/pull/4) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+2. 💪 Opened PR [#3](https://github.com/iShibi/ezio.js/pull/3) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+3. ❌ Closed PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+4. 💪 Opened PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+5. 💪 Opened PR [#1](https://github.com/iShibi/ezio.js/pull/1) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
 <!--END_SECTION:activity-->
 </details>
 
