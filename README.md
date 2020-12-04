@@ -83,11 +83,11 @@ Markdown   🕓 37m   ██▋░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
-3. ❗️ Closed issue [#49](https://github.com/Milo123459/Spencer/issues/49) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#30](https://github.com/Milo123459/bot-in-a-bot/pull/30) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
-5. 🎉 Merged PR [#33](https://github.com/Milo123459/bot-in-a-bot/pull/33) in [Milo123459/bot-in-a-bot](https://github.com/Milo123459/bot-in-a-bot)
+1. ❗️ Closed issue [#1](https://github.com/Milo123459/salvage-music/issues/1) in [Milo123459/salvage-music](https://github.com/Milo123459/salvage-music)
+2. 🗣 Commented on [#1](https://github.com/Milo123459/salvage-music/issues/1) in [Milo123459/salvage-music](https://github.com/Milo123459/salvage-music)
+3. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1366](https://github.com/minbrowser/min/issues/1366) in [minbrowser/min](https://github.com/minbrowser/min)
+5. ❗️ Closed issue [#49](https://github.com/Milo123459/Spencer/issues/49) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
