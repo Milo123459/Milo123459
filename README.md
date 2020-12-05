@@ -83,11 +83,11 @@ Markdown   🕓 49m   ████▎░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/iShibi/ezio.js/pull/4) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
-2. 💪 Opened PR [#3](https://github.com/iShibi/ezio.js/pull/3) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
-3. ❌ Closed PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
-4. 💪 Opened PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
-5. 💪 Opened PR [#1](https://github.com/iShibi/ezio.js/pull/1) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+1. ❗️ Opened issue [#1195](https://github.com/electron/electron-packager/issues/1195) in [electron/electron-packager](https://github.com/electron/electron-packager)
+2. 💪 Opened PR [#4](https://github.com/iShibi/ezio.js/pull/4) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+3. 💪 Opened PR [#3](https://github.com/iShibi/ezio.js/pull/3) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+4. ❌ Closed PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
+5. 💪 Opened PR [#2](https://github.com/iShibi/ezio.js/pull/2) in [iShibi/ezio.js](https://github.com/iShibi/ezio.js)
 <!--END_SECTION:activity-->
 </details>
 
