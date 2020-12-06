@@ -83,11 +83,11 @@ JavaScript 🕓 19m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1195](https://github.com/electron/electron-packager/issues/1195) in [electron/electron-packager](https://github.com/electron/electron-packager)
-2. 🗣 Commented on [#1317](https://github.com/minbrowser/min/issues/1317) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1361](https://github.com/minbrowser/min/issues/1361) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1348](https://github.com/minbrowser/min/issues/1348) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1297](https://github.com/dependabot/dependabot-core/issues/1297) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+1. ❗️ Opened issue [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+2. 🗣 Commented on [#1195](https://github.com/electron/electron-packager/issues/1195) in [electron/electron-packager](https://github.com/electron/electron-packager)
+3. 🗣 Commented on [#1317](https://github.com/minbrowser/min/issues/1317) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1361](https://github.com/minbrowser/min/issues/1361) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1348](https://github.com/minbrowser/min/issues/1348) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
