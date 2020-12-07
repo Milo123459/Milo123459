@@ -83,11 +83,11 @@ Emacs Lisp 🕓 13m   ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Milo123459/Spencer/pull/53) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 💪 Opened PR [#1368](https://github.com/minbrowser/min/pull/1368) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🎉 Merged PR [#21](https://github.com/Milo123459/min/pull/21) in [Milo123459/min](https://github.com/Milo123459/min)
-4. 🗣 Commented on [#1364](https://github.com/minbrowser/min/issues/1364) in [minbrowser/min](https://github.com/minbrowser/min)
-5. ❗️ Opened issue [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+1. 🎉 Merged PR [#56](https://github.com/Milo123459/Spencer/pull/56) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. ❌ Closed PR [#55](https://github.com/Milo123459/Spencer/pull/55) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. ❌ Closed PR [#54](https://github.com/Milo123459/Spencer/pull/54) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#54](https://github.com/Milo123459/Spencer/issues/54) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#53](https://github.com/Milo123459/Spencer/pull/53) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
