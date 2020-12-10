@@ -83,11 +83,11 @@ Other      🕓 17m   ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1373](https://github.com/minbrowser/min/pull/1373) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1371](https://github.com/minbrowser/min/issues/1371) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 💪 Opened PR [#1371](https://github.com/minbrowser/min/pull/1371) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❌ Closed PR [#1370](https://github.com/minbrowser/min/pull/1370) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1370](https://github.com/minbrowser/min/issues/1370) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
+2. 💪 Opened PR [#1373](https://github.com/minbrowser/min/pull/1373) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1371](https://github.com/minbrowser/min/issues/1371) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 💪 Opened PR [#1371](https://github.com/minbrowser/min/pull/1371) in [minbrowser/min](https://github.com/minbrowser/min)
+5. ❌ Closed PR [#1370](https://github.com/minbrowser/min/pull/1370) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
