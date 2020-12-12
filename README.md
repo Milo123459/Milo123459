@@ -83,11 +83,11 @@ JavaScript 🕓 21m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1373](https://github.com/minbrowser/min/issues/1373) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1360](https://github.com/minbrowser/min/issues/1360) in [minbrowser/min](https://github.com/minbrowser/min)
 2. 🗣 Commented on [#1373](https://github.com/minbrowser/min/issues/1373) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
-4. 💪 Opened PR [#1373](https://github.com/minbrowser/min/pull/1373) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1371](https://github.com/minbrowser/min/issues/1371) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1373](https://github.com/minbrowser/min/issues/1373) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#865](https://github.com/rust-lang/vscode-rust/issues/865) in [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust)
+5. 💪 Opened PR [#1373](https://github.com/minbrowser/min/pull/1373) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
