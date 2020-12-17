@@ -83,11 +83,11 @@ YAML        🕓 16m    ▌░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Milo123459/Spencer/issues/34) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#1382](https://github.com/minbrowser/min/issues/1382) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
-5. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+1. 🗣 Commented on [#27](https://github.com/Milo123459/Spencer/issues/27) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#34](https://github.com/Milo123459/Spencer/issues/34) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🗣 Commented on [#1382](https://github.com/minbrowser/min/issues/1382) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1934](https://github.com/starship/starship/issues/1934) in [starship/starship](https://github.com/starship/starship)
 <!--END_SECTION:activity-->
 </details>
 
