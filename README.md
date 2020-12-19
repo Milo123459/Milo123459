@@ -50,11 +50,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [How to create a discord.js bot with TypeScript! | Command & event handler](https://www.youtube.com/watch?v=PZmbunipFnQ)
 - [How to make your terminal look better with Starship](https://www.youtube.com/watch?v=u5tfbCCGWKc)
 - [Learn the basics of TypeScript](https://www.youtube.com/watch?v=D4fD_-WNodM)
 - [Create a Discord Bot with NodeJS! Command and Event Handler](https://www.youtube.com/watch?v=cLI0TADyxCU)
 - [How to create a Discord.JS application bot!](https://www.youtube.com/watch?v=vJQmB-aNk2Y)
-- [Discord Bot Races : Captcha bot](https://www.youtube.com/watch?v=EJpT63AWFZA)
 <!-- YOUTUBE:END -->
 
 </details>
