@@ -83,11 +83,11 @@ YAML       🕓 16m    ▌░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/Milo123459/Spencer/issues/62) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🎉 Merged PR [#63](https://github.com/Milo123459/Spencer/pull/63) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 2. 🗣 Commented on [#62](https://github.com/Milo123459/Spencer/issues/62) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🗣 Commented on [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
-4. 🗣 Commented on [#1297](https://github.com/dependabot/dependabot-core/issues/1297) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-5. ❌ Closed PR [#10](https://github.com/Milo123459/imageapi.js/pull/10) in [Milo123459/imageapi.js](https://github.com/Milo123459/imageapi.js)
+3. 🗣 Commented on [#62](https://github.com/Milo123459/Spencer/issues/62) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#103](https://github.com/actions/github-script/issues/103) in [actions/github-script](https://github.com/actions/github-script)
+5. 🗣 Commented on [#1297](https://github.com/dependabot/dependabot-core/issues/1297) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 <!--END_SECTION:activity-->
 </details>
 
