@@ -83,11 +83,11 @@ Other      🕓 5m    ▏░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/Milo123459/Spencer/pull/66) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🎉 Merged PR [#65](https://github.com/Milo123459/Spencer/pull/65) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. ❌ Reopened PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. ❌ Closed PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🎉 Merged PR [#67](https://github.com/Milo123459/Spencer/pull/67) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🎉 Merged PR [#66](https://github.com/Milo123459/Spencer/pull/66) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#65](https://github.com/Milo123459/Spencer/pull/65) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. ❌ Reopened PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
