@@ -83,11 +83,11 @@ Other      🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
-2. 🎉 Merged PR [#67](https://github.com/Milo123459/Spencer/pull/67) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#66](https://github.com/Milo123459/Spencer/pull/66) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#65](https://github.com/Milo123459/Spencer/pull/65) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#64](https://github.com/Milo123459/Spencer/pull/64) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#1320](https://github.com/minbrowser/min/issues/1320) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+3. 🎉 Merged PR [#67](https://github.com/Milo123459/Spencer/pull/67) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🎉 Merged PR [#66](https://github.com/Milo123459/Spencer/pull/66) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#65](https://github.com/Milo123459/Spencer/pull/65) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
