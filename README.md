@@ -83,11 +83,11 @@ JavaScript 🕓 9m    ▍░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/Milo123459/Spencer/pull/69) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🎉 Merged PR [#68](https://github.com/Milo123459/Spencer/pull/68) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 💪 Opened PR [#68](https://github.com/Milo123459/Spencer/pull/68) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🗣 Commented on [#1320](https://github.com/minbrowser/min/issues/1320) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+1. 🗣 Commented on [#1404](https://github.com/minbrowser/min/issues/1404) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🎉 Merged PR [#69](https://github.com/Milo123459/Spencer/pull/69) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#68](https://github.com/Milo123459/Spencer/pull/68) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 💪 Opened PR [#68](https://github.com/Milo123459/Spencer/pull/68) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🗣 Commented on [#1320](https://github.com/minbrowser/min/issues/1320) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
