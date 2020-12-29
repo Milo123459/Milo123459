@@ -83,11 +83,11 @@ Other      🕓 20m   ▉░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
-2. 🗣 Commented on [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
-3. 🗣 Commented on [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
-4. ❗️ Opened issue [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
-5. 🎉 Merged PR [#72](https://github.com/Milo123459/Spencer/pull/72) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🎉 Merged PR [#74](https://github.com/Milo123459/Spencer/pull/74) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#74](https://github.com/Milo123459/Spencer/issues/74) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🗣 Commented on [#74](https://github.com/Milo123459/Spencer/issues/74) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
+5. 🗣 Commented on [#297](https://github.com/wei/pull/issues/297) in [wei/pull](https://github.com/wei/pull)
 <!--END_SECTION:activity-->
 </details>
 
