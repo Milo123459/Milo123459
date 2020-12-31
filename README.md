@@ -84,10 +84,10 @@ JSON       🕓 45m   █▌░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
-2. 🗣 Commented on [#1405](https://github.com/minbrowser/min/issues/1405) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🎉 Merged PR [#78](https://github.com/Milo123459/Spencer/pull/78) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. ❗️ Opened issue [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
-5. 🎉 Merged PR [#76](https://github.com/Milo123459/Spencer/pull/76) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
+3. 🗣 Commented on [#1405](https://github.com/minbrowser/min/issues/1405) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🎉 Merged PR [#78](https://github.com/Milo123459/Spencer/pull/78) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. ❗️ Opened issue [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
 <!--END_SECTION:activity-->
 </details>
 
