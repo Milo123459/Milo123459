@@ -83,11 +83,11 @@ JSON       🕓 34m    ▉░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
-2. 🗣 Commented on [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
-3. 🗣 Commented on [#1405](https://github.com/minbrowser/min/issues/1405) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🎉 Merged PR [#78](https://github.com/Milo123459/Spencer/pull/78) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. ❗️ Opened issue [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
+1. ❌ Closed PR [#83](https://github.com/Milo123459/Spencer/pull/83) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🎉 Merged PR [#84](https://github.com/Milo123459/Spencer/pull/84) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🎉 Merged PR [#81](https://github.com/Milo123459/Spencer/pull/81) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#82](https://github.com/Milo123459/Spencer/issues/82) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🗣 Commented on [#3](https://github.com/Sidemen19/VACEfron.js/issues/3) in [Sidemen19/VACEfron.js](https://github.com/Sidemen19/VACEfron.js)
 <!--END_SECTION:activity-->
 </details>
 
