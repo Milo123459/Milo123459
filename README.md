@@ -83,11 +83,11 @@ JSON       🕓 34m    ▉░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. ❗️ Closed issue [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🗣 Commented on [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🎉 Merged PR [#86](https://github.com/Milo123459/Spencer/pull/86) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. ❌ Closed PR [#85](https://github.com/Milo123459/Spencer/pull/85) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+2. 🗣 Commented on [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. ❗️ Closed issue [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#86](https://github.com/Milo123459/Spencer/pull/86) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
