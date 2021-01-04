@@ -83,11 +83,11 @@ EJS        🕓 1h4m   █▋░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1417](https://github.com/minbrowser/min/pull/1417) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❗️ Opened issue [#4655](https://github.com/alacritty/alacritty/issues/4655) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+1. 🗣 Commented on [#1417](https://github.com/minbrowser/min/issues/1417) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 💪 Opened PR [#1417](https://github.com/minbrowser/min/pull/1417) in [minbrowser/min](https://github.com/minbrowser/min)
+3. ❗️ Opened issue [#4655](https://github.com/alacritty/alacritty/issues/4655) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 4. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
-5. 🗣 Commented on [#87](https://github.com/Milo123459/Spencer/issues/87) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
 <!--END_SECTION:activity-->
 </details>
 
