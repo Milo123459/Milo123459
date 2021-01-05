@@ -83,11 +83,11 @@ EJS        🕓 1h4m   █▋░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1417](https://github.com/minbrowser/min/issues/1417) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1417](https://github.com/minbrowser/min/issues/1417) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 💪 Opened PR [#1417](https://github.com/minbrowser/min/pull/1417) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Opened issue [#4655](https://github.com/alacritty/alacritty/issues/4655) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-5. 🗣 Commented on [#14](https://github.com/cometkim/yarn-plugin-bump/issues/14) in [cometkim/yarn-plugin-bump](https://github.com/cometkim/yarn-plugin-bump)
+1. 🎉 Merged PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 💪 Opened PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. ❌ Closed PR [#94](https://github.com/Milo123459/Spencer/pull/94) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 💪 Opened PR [#94](https://github.com/Milo123459/Spencer/pull/94) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. ❌ Closed PR [#93](https://github.com/Milo123459/Spencer/pull/93) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
