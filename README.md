@@ -83,11 +83,11 @@ YAML       🕓 34m    ▉░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 💪 Opened PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. ❌ Closed PR [#94](https://github.com/Milo123459/Spencer/pull/94) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 💪 Opened PR [#94](https://github.com/Milo123459/Spencer/pull/94) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. ❌ Closed PR [#93](https://github.com/Milo123459/Spencer/pull/93) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#1345](https://github.com/minbrowser/min/issues/1345) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1418](https://github.com/minbrowser/min/issues/1418) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🎉 Merged PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 💪 Opened PR [#95](https://github.com/Milo123459/Spencer/pull/95) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. ❌ Closed PR [#94](https://github.com/Milo123459/Spencer/pull/94) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
