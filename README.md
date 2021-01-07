@@ -50,11 +50,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [How to create a Discord.JS bot with TypeScript! | Setting up a DB](https://www.youtube.com/watch?v=53KL-8w6ZRg)
 - [How to create a Discord.JS bot with TypeScript! | Converting JS commands to TS](https://www.youtube.com/watch?v=_mEBfQNDpxI)
 - [How to create a Discord.JS bot with TypeScript! | Meme Command](https://www.youtube.com/watch?v=4L5pRQuiCBQ)
 - [How to create a Discord.JS bot with TypeScript! | Command Cooldowns](https://www.youtube.com/watch?v=MQ6Pk5_eiw8)
 - [How to create a Discord.JS bot with TypeScript! | Dynamic Help Command](https://www.youtube.com/watch?v=glXa1oBEPyA)
-- [How to create a Discord.JS bot with TypeScript! | Alias system](https://www.youtube.com/watch?v=mwuzHdYfO18)
 <!-- YOUTUBE:END -->
 
 </details>
