@@ -83,11 +83,11 @@ YAML       🕓 39m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#99](https://github.com/Milo123459/Spencer/pull/99) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 💪 Opened PR [#99](https://github.com/Milo123459/Spencer/pull/99) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#7961](https://github.com/vlang/v/issues/7961) in [vlang/v](https://github.com/vlang/v)
+1. 🗣 Commented on [#1345](https://github.com/minbrowser/min/issues/1345) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#994](https://github.com/minbrowser/min/issues/994) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#99](https://github.com/Milo123459/Spencer/pull/99) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
