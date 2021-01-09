@@ -83,11 +83,11 @@ YAML       🕓 39m   █░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1345](https://github.com/minbrowser/min/issues/1345) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#994](https://github.com/minbrowser/min/issues/994) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🎉 Merged PR [#99](https://github.com/Milo123459/Spencer/pull/99) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. ❗️ Opened issue [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. 🗣 Commented on [#1419](https://github.com/minbrowser/min/issues/1419) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1345](https://github.com/minbrowser/min/issues/1345) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#994](https://github.com/minbrowser/min/issues/994) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#100](https://github.com/Milo123459/Spencer/issues/100) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
