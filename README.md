@@ -97,6 +97,7 @@ YAML       🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Salvage's github stats" />
 </a>
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 </details>
 
 <details>
