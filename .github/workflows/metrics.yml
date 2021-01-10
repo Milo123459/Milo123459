@@ -32,3 +32,4 @@ jobs:
           plugin_stars_limit: 4  
           plugin_stargazers: yes
           plugin_isocalendar: yes  
+          plugin_isocalendar_duration: full-year  
