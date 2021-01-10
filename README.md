@@ -85,9 +85,9 @@ YAML       🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 2. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-3. ❗️ Closed issue [#2473](https://github.com/discord/discord-api-docs/issues/2473) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Opened issue [#2473](https://github.com/discord/discord-api-docs/issues/2473) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+4. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+5. ❗️ Closed issue [#2473](https://github.com/discord/discord-api-docs/issues/2473) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 </details>
 
