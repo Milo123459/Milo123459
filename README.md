@@ -95,9 +95,11 @@ YAML       🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 <details>
 <summary><u><b>:zap: My GitHub stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Salvage's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Milo's github stats" />
 </a>
-![Metrics](https://github.com/Milo123459/Milo123459/blob/master/github-metrics.svg)
+<a href="https://github.com/Milo123459/Milo123459">
+<img align="center" src="/github-metrics.svg" alt="Milo's github stats" 
+</a>
 </details>
 
 <details>
