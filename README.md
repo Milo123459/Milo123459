@@ -99,7 +99,7 @@ YAML       🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 </a>
 <br>
 <a href="https://github.com/Milo123459/Milo123459">
-<img align="center" src="/github-metrics.svg" alt="Milo's github stats" 
+<img align="center" src="/github-metrics.svg" alt="Milo's github stats">
 </a>
 </details>
 
