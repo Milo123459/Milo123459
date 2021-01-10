@@ -30,3 +30,4 @@ jobs:
           plugin_habits_charts: yes
           plugin_stars: yes
           plugin_stars_limit: 4  
+          plugin_stargazers: yes
