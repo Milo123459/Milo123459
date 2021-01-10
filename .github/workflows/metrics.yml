@@ -22,3 +22,4 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 0  
           plugin_lines: yes
+          plugin_traffic: yes
