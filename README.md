@@ -84,9 +84,9 @@ YAML       🕓 37m   ▉░░░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-2. 🗣 Commented on [#1419](https://github.com/minbrowser/min/issues/1419) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1419](https://github.com/minbrowser/min/issues/1419) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Opened issue [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. ❗️ Closed issue [#2473](https://github.com/discord/discord-api-docs/issues/2473) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Opened issue [#2473](https://github.com/discord/discord-api-docs/issues/2473) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#45](https://github.com/lowlighter/metrics/issues/45) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 5. 🗣 Commented on [#1419](https://github.com/minbrowser/min/issues/1419) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
