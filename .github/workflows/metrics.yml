@@ -18,9 +18,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
           plugin_followup: yes
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0  
           plugin_lines: yes
           plugin_traffic: yes
           plugin_habits: yes
