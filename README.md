@@ -83,11 +83,11 @@ JSON        🕓 19m   █░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🎉 Merged PR [#107](https://github.com/Milo123459/Spencer/pull/107) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🎉 Merged PR [#106](https://github.com/Milo123459/Spencer/pull/106) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. ❗️ Closed issue [#102](https://github.com/Milo123459/Spencer/issues/102) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#102](https://github.com/Milo123459/Spencer/issues/102) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 🗣 Commented on [#1440](https://github.com/minbrowser/min/issues/1440) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🎉 Merged PR [#113](https://github.com/Milo123459/Spencer/pull/113) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 💪 Opened PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🎉 Merged PR [#107](https://github.com/Milo123459/Spencer/pull/107) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🎉 Merged PR [#106](https://github.com/Milo123459/Spencer/pull/106) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
