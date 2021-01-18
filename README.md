@@ -5,10 +5,8 @@
 ## I enjoy coding random things and contributing to open source projects
 
 ### My current projects:
-* [PopCorn-API](https://popcorn.tnt-man-inc.com)
 * [ImageApi](https://imageapi.fionn.live)
 * [ImageAPI.JS](https://npm.im/imageapi.js)
-* [VStore](https://npm.im/vstorejs)
 * [Spencer](https://github.com/Milo123459/Spencer)
 
 ### Random things about me:
