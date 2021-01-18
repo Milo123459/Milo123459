@@ -83,11 +83,11 @@ JavaScript 🕓 6m    ▎░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/sujalgoel/reddit-image/issues/1) in [sujalgoel/reddit-image](https://github.com/sujalgoel/reddit-image)
-2. 🗣 Commented on [#1437](https://github.com/minbrowser/min/issues/1437) in [minbrowser/min](https://github.com/minbrowser/min)
-3. ❗️ Closed issue [#1441](https://github.com/minbrowser/min/issues/1441) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1441](https://github.com/minbrowser/min/issues/1441) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1440](https://github.com/minbrowser/min/issues/1440) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Closed issue [#1440](https://github.com/minbrowser/min/issues/1440) in [minbrowser/min](https://github.com/minbrowser/min)
+2. ❗️ Closed issue [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Opened issue [#1](https://github.com/sujalgoel/reddit-image/issues/1) in [sujalgoel/reddit-image](https://github.com/sujalgoel/reddit-image)
+5. 🗣 Commented on [#1437](https://github.com/minbrowser/min/issues/1437) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
