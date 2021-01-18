@@ -82,11 +82,11 @@ JavaScript 🕓 6m    ▎░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1440](https://github.com/minbrowser/min/issues/1440) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❗️ Closed issue [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1381](https://github.com/minbrowser/min/issues/1381) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Opened issue [#1](https://github.com/sujalgoel/reddit-image/issues/1) in [sujalgoel/reddit-image](https://github.com/sujalgoel/reddit-image)
-5. 🗣 Commented on [#1437](https://github.com/minbrowser/min/issues/1437) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🎉 Merged PR [#7](https://github.com/Milo123459/spencer-web/pull/7) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+2. 🎉 Merged PR [#6](https://github.com/Milo123459/spencer-web/pull/6) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+3. 🎉 Merged PR [#5](https://github.com/Milo123459/spencer-web/pull/5) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+4. 🎉 Merged PR [#4](https://github.com/Milo123459/spencer-web/pull/4) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+5. 🎉 Merged PR [#3](https://github.com/Milo123459/spencer-web/pull/3) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
 <!--END_SECTION:activity-->
 </details>
 
