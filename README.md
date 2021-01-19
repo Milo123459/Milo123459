@@ -83,11 +83,11 @@ JSON       🕓 36m   █▊░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/vueuse/head/issues/12) in [vueuse/head](https://github.com/vueuse/head)
-2. 🗣 Commented on [#5](https://github.com/gka/git-go/issues/5) in [gka/git-go](https://github.com/gka/git-go)
-3. 💪 Opened PR [#5](https://github.com/gka/git-go/pull/5) in [gka/git-go](https://github.com/gka/git-go)
-4. 🎉 Merged PR [#15](https://github.com/Milo123459/spencer-web/pull/15) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
-5. 🎉 Merged PR [#14](https://github.com/Milo123459/spencer-web/pull/14) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+1. 🎉 Merged PR [#115](https://github.com/Milo123459/Spencer/pull/115) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#12](https://github.com/vueuse/head/issues/12) in [vueuse/head](https://github.com/vueuse/head)
+4. ❗️ Opened issue [#12](https://github.com/vueuse/head/issues/12) in [vueuse/head](https://github.com/vueuse/head)
+5. 🗣 Commented on [#5](https://github.com/gka/git-go/issues/5) in [gka/git-go](https://github.com/gka/git-go)
 <!--END_SECTION:activity-->
 </details>
 
