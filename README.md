@@ -82,11 +82,11 @@ JavaScript 🕓 6m    ▎░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Milo123459/spencer-web/pull/15) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
-2. 🎉 Merged PR [#14](https://github.com/Milo123459/spencer-web/pull/14) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
-3. 🎉 Merged PR [#13](https://github.com/Milo123459/spencer-web/pull/13) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
-4. 🎉 Merged PR [#10](https://github.com/Milo123459/spencer-web/pull/10) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
-5. 🎉 Merged PR [#9](https://github.com/Milo123459/spencer-web/pull/9) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+1. 🗣 Commented on [#5](https://github.com/gka/git-go/issues/5) in [gka/git-go](https://github.com/gka/git-go)
+2. 💪 Opened PR [#5](https://github.com/gka/git-go/pull/5) in [gka/git-go](https://github.com/gka/git-go)
+3. 🎉 Merged PR [#15](https://github.com/Milo123459/spencer-web/pull/15) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+4. 🎉 Merged PR [#14](https://github.com/Milo123459/spencer-web/pull/14) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+5. 🎉 Merged PR [#13](https://github.com/Milo123459/spencer-web/pull/13) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
 <!--END_SECTION:activity-->
 </details>
 
