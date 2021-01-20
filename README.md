@@ -83,11 +83,11 @@ JSON       🕓 36m   █▊░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/Milo123459/Spencer/pull/117) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🎉 Merged PR [#115](https://github.com/Milo123459/Spencer/pull/115) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#12](https://github.com/vueuse/head/issues/12) in [vueuse/head](https://github.com/vueuse/head)
-5. ❗️ Opened issue [#12](https://github.com/vueuse/head/issues/12) in [vueuse/head](https://github.com/vueuse/head)
+1. 🗣 Commented on [#121](https://github.com/Milo123459/Spencer/issues/121) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. ❌ Closed PR [#118](https://github.com/Milo123459/Spencer/pull/118) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+3. 🗣 Commented on [#118](https://github.com/Milo123459/Spencer/issues/118) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+4. 🗣 Commented on [#17](https://github.com/Milo123459/spencer-web/issues/17) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
+5. 🎉 Merged PR [#16](https://github.com/Milo123459/spencer-web/pull/16) in [Milo123459/spencer-web](https://github.com/Milo123459/spencer-web)
 <!--END_SECTION:activity-->
 </details>
 
