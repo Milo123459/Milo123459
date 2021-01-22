@@ -83,8 +83,8 @@ Markdown   🕓 1h6m  █▋░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/Milo123459/Spencer/pull/125) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
+2. 🎉 Merged PR [#125](https://github.com/Milo123459/Spencer/pull/125) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 4. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
