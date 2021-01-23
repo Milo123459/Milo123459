@@ -85,9 +85,9 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 2. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🎉 Merged PR [#1](https://github.com/SolarFile/SolarFile/pull/1) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 4. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 💪 Opened PR [#2](https://github.com/Sparker-99/string-progressbar/pull/2) in [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar)
+5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
