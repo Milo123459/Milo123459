@@ -84,10 +84,10 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 💪 Opened PR [#2](https://github.com/Sparker-99/string-progressbar/pull/2) in [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar)
-3. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-4. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-5. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
+2. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🎉 Merged PR [#1](https://github.com/SolarFile/SolarFile/pull/1) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+4. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 💪 Opened PR [#2](https://github.com/Sparker-99/string-progressbar/pull/2) in [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar)
 <!--END_SECTION:activity-->
 </details>
 
