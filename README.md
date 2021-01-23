@@ -83,9 +83,9 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
-2. 🎉 Merged PR [#125](https://github.com/Milo123459/Spencer/pull/125) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+2. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
+3. 🎉 Merged PR [#125](https://github.com/Milo123459/Spencer/pull/125) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 4. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
