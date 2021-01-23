@@ -83,11 +83,11 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-2. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-3. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
-4. 🎉 Merged PR [#125](https://github.com/Milo123459/Spencer/pull/125) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 💪 Opened PR [#2](https://github.com/Sparker-99/string-progressbar/pull/2) in [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar)
+3. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+4. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+5. 🗣 Commented on [#2093](https://github.com/npm/cli/issues/2093) in [npm/cli](https://github.com/npm/cli)
 <!--END_SECTION:activity-->
 </details>
 
