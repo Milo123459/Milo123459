@@ -87,7 +87,7 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 2. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 3. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 4. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-5. ❗️ Opened issue [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+5. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 <!--END_SECTION:activity-->
 </details>
 
