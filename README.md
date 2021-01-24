@@ -84,10 +84,10 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-2. ❗️ Opened issue [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-3. 🗣 Commented on [#3365](https://github.com/Eugeny/terminus/issues/3365) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
-4. 💪 Opened PR [#3365](https://github.com/Eugeny/terminus/pull/3365) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
-5. 💪 Opened PR [#1102](https://github.com/jiahaog/nativefier/pull/1102) in [jiahaog/nativefier](https://github.com/jiahaog/nativefier)
+2. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+3. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+4. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+5. ❗️ Opened issue [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 <!--END_SECTION:activity-->
 </details>
 
