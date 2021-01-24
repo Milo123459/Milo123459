@@ -83,9 +83,9 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1102](https://github.com/jiahaog/nativefier/pull/1102) in [jiahaog/nativefier](https://github.com/jiahaog/nativefier)
-2. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#3365](https://github.com/Eugeny/terminus/issues/3365) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
+2. 💪 Opened PR [#3365](https://github.com/Eugeny/terminus/pull/3365) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
+3. 💪 Opened PR [#1102](https://github.com/jiahaog/nativefier/pull/1102) in [jiahaog/nativefier](https://github.com/jiahaog/nativefier)
 4. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
