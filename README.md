@@ -83,11 +83,11 @@ Markdown   🕓 1h2m   █▌░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-2. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-3. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-4. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-5. 🗣 Commented on [#22](https://github.com/Deivu/Shoukaku/issues/22) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+1. 🎉 Merged PR [#2](https://github.com/SolarFile/SolarFile/pull/2) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+2. 🗣 Commented on [#2](https://github.com/SolarFile/SolarFile/issues/2) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+3. 🎉 Merged PR [#1](https://github.com/SolarFile/SolarFile/pull/1) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+4. 🗣 Commented on [#2](https://github.com/SolarFile/SolarFile/issues/2) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
+5. 🗣 Commented on [#1](https://github.com/SolarFile/SolarFile/issues/1) in [SolarFile/SolarFile](https://github.com/SolarFile/SolarFile)
 <!--END_SECTION:activity-->
 </details>
 
