@@ -83,11 +83,11 @@ JavaScript 🕓 1h23m  █▉░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-2. 🗣 Commented on [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-3. ❗️ Opened issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-4. ❗️ Opened issue [#59](https://github.com/tauri-apps/tauri-action/issues/59) in [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action)
-5. 💪 Opened PR [#2586](https://github.com/rust-lang/book/pull/2586) in [rust-lang/book](https://github.com/rust-lang/book)
+1. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+2. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+3. ❗️ Closed issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+4. 🗣 Commented on [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+5. ❗️ Opened issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 <!--END_SECTION:activity-->
 </details>
 
