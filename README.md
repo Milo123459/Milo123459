@@ -83,11 +83,11 @@ JavaScript 🕓 1h23m  █▉░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2586](https://github.com/rust-lang/book/issues/2586) in [rust-lang/book](https://github.com/rust-lang/book)
-2. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+1. 💪 Opened PR [#16](https://github.com/Katrixerse/Corius/pull/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
+2. 🗣 Commented on [#2586](https://github.com/rust-lang/book/issues/2586) in [rust-lang/book](https://github.com/rust-lang/book)
 3. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-4. ❗️ Closed issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-5. 🗣 Commented on [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+4. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+5. ❗️ Closed issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
 <!--END_SECTION:activity-->
 </details>
 
