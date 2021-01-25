@@ -83,11 +83,11 @@ JavaScript 🕓 1h23m  █▉░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#347](https://github.com/Frederikam/Lavalink/issues/347) in [Frederikam/Lavalink](https://github.com/Frederikam/Lavalink)
-2. 🎉 Merged PR [#127](https://github.com/Milo123459/Spencer/pull/127) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 💪 Opened PR [#3](https://github.com/Sparker-99/string-progressbar/pull/3) in [Sparker-99/string-progressbar](https://github.com/Sparker-99/string-progressbar)
-4. 🎉 Merged PR [#126](https://github.com/Milo123459/Spencer/pull/126) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#1](https://github.com/sujalgoel/reddit-image/issues/1) in [sujalgoel/reddit-image](https://github.com/sujalgoel/reddit-image)
+1. ❗️ Closed issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+2. 🗣 Commented on [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+3. ❗️ Opened issue [#23](https://github.com/Deivu/Shoukaku/issues/23) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+4. ❗️ Opened issue [#59](https://github.com/tauri-apps/tauri-action/issues/59) in [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action)
+5. 💪 Opened PR [#2586](https://github.com/rust-lang/book/pull/2586) in [rust-lang/book](https://github.com/rust-lang/book)
 <!--END_SECTION:activity-->
 </details>
 
