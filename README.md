@@ -83,11 +83,11 @@ Markdown   🕓 1h17m  █▍░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/sujalgoel/reddit-image/issues/1) in [sujalgoel/reddit-image](https://github.com/sujalgoel/reddit-image)
-2. 💪 Opened PR [#16](https://github.com/Katrixerse/Corius/pull/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
-3. 🗣 Commented on [#2586](https://github.com/rust-lang/book/issues/2586) in [rust-lang/book](https://github.com/rust-lang/book)
-4. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
-5. 🗣 Commented on [#19](https://github.com/Deivu/Shoukaku/issues/19) in [Deivu/Shoukaku](https://github.com/Deivu/Shoukaku)
+1. 💪 Opened PR [#4](https://github.com/Cy1der/guineabot-ts/pull/4) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+2. 💪 Opened PR [#3](https://github.com/Cy1der/guineabot-ts/pull/3) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+3. 🎉 Merged PR [#1](https://github.com/Milo123459/guineabot-ts/pull/1) in [Milo123459/guineabot-ts](https://github.com/Milo123459/guineabot-ts)
+4. 🗣 Commented on [#2](https://github.com/Cy1der/guineabot-ts/issues/2) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+5. 🗣 Commented on [#2](https://github.com/Cy1der/guineabot-ts/issues/2) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
 <!--END_SECTION:activity-->
 </details>
 
