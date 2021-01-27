@@ -83,10 +83,10 @@ Markdown   🕓 1h17m  █▍░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Cy1der/guineabot-ts/pull/4) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
-2. 💪 Opened PR [#3](https://github.com/Cy1der/guineabot-ts/pull/3) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
-3. 🎉 Merged PR [#1](https://github.com/Milo123459/guineabot-ts/pull/1) in [Milo123459/guineabot-ts](https://github.com/Milo123459/guineabot-ts)
-4. 🗣 Commented on [#2](https://github.com/Cy1der/guineabot-ts/issues/2) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+1. 💪 Opened PR [#1471](https://github.com/minbrowser/min/pull/1471) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 💪 Opened PR [#4](https://github.com/Cy1der/guineabot-ts/pull/4) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+3. 💪 Opened PR [#3](https://github.com/Cy1der/guineabot-ts/pull/3) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
+4. 🎉 Merged PR [#1](https://github.com/Milo123459/guineabot-ts/pull/1) in [Milo123459/guineabot-ts](https://github.com/Milo123459/guineabot-ts)
 5. 🗣 Commented on [#2](https://github.com/Cy1der/guineabot-ts/issues/2) in [Cy1der/guineabot-ts](https://github.com/Cy1der/guineabot-ts)
 <!--END_SECTION:activity-->
 </details>
