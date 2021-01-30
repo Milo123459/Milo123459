@@ -83,11 +83,11 @@ JavaScript 🕓 56m    █▏░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37109](https://github.com/nodejs/node/issues/37109) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#16](https://github.com/Katrixerse/Corius/issues/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
+1. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
+2. ❗️ Opened issue [#37109](https://github.com/nodejs/node/issues/37109) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#16](https://github.com/Katrixerse/Corius/issues/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
-4. 💪 Opened PR [#5456](https://github.com/js-org/js.org/pull/5456) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#16](https://github.com/Katrixerse/Corius/issues/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
+4. 🗣 Commented on [#16](https://github.com/Katrixerse/Corius/issues/16) in [Katrixerse/Corius](https://github.com/Katrixerse/Corius)
+5. 💪 Opened PR [#5456](https://github.com/js-org/js.org/pull/5456) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 </details>
 
