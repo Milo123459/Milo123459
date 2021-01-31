@@ -87,7 +87,7 @@ Other      🕓 55m    █▏░░░░░░░░░░░░░░░░░
 2. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
 3. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
 4. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
-5. ❗️ Opened issue [#37109](https://github.com/nodejs/node/issues/37109) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
