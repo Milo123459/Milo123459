@@ -50,11 +50,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [How to create a Discord.JS bot using TypeScript! | Suggestion system](https://www.youtube.com/watch?v=N7pCt2aUJQs)
 - [Le PodCast | Episode 1](https://www.youtube.com/watch?v=dKTNWKvt6gs)
 - [How to create a Discord.JS bot with TypeScript! | Economy System](https://www.youtube.com/watch?v=HPQ1FQryYBc)
 - [How to create a Discord.JS bot with TypeScript! | Prefix Command](https://www.youtube.com/watch?v=poW0qS0e6Kk)
 - [How to create a Discord.JS bot with TypeScript! | Setting up a DB](https://www.youtube.com/watch?v=53KL-8w6ZRg)
-- [How to create a Discord.JS bot with TypeScript! | Converting JS commands to TS](https://www.youtube.com/watch?v=_mEBfQNDpxI)
 <!-- YOUTUBE:END -->
 
 </details>
