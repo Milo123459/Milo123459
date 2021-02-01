@@ -83,11 +83,11 @@ JavaScript 🕓 43m    █░░░░░░░░░░░░░░░░░░
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-2. 🗣 Commented on [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-3. 🗣 Commented on [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-4. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1476](https://github.com/minbrowser/min/issues/1476) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Closed issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
+2. 🗣 Commented on [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
+3. ❗️ Opened issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
+4. ❗️ Closed issue [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+5. 🗣 Commented on [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
 <!--END_SECTION:activity-->
 </details>
 
