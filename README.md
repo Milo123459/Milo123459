@@ -83,11 +83,11 @@ Markdown   🕓 18m   ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
-2. ❌ Closed PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❗️ Closed issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
-5. 🗣 Commented on [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
+1. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
+2. 🎉 Merged PR [#1](https://github.com/Milo123459/vine/pull/1) in [Milo123459/vine](https://github.com/Milo123459/vine)
+3. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❌ Closed PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
