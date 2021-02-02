@@ -83,11 +83,11 @@ Markdown   🕓 18m   ▋░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
-2. 🗣 Commented on [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
-3. ❗️ Opened issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
-4. ❗️ Closed issue [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 🗣 Commented on [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+1. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
+2. ❌ Closed PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+4. ❗️ Closed issue [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
+5. 🗣 Commented on [#2](https://github.com/Milo123459/upptime/issues/2) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
 <!--END_SECTION:activity-->
 </details>
 
