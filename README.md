@@ -83,11 +83,11 @@ Markdown   🕓 18m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
-2. 🎉 Merged PR [#1](https://github.com/Milo123459/vine/pull/1) in [Milo123459/vine](https://github.com/Milo123459/vine)
-3. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
-4. ❌ Closed PR [#1438](https://github.com/minbrowser/min/pull/1438) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1438](https://github.com/minbrowser/min/issues/1438) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🎉 Merged PR [#3](https://github.com/Milo123459/vine/pull/3) in [Milo123459/vine](https://github.com/Milo123459/vine)
+2. ❗️ Opened issue [#2](https://github.com/ehAsuna/aiz-basic-plus/issues/2) in [ehAsuna/aiz-basic-plus](https://github.com/ehAsuna/aiz-basic-plus)
+3. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
+4. 🎉 Merged PR [#1](https://github.com/Milo123459/vine/pull/1) in [Milo123459/vine](https://github.com/Milo123459/vine)
+5. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
