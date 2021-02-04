@@ -83,11 +83,11 @@ CSS        🕓 11m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/lowlighter/metrics/pull/100) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-2. ❗️ Opened issue [#99](https://github.com/lowlighter/metrics/issues/99) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-3. ❗️ Opened issue [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. ❗️ Closed issue [#97](https://github.com/lowlighter/metrics/issues/97) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-5. ❗️ Opened issue [#97](https://github.com/lowlighter/metrics/issues/97) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+1. 🗣 Commented on [#99](https://github.com/lowlighter/metrics/issues/99) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. 🗣 Commented on [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. 🗣 Commented on [#96](https://github.com/lowlighter/metrics/issues/96) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+4. 💪 Opened PR [#100](https://github.com/lowlighter/metrics/pull/100) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+5. ❗️ Opened issue [#99](https://github.com/lowlighter/metrics/issues/99) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--END_SECTION:activity-->
 </details>
 
