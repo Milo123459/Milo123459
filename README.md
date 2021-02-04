@@ -1,8 +1,8 @@
- ### Hey, I'm Salvage, I like to code things 
+ ### Hey, I'm Milo (aka Salvage), I like to code things 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Milo123459)
 
-## I enjoy coding random things and contributing to open source projects
+### I enjoy coding random things and contributing to open source projects
 
 ### My current projects:
 * [ImageApi](https://imageapi.fionn.live)
