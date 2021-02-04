@@ -83,11 +83,11 @@ CSS        🕓 11m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#97](https://github.com/lowlighter/metrics/issues/97) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-2. ❗️ Opened issue [#96](https://github.com/lowlighter/metrics/issues/96) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-3. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 🗣 Commented on [#1009](https://github.com/minbrowser/min/issues/1009) in [minbrowser/min](https://github.com/minbrowser/min)
+1. ❗️ Opened issue [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. ❗️ Closed issue [#97](https://github.com/lowlighter/metrics/issues/97) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. ❗️ Opened issue [#97](https://github.com/lowlighter/metrics/issues/97) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+4. ❗️ Opened issue [#96](https://github.com/lowlighter/metrics/issues/96) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+5. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
