@@ -83,11 +83,11 @@ CSS        🕓 11m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Milo123459/vine/pull/3) in [Milo123459/vine](https://github.com/Milo123459/vine)
-2. ❗️ Opened issue [#2](https://github.com/ehAsuna/aiz-basic-plus/issues/2) in [ehAsuna/aiz-basic-plus](https://github.com/ehAsuna/aiz-basic-plus)
-3. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
-4. 🎉 Merged PR [#1](https://github.com/Milo123459/vine/pull/1) in [Milo123459/vine](https://github.com/Milo123459/vine)
-5. 💪 Opened PR [#1484](https://github.com/minbrowser/min/pull/1484) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1486](https://github.com/minbrowser/min/issues/1486) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🎉 Merged PR [#3](https://github.com/Milo123459/vine/pull/3) in [Milo123459/vine](https://github.com/Milo123459/vine)
+4. ❗️ Opened issue [#2](https://github.com/ehAsuna/aiz-basic-plus/issues/2) in [ehAsuna/aiz-basic-plus](https://github.com/ehAsuna/aiz-basic-plus)
+5. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
 <!--END_SECTION:activity-->
 </details>
 
