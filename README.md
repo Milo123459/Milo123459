@@ -83,11 +83,11 @@ CSS        🕓 11m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1455](https://github.com/minbrowser/min/issues/1455) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
-4. 🗣 Commented on [#1455](https://github.com/minbrowser/min/issues/1455) in [minbrowser/min](https://github.com/minbrowser/min)
-5. 💪 Opened PR [#1488](https://github.com/minbrowser/min/pull/1488) in [minbrowser/min](https://github.com/minbrowser/min)
+1. 🗣 Commented on [#1009](https://github.com/minbrowser/min/issues/1009) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1455](https://github.com/minbrowser/min/issues/1455) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1455](https://github.com/minbrowser/min/issues/1455) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
