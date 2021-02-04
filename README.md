@@ -83,11 +83,11 @@ CSS        🕓 11m   ▊░░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
-2. 🗣 Commented on [#1486](https://github.com/minbrowser/min/issues/1486) in [minbrowser/min](https://github.com/minbrowser/min)
-3. 🎉 Merged PR [#3](https://github.com/Milo123459/vine/pull/3) in [Milo123459/vine](https://github.com/Milo123459/vine)
-4. ❗️ Opened issue [#2](https://github.com/ehAsuna/aiz-basic-plus/issues/2) in [ehAsuna/aiz-basic-plus](https://github.com/ehAsuna/aiz-basic-plus)
-5. 🎉 Merged PR [#2](https://github.com/Milo123459/vine/pull/2) in [Milo123459/vine](https://github.com/Milo123459/vine)
+1. 🗣 Commented on [#1455](https://github.com/minbrowser/min/issues/1455) in [minbrowser/min](https://github.com/minbrowser/min)
+2. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
+3. 🗣 Commented on [#1480](https://github.com/minbrowser/min/issues/1480) in [minbrowser/min](https://github.com/minbrowser/min)
+4. 🗣 Commented on [#1485](https://github.com/minbrowser/min/issues/1485) in [minbrowser/min](https://github.com/minbrowser/min)
+5. 🗣 Commented on [#1486](https://github.com/minbrowser/min/issues/1486) in [minbrowser/min](https://github.com/minbrowser/min)
 <!--END_SECTION:activity-->
 </details>
 
