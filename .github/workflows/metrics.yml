@@ -32,7 +32,7 @@ jobs:
           plugin_isocalendar: yes  
           plugin_isocalendar_duration: full-year  
           plugin_activity: yes
-          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_limit: 10    # Limit to 5 events
           plugin_activity_days: 0   # Keep only events from last 14 days (can be set to 0 to disable limitations)
           plugin_activity_filter: all # Show all events (use table above to filter events types):  
           plugin_people: yes
