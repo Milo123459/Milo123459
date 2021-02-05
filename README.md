@@ -1,4 +1,6 @@
- ### Hey, I'm Milo (aka Salvage), I like to code things 
+### Hey, I'm Milo (aka Salvage), I like to code things 
+
+![](https://komarev.com/ghpvc/?username=Milo123459)
 
 ### I enjoy coding random things and contributing to open source projects
 
@@ -99,7 +101,6 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/Milo123459/Milo123459">
 <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
 </a>
-![Raw Views](https://komarev.com/ghpvc/?username=Milo123459)
 </details>
 
 <details>
