@@ -83,11 +83,11 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 <summary><b>:zap: My recent GitHub activity</b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Milo123459/upptime/pull/1) in [Milo123459/upptime](https://github.com/Milo123459/upptime)
-2. 🗣 Commented on [#102](https://github.com/lowlighter/metrics/issues/102) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-3. ❌ Closed PR [#100](https://github.com/lowlighter/metrics/pull/100) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. 🗣 Commented on [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-5. ❗️ Opened issue [#101](https://github.com/lowlighter/metrics/issues/101) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+1. ❌ Closed PR [#103](https://github.com/lowlighter/metrics/pull/103) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. 🗣 Commented on [#103](https://github.com/lowlighter/metrics/issues/103) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. 💪 Opened PR [#103](https://github.com/lowlighter/metrics/pull/103) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+4. 🎉 Merged PR [#1](https://github.com/Milo123459/metrics/pull/1) in [Milo123459/metrics](https://github.com/Milo123459/metrics)
+5. 🗣 Commented on [#99](https://github.com/lowlighter/metrics/issues/99) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--END_SECTION:activity-->
 </details>
 
