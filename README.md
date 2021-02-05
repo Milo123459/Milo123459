@@ -58,7 +58,6 @@
 <!-- YOUTUBE:END -->
 
 </details>
-### :zap: My stats
 <details>
 <summary><u><b>:zap: My stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
