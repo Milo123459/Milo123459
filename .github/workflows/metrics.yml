@@ -46,3 +46,7 @@ jobs:
           plugin_music_limit: 4
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_played_at: yes
+          plugin_wakatime: yes          
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
+          plugin_wakatime_days: 7 
+          plugin_wakatime_limit: 4
