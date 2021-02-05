@@ -99,6 +99,7 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/Milo123459/Milo123459">
 <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
 </a>
+![Raw Views](https://komarev.com/ghpvc/?username=Milo123459)
 </details>
 
 <details>
@@ -127,5 +128,3 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 </details>
 
 *I <3 TypeScript*
-[](https://komarev.com/ghpvc/?username=Milo123459)
-[](https://imageapi.fionn.live/reddit/memeeeeeee)
