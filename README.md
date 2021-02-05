@@ -127,6 +127,5 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 </details>
 
 *I <3 TypeScript*
-<a href="https://github.com/Milo123459" >
-<img src="https://komarev.com/ghpvc/?username=Milo123459" hidden = true/>
-</a>
+[](https://komarev.com/ghpvc/?username=Milo123459)
+
