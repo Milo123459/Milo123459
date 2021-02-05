@@ -127,5 +127,5 @@ Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░�
 </details>
 
 *I <3 TypeScript*
-[](https://komarev.com/ghpvc/?username=Milo123459)
+[h](https://komarev.com/ghpvc/?username=Milo123459)
 
