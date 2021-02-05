@@ -58,42 +58,9 @@
 <!-- YOUTUBE:END -->
 
 </details>
-
-<details>
-<summary><b>:zap: Coding activity</b></summary>
-
-<!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-TypeScript 🕓 2h43m ███████████▋░░░░░░░░░░░░░░░░ 41.8%
-JavaScript 🕓 1h14m █████▎░░░░░░░░░░░░░░░░░░░░░░ 19.0%
-Vue.js     🕓 1h6m  ████▊░░░░░░░░░░░░░░░░░░░░░░░ 17.0%
-JSON       🕓 25m   █▊░░░░░░░░░░░░░░░░░░░░░░░░░░  6.6%
-Other      🕓 19m   █▍░░░░░░░░░░░░░░░░░░░░░░░░░░  5.1%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salvage_dev&theme=radical" />
-</a>
-</details>
-
-<details>
-<summary><b>:zap: My recent GitHub activity</b></summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-2. 🗣 Commented on [#104](https://github.com/lowlighter/metrics/issues/104) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-3. 🗣 Commented on [#104](https://github.com/lowlighter/metrics/issues/104) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. 🗣 Commented on [#101](https://github.com/lowlighter/metrics/issues/101) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-5. 🗣 Commented on [#98](https://github.com/lowlighter/metrics/issues/98) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-<!--END_SECTION:activity-->
-</details>
-
 ### :zap: My stats
 <details>
-<summary><u><b>:zap: My GitHub stats</b></u></summary>
+<summary><u><b>:zap: My stats</b></u></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo123459&show_icons=true&include_all_commits=true&theme=radical" alt="Milo's github stats" />
 </a>
