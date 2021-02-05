@@ -45,3 +45,4 @@ jobs:
           plugin_music_mode: recent
           plugin_music_limit: 4
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_played_at: yes
