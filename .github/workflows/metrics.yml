@@ -14,7 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_padding: 8%, 10%
           plugin_languages: yes
@@ -33,9 +32,9 @@ jobs:
           plugin_isocalendar: yes  
           plugin_isocalendar_duration: full-year  
           plugin_activity: yes
-          plugin_activity_limit: 10    # Limit to 5 events
-          plugin_activity_days: 0   # Keep only events from last 14 days (can be set to 0 to disable limitations)
-          plugin_activity_filter: all # Show all events (use table above to filter events types):  
+          plugin_activity_limit: 10
+          plugin_activity_days: 0
+          plugin_activity_filter: all  
           plugin_people: yes
           plugin_people_types: followers, sponsoring 
           plugin_people_limit: 28
@@ -48,6 +47,9 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_played_at: yes
           plugin_wakatime: yes          
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}      # Required
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7 
           plugin_wakatime_limit: 4
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_projects_descriptions: yes
