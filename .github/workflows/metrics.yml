@@ -50,6 +50,3 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7 
           plugin_wakatime_limit: 4
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_projects_descriptions: yes
