@@ -32,7 +32,7 @@ jobs:
           plugin_isocalendar: yes  
           plugin_isocalendar_duration: full-year  
           plugin_activity: yes
-          plugin_activity_limit: 10
+          plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all  
           plugin_people: yes
@@ -50,3 +50,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7 
           plugin_wakatime_limit: 4
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_limit: 5
+          plugin_tweets_user: .user.twitter
