@@ -24,7 +24,7 @@
 **Favourite DB** MongoDB
 
 <details>
-<summary><b>Libraries / Frameworks / Languagess I know</b></summary>
+<summary><b>Libraries / Frameworks / Languages I know</b></summary>
 
 * ExpressJS
 * NodeJS
