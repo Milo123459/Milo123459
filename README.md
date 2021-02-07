@@ -24,7 +24,7 @@
 **Favourite DB** MongoDB
 
 <details>
-<summary><b>Libraries / Frameworks / Langugaes I know</b></summary>
+<summary><b>Libraries / Frameworks / Languagess I know</b></summary>
 
 * ExpressJS
 * NodeJS
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary><b>Libraries / Frameworks / Langugaes I want to know</b></summary>
+<summary><b>Libraries / Frameworks / Languages I want to know</b></summary>
 
 * Rust
 * Gatsby
