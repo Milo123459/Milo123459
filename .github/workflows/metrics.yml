@@ -36,7 +36,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: all  
           plugin_people: yes
-          plugin_people_types: followers, sponsoring 
+          plugin_people_types: followers, sponsors 
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_identicons: no
