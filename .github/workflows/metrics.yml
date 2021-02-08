@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
@@ -54,3 +52,4 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_limit: 5
           plugin_tweets_user: .user.twitter
+  
