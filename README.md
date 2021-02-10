@@ -50,11 +50,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [How to make a Discord.JS bot with TypeScript! | Rob & passive command](https://www.youtube.com/watch?v=_NiwNmKVjes)
 - [Le PodCast bloopers](https://www.youtube.com/watch?v=sZlO2y-kfjU)
 - [How to create a Discord.JS bot using TypeScript! | Suggestion system](https://www.youtube.com/watch?v=N7pCt2aUJQs)
 - [Le PodCast | Episode 1](https://www.youtube.com/watch?v=dKTNWKvt6gs)
 - [How to create a Discord.JS bot with TypeScript! | Economy System](https://www.youtube.com/watch?v=HPQ1FQryYBc)
-- [How to create a Discord.JS bot with TypeScript! | Prefix Command](https://www.youtube.com/watch?v=poW0qS0e6Kk)
 <!-- YOUTUBE:END -->
 
 </details>
