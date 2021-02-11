@@ -80,3 +80,5 @@
 </details>
 
 *I <3 TypeScript*
+
+[Stalk me](https://gitstalk.netlify.app/Milo123459)
