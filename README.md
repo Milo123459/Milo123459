@@ -5,10 +5,11 @@
 ### I enjoy coding random things and contributing to open source projects
 
 ### My current projects:
+* [Glitter](https://github.com/Milo123459/Glitter)
 * [ImageApi](https://imageapi.fionn.live)
-* [ImageAPI.JS](https://npm.im/imageapi.js)
+* [ImageAPI.JS](https://npmjs.com/package/imageapi.js)
 * [Spencer](https://github.com/Milo123459/Spencer)
-* [TYVN](https://npm.im/tyvn)
+* [TYVN](https://npmjs.com/package/tyvn)
 
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
