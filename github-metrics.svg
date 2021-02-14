@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2749" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2765" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -772,11 +772,11 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-          112 Issues opened
+          113 Issues opened
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-          382 issue comments
+          383 issue comments
         </div>
       </section>
     
@@ -840,7 +840,7 @@
             <div class="field ">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
               
-                1.93m added, 759k removed
+                2.11m added, 903k removed
               
             </div>
         
@@ -886,13 +886,13 @@
             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
           </mask>
           <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-          <rect mask="url(#issues-bar)" x="0" y="0" width="209.52380952380952" height="8" fill="#d73a49"/>
-          <rect mask="url(#issues-bar)" x="209.52380952380952" y="0" width="10.476190476190489" height="8" fill="#28a745"/>
+          <rect mask="url(#issues-bar)" x="0" y="0" width="209.6875" height="8" fill="#d73a49"/>
+          <rect mask="url(#issues-bar)" x="209.6875" y="0" width="10.3125" height="8" fill="#28a745"/>
         </svg>
         <div class="field horizontal fill-width">
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#d73a49" fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 0110.65-5.003.75.75 0 00.959-1.153 8 8 0 102.592 8.33.75.75 0 10-1.444-.407A6.5 6.5 0 011.5 8zM8 12a1 1 0 100-2 1 1 0 000 2zm0-8a.75.75 0 01.75.75v3.5a.75.75 0 11-1.5 0v-3.5A.75.75 0 018 4zm4.78 4.28l3-3a.75.75 0 00-1.06-1.06l-2.47 2.47-.97-.97a.749.749 0 10-1.06 1.06l1.5 1.5a.75.75 0 001.06 0z"/></svg>
-            <span class="no-wrap">60 Closed</span>
+            <span class="no-wrap">61 Closed</span>
           </div>
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
@@ -1108,14 +1108,14 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               01
             </div>
           
             <div class="entry">
-              <span class="value">12</span>
-              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               02
             </div>
           
@@ -1210,8 +1210,8 @@
             </div>
           
             <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               18
             </div>
           
@@ -1256,7 +1256,7 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">120</span>
+                <span class="value">118</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
@@ -1307,25 +1307,25 @@
             
               <div class="entry">
                 <span class="name">HTML</span>
-                <div class="bar" style="width: 41.544%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                <span class="value">52%</span>
-              </div>
-            
-              <div class="entry">
-                <span class="name">CSS</span>
-                <div class="bar" style="width: 19.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">24%</span>
+                <div class="bar" style="width: 33.480000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">42%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Rust</span>
-                <div class="bar" style="width: 18.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">23%</span>
+                <div class="bar" style="width: 30.28%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">38%</span>
+              </div>
+            
+              <div class="entry">
+                <span class="name">CSS</span>
+                <div class="bar" style="width: 15.448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">19%</span>
               </div>
             
               <div class="entry">
                 <span class="name">TypeScript</span>
-                <div class="bar" style="width: 0.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 0.7919999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">1%</span>
               </div>
             
@@ -1468,7 +1468,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/></svg>
-            ~5.56 commits per day
+            ~5.57 commits per day
           </div>
         </section>
       
@@ -3308,10 +3308,10 @@
                       <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.907563025210084 0,1.907563025210084 z"/>
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.907563025210084 1.7,2.907563025210084 z"/>
                     </g></g><g transform="translate(88.39999999999999, 52)">
-                    <g transform="translate(0, 5.142857142857143)">
+                    <g transform="translate(0, 5.092436974789916)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.907563025210084 0,1.907563025210084 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.907563025210084 1.7,2.907563025210084 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -3811,12 +3811,12 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#0562abf</div>
+                        <div class="sha">#adb3262</div>
                         <div class="message">:pencil: Update summary in README [skip ci] [upptime]</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#12c34b2</div>
+                        <div class="sha">#9d2e7fd</div>
                         <div class="message">:card_file_box: Update status summary [skip ci] [upptime]</div>
                       </div>
                     
@@ -3849,8 +3849,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#e48cec4</div>
-                        <div class="message">🟥 ImageAPI is down (0 in 0 ms) [skip ci] [upptime]</div>
+                        <div class="sha">#b0f8185</div>
+                        <div class="message">🟥 ImageUploader is down (0 in 0 ms) [skip ci] [upptime]</div>
                       </div>
                     
                   </div>
@@ -3870,7 +3870,7 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    Opened <div class="issue">#62 🛑 ImageAPI is down</div>
+                    Opened <div class="issue">#64 🛑 ImageUploader is down</div>
                   </div>
                   <div class="details">
                     <div>opened  in <div class="repo">Milo123459/upptime</div></div>
@@ -3907,12 +3907,12 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#2bad414</div>
+                        <div class="sha">#c96454a</div>
                         <div class="message">:pencil: Update summary in README [skip ci] [upptime]</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#9b3d1c4</div>
+                        <div class="sha">#16b0cf4</div>
                         <div class="message">:card_file_box: Update status summary [skip ci] [upptime]</div>
                       </div>
                     
@@ -3937,7 +3937,7 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">Milo123459/upptime</div>
+                    Pushed 2 commits in <div class="repo">Milo123459/upptime</div>
                   </div>
                   <div class="details">
                     
@@ -3945,8 +3945,13 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#76bc346</div>
-                        <div class="message">🟩 ImageAPI is up (200 in 120 ms) [skip ci] [upptime]</div>
+                        <div class="sha">#5ec3424</div>
+                        <div class="message">🟩 ImageAPI is up (200 in 198 ms) [skip ci] [upptime]</div>
+                      </div>
+                    
+                      <div class="commit">
+                        <div class="sha">#5480a9d</div>
+                        <div class="message">🟩 ImageUploader is up (200 in 93 ms) [skip ci] [upptime]</div>
                       </div>
                     
                   </div>
@@ -3974,7 +3979,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Sun, 14 Feb 2021 18:22:50 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sun, 14 Feb 2021 19:16:25 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
