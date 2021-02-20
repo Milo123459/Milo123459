@@ -34,17 +34,15 @@
 * React
 * Docker
 * MongoDB
+* Rust
 
 </details>
 
 <details>
-<summary><b>Libraries / Frameworks / Languages I want to know</b></summary>
+<summary><b>Libraries / Frameworks / Languages I want to learn</b></summary>
 
-* Rust
 * Gatsby
 * Koa
-* Klasa
-* GraphQL
 
 </details>
 
