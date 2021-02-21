@@ -50,17 +50,19 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
-- [How to make a Discord.JS bot with JS! | Alias & cooldowns system](https://www.youtube.com/watch?v=gv2s5iAM0nA)
 - [How to make a Discord.JS bot with JS! | Command & event handler](https://www.youtube.com/watch?v=RK8LN7BzWrU)
 - [Le PodCast 2 | Future technologies](https://www.youtube.com/watch?v=O8z3PXihZzc)
 - [How to make a Discord.JS bot with TypeScript! | Rob & passive command](https://www.youtube.com/watch?v=_NiwNmKVjes)
 - [Le PodCast bloopers](https://www.youtube.com/watch?v=sZlO2y-kfjU)
+- [How to create a Discord.JS bot using TypeScript! | Suggestion system](https://www.youtube.com/watch?v=N7pCt2aUJQs)
 <!-- YOUTUBE:END -->
 
 </details>
 <details>
   <summary> <u><b> What I'm listening to right now </u></b> </summary>
+  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
+  
 </details>
 <details>
 <summary><u><b>:zap: My stats</b></u></summary>
