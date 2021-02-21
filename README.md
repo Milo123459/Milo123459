@@ -59,7 +59,7 @@
 
 </details>
 <details>
-  <summary> <u><b> What I'm listening to right now </u></b> </summary>
+  <summary> <u><b> 🎧 What I'm listening to right now </u></b> </summary>
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
   
