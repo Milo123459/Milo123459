@@ -50,11 +50,11 @@
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [How to make a Discord.JS bot with JS! | Kick & ban](https://www.youtube.com/watch?v=2ULGXYrJCLY)
 - [How to make a Discord.JS bot with JS! | Alias & cooldowns system](https://www.youtube.com/watch?v=gv2s5iAM0nA)
 - [How to make a Discord.JS bot with JS! | Command & event handler](https://www.youtube.com/watch?v=RK8LN7BzWrU)
 - [Le PodCast 2 | Future technologies](https://www.youtube.com/watch?v=O8z3PXihZzc)
 - [How to make a Discord.JS bot with TypeScript! | Rob & passive command](https://www.youtube.com/watch?v=_NiwNmKVjes)
-- [Le PodCast bloopers](https://www.youtube.com/watch?v=sZlO2y-kfjU)
 <!-- YOUTUBE:END -->
 
 </details>
