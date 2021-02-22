@@ -56,4 +56,7 @@ jobs:
           plugin_introduction: yes
           plugin_skyline: yes
           plugin_skyline_frames: 24
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_people_user: .github.user
   
