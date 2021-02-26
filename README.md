@@ -6,9 +6,9 @@
 
 ### More about me
 
-Hi! I joined github **1** years ago. Since then I've opened **104** issues, **86** PRs and created a whopping **3136** commits. I've accumulated a whopping **187** across my repositories!
+Hi! I joined github **1** years ago. Since then I've opened **105** issues, **86** PRs and created a whopping **3137** commits. I've accumulated a whopping **187** across my repositories!
 
-I ♥ helping out open source projects. I've contributed to **96** projects!
+I ♥ helping out open source projects. I've contributed to **97** projects!
 
 These are some of the languages I've used and ♥
 
@@ -33,14 +33,6 @@ These are some of the languages I've used and ♥
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
-<details>
-  <summary>Languages & Tools</summary>
-**Code editor** Visual Studio Code
-
-**HTTP request maker thing** Insomnia
-
-**Favourite DB** MongoDB
-</details>
 
 <details>
 <summary><b>Libraries / Frameworks / Languages I know</b></summary>
