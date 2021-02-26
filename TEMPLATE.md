@@ -6,7 +6,15 @@
 
 ### More about me
 
-Hi! I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and a whopping **{{ COMMITS }}** commits!
+Hi! I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and created a whopping **{{ COMMITS }}** commits. I've accumulated a whopping **{{ STARS }}** across my repositories!
+
+I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** projects!
+
+These are some of the languages I've used and ♥
+
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 ### My current projects:
 * [Glitter](https://github.com/Milo123459/Glitter)
