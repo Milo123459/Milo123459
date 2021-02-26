@@ -28,14 +28,6 @@ These are some of the languages I've used and ♥
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
-<details>
-  <summary>Languages & Tools</summary>
-**Code editor** Visual Studio Code
-
-**HTTP request maker thing** Insomnia
-
-**Favourite DB** MongoDB
-</details>
 
 <details>
 <summary><b>Libraries / Frameworks / Languages I know</b></summary>
