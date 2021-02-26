@@ -6,7 +6,7 @@
 
 ### More about me
 
-Hi! I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and created a whopping **{{ COMMITS }}** commits. I've accumulated a whopping **{{ STARS }}** across my repositories!
+Hi! I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated a whopping **{{ STARS }}** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** projects!
 
