@@ -7,7 +7,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -58,5 +60,5 @@ jobs:
           plugin_skyline_frames: 24
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_people_user: .github.user
+          plugin_posts_user: .github.user
   
