@@ -4,6 +4,10 @@
 
 ### I enjoy coding random things and contributing to open source projects
 
+### More about me
+
+Hi! I joined github **1** years ago. Since then I've opened **104** issues, **86** PRs and a whopping **3135** commits!
+
 ### My current projects:
 * [Glitter](https://github.com/Milo123459/Glitter)
 * [ImageApi](https://imageapi.fionn.live)
