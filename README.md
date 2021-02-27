@@ -59,11 +59,11 @@ These are some of the languages I've used and ♥
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
-- [How to make a Discord.JS bot with JS! | Antijoin without a DB](https://www.youtube.com/watch?v=Qnj_smiES1w)
 - [How to make a Discord.JS bot with JS! | Say and DM command](https://www.youtube.com/watch?v=9KtsVZljKas)
 - [How to make a Discord.JS bot with JS! | Advanced math command](https://www.youtube.com/watch?v=EtuY3hbsCDY)
 - [How to make a Discord.JS bot with JS! | Dynamic help command](https://www.youtube.com/watch?v=_mJqz504X5g)
 - [How to make a Discord.JS bot with JS! | Kick & ban](https://www.youtube.com/watch?v=2ULGXYrJCLY)
+- [How to make a Discord.JS bot with JS! | Alias & cooldowns system](https://www.youtube.com/watch?v=gv2s5iAM0nA)
 <!-- YOUTUBE:END -->
 
 </details>
