@@ -58,4 +58,8 @@ jobs:
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugin_posts_user: .github.user
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: .user.website
   
