@@ -6,13 +6,13 @@
 
 ### More about me
 
-Hi! I joined github **1** years ago. Since then I've opened **110** issues, **87** PRs and commited a whopping **3187** times! I've accumulated a whopping **200** stars across my repositories!
+Hi! I joined github **1** years ago. Since then I've opened **110** issues, **87** PRs and commited a whopping **3189** times! I've accumulated a whopping **200** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **100** projects!
 
 These are some of the languages I've used and ♥
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B170.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B170.5%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B119.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.9%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.9%25)
