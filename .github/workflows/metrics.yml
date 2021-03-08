@@ -52,6 +52,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_limit: 5
           plugin_tweets_user: .user.twitter
+          plugin_tweets_attachments: yes
           config_gemoji: yes
           plugin_introduction: yes
           plugin_skyline: yes
