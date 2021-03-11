@@ -67,5 +67,5 @@ jobs:
           plugin_pagespeed_url: .user.website
           plugin_reactions: yes
           plugin_reactions_limit: 1000
-          plugin_reactions_details: count, percentage
+          plugin_reactions_details: count
   
