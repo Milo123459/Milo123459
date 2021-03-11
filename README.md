@@ -6,7 +6,7 @@
 
 ### More about me
 
-Hi! I joined github **1** years ago. Since then I've opened **129** issues, **87** PRs and commited a whopping **3234** times! I've accumulated a whopping **201** stars across my repositories!
+Hi! I joined github **1** years ago. Since then I've opened **130** issues, **87** PRs and commited a whopping **3235** times! I've accumulated a whopping **201** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **107** projects!
 
@@ -59,11 +59,11 @@ These are some of the languages I've used and ♥
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
-- [How to make a Discord.JS bot with JS! | Very advanced modmail system](https://www.youtube.com/watch?v=68XuY5VCC0c)
-- [How to make a Discord.JS bot with JS! | Purge command](https://www.youtube.com/watch?v=jxphVKlxcRQ)
-- [How to make a Discord.JS bot with JS! | Did you mean system](https://www.youtube.com/watch?v=tmRBdXUf_VI)
-- [How to make a Discord.JS bot with JS! | Bio command](https://www.youtube.com/watch?v=KtS8zug_icQ)
-- [How to make a Discord.JS bot with JS! | Custom prefix command](https://www.youtube.com/watch?v=8lehDlV-nBQ)
+- [How to make a Discord.JS bot with JS! | Say and DM command](https://www.youtube.com/watch?v=9KtsVZljKas)
+- [How to make a Discord.JS bot with JS! | Advanced math command](https://www.youtube.com/watch?v=EtuY3hbsCDY)
+- [How to make a Discord.JS bot with JS! | Dynamic help command](https://www.youtube.com/watch?v=_mJqz504X5g)
+- [How to make a Discord.JS bot with JS! | Kick & ban](https://www.youtube.com/watch?v=2ULGXYrJCLY)
+- [How to make a Discord.JS bot with JS! | Alias & cooldowns system](https://www.youtube.com/watch?v=gv2s5iAM0nA)
 <!-- YOUTUBE:END -->
 
 </details>
