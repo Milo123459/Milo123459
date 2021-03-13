@@ -55,9 +55,6 @@ jobs:
           plugin_tweets_user: .user.twitter
           plugin_tweets_attachments: yes
           plugin_introduction: yes
-          plugin_skyline: yes
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
           plugin_posts: yes
           plugin_posts_source: dev.to
           plugin_posts_user: .github.user
