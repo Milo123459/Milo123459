@@ -73,15 +73,6 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 </a>
 </details>
 
-<details>
-<summary><u><b>:zap: My newest projects stats</b></u></summary>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milo123459&repo=glitter&theme=radical" />
-</a>
-  
-</details>
-
-*I <3 TypeScript*
+*I <3 TypeScript & Rust*
 
 [Stalk me](https://gitstalk.netlify.app/Milo123459)
