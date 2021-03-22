@@ -6,7 +6,7 @@
 
 ### More about me
 
-Hi! I joined github **1** years ago. Since then I've opened **150** issues, **94** PRs and commited a whopping **3307** times! I've accumulated a whopping **211** stars across my repositories!
+Hi! I joined github **1** years ago. Since then I've opened **150** issues, **94** PRs and commited a whopping **3308** times! I've accumulated a whopping **211** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **120** projects!
 
@@ -73,15 +73,6 @@ I ♥ helping out open source projects. I've contributed to **120** projects!
 </a>
 </details>
 
-<details>
-<summary><u><b>:zap: My newest projects stats</b></u></summary>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milo123459&repo=glitter&theme=radical" />
-</a>
-  
-</details>
-
-*I <3 TypeScript*
+*I <3 TypeScript & Rust*
 
 [Stalk me](https://gitstalk.netlify.app/Milo123459)
