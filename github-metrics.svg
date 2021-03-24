@@ -1415,11 +1415,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
-                  <text x="60" y="60" dominant-baseline="central">94</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="223.72000000000003 329"/>
+                  <text x="60" y="60" dominant-baseline="central">68</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1494,7 +1494,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.39 s
+                1.22 s
               
             </div>
             
@@ -1516,7 +1516,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.04 s
+                0 s
               
             </div>
             
@@ -1538,7 +1538,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.16 s
+                1.15 s
               
             </div>
             
@@ -3903,7 +3903,7 @@
                   
                   <div class="name">
                     <span>morpheusthewhite/spicetify-themes</span>
-                    <span>starred 2 hours ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -3950,7 +3950,7 @@
                   
                   <div class="name">
                     <span>rust-lang/rustlings</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -4803,26 +4803,26 @@
                   
                     <div class="entry">
                       <span class="name">glitter</span>
-                      <div class="bar" style="width: 52.56799999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">66%</span>
+                      <div class="bar" style="width: 55.19199999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">69%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">imageapi.js</span>
-                      <div class="bar" style="width: 12.104000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 12.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">metrics</span>
-                      <div class="bar" style="width: 4.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="name">wanted-poster</span>
+                      <div class="bar" style="width: 3.6479999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">5%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">wanted-poster</span>
-                      <div class="bar" style="width: 3.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">4%</span>
+                      <span class="name">rustlings</span>
+                      <div class="bar" style="width: 1.8719999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">2%</span>
                     </div>
                   
                 
@@ -4836,26 +4836,26 @@
                   
                     <div class="entry">
                       <span class="name">Rust</span>
-                      <div class="bar" style="width: 37.68%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                      <span class="value">47%</span>
+                      <div class="bar" style="width: 41.663999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">52%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 9.079999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 9.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">11%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Other</span>
-                      <div class="bar" style="width: 8.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">10%</span>
+                      <div class="bar" style="width: 6.335999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">8%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">JSON</span>
-                      <div class="bar" style="width: 6.648000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">8%</span>
+                      <span class="name">TypeScript</span>
+                      <div class="bar" style="width: 4.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
                     </div>
                   
                 
@@ -5105,7 +5105,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.06360197821536 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.07105479166667 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#2088FF" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#2088FF" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#79B8FF" cx="16.5" cy="2.057" r="1"/><circle stroke="#79B8FF" cx="14.5" cy="12.057" r="1"/><circle stroke="#79B8FF" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -5289,7 +5289,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Wed, 24 Mar 2021 01:30:13 GMT with lowlighter/metrics@3.6.0-beta</span>
+          <span>Last updated Wed, 24 Mar 2021 02:21:12 GMT with lowlighter/metrics@3.6.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
