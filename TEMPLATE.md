@@ -24,27 +24,6 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
 
 <details>
-<summary><b>Libraries / Frameworks / Languages I know</b></summary>
-
-* ExpressJS
-* NodeJS
-* VueJS
-* React
-* Docker
-* MongoDB
-* Rust
-
-</details>
-
-<details>
-<summary><b>Libraries / Frameworks / Languages I want to learn</b></summary>
-
-* Gatsby
-* Koa
-
-</details>
-
-<details>
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
