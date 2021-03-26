@@ -67,5 +67,5 @@ jobs:
           plugin_achievements_limit: 0
           plugin_gists: yes
           plugin_rss: yes
-          plugin_rss_source: https://dev.to/feed/
+          plugin_rss_source: https://dev.to/feed/milo123459
           plugin_rss_limit: 6
