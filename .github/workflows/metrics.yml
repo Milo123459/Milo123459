@@ -55,9 +55,6 @@ jobs:
           plugin_tweets_user: .user.twitter
           plugin_tweets_attachments: yes
           plugin_introduction: yes
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_user: .github.user
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
           plugin_pagespeed_detailed: yes
