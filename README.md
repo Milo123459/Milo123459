@@ -6,7 +6,7 @@
 
 ### More about me
 
-Hi! I joined github **1** years ago. Since then I've opened **151** issues, **94** PRs and commited a whopping **3358** times! I've accumulated a whopping **250** stars across my repositories!
+Hi! I joined github **1** years ago. Since then I've opened **151** issues, **94** PRs and commited a whopping **3360** times! I've accumulated a whopping **250** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **119** projects!
 
@@ -22,27 +22,6 @@ I ♥ helping out open source projects. I've contributed to **119** projects!
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
-
-<details>
-<summary><b>Libraries / Frameworks / Languages I know</b></summary>
-
-* ExpressJS
-* NodeJS
-* VueJS
-* React
-* Docker
-* MongoDB
-* Rust
-
-</details>
-
-<details>
-<summary><b>Libraries / Frameworks / Languages I want to learn</b></summary>
-
-* Gatsby
-* Koa
-
-</details>
 
 <details>
 <summary><b>📺 Latest videos</b></summary>
