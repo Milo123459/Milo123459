@@ -1,4 +1,4 @@
-### Hey, I'm Milo (aka Salvage), I like to code things 
+### 👋, I'm Milo (aka Salvage), I like to code things 
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
 
@@ -6,7 +6,7 @@
 
 ### More about me
 
-Hi! I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated a whopping **{{ STARS }}** stars across my repositories!
+I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated an amazing **{{ STARS }}** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** projects!
 
