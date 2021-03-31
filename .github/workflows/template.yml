@@ -8,6 +8,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+    - run: sleep 300
     - uses: actions/checkout@v2
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
