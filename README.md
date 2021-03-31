@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined github **1** years ago. Since then I've opened **155** issues, **91** PRs and commited a whopping **3382** times! I've accumulated an amazing **259** stars across my repositories!
+I joined github **1** years ago. Since then I've opened **155** issues, **91** PRs and commited a whopping **3383** times! I've accumulated an amazing **259** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **119** projects!
 
@@ -14,8 +14,7 @@ I ♥ helping out open source projects. I've contributed to **119** projects!
 * [Glitter](https://github.com/Milo123459/Glitter)
 * [ImageApi](https://imageapi.fionn.live)
 * [ImageAPI.JS](https://npmjs.com/package/imageapi.js)
-* [Spencer](https://github.com/Milo123459/Spencer)
-* [TYVN](https://npmjs.com/package/tyvn)
+* [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
 
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
@@ -44,9 +43,9 @@ I ♥ helping out open source projects. I've contributed to **119** projects!
 </details>
 
 <details>
-  <summary> <u><b> 🎧 What I'm listening to right now </u></b> </summary>
+<summary> <u><b> 🎧 What I'm listening to right now </u></b></summary>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
   
 </details>
 
