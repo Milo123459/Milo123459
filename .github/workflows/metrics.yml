@@ -9,6 +9,7 @@ jobs:
     steps:
       - run: sleep 600
       - uses: actions/checkout@v2
+      - run: git pull
       - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
