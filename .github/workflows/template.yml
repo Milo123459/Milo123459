@@ -10,6 +10,7 @@ jobs:
     steps:
     - run: sleep 300
     - uses: actions/checkout@v2
+    - run: git pull
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
       with:
