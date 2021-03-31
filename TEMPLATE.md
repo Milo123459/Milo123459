@@ -24,18 +24,6 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
 
 <details>
-<summary><b>📺 Latest videos</b></summary>
-
-<!-- YOUTUBE:START -->
-- [How to make a Discord.JS bot with JS! | Say and DM command](https://www.youtube.com/watch?v=9KtsVZljKas)
-- [How to make a Discord.JS bot with JS! | Advanced math command](https://www.youtube.com/watch?v=EtuY3hbsCDY)
-- [How to make a Discord.JS bot with JS! | Dynamic help command](https://www.youtube.com/watch?v=_mJqz504X5g)
-- [How to make a Discord.JS bot with JS! | Kick & ban](https://www.youtube.com/watch?v=2ULGXYrJCLY)
-- [How to make a Discord.JS bot with JS! | Alias & cooldowns system](https://www.youtube.com/watch?v=gv2s5iAM0nA)
-<!-- YOUTUBE:END -->
-
-</details>
-<details>
 <summary><u><b>:zap: My stats</b></u></summary>
 <a href="https://github.com/Milo123459/Milo123459">
 <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
