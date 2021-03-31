@@ -13,3 +13,4 @@ jobs:
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC7-pjRSGoNEMoIujwOH2Mhw"
+          readme_path: ./TEMPLATE.md
