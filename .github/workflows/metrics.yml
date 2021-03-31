@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 300
+      - run: sleep 600
       - uses: actions/checkout@v2
       - uses: lowlighter/metrics@master
         with:
