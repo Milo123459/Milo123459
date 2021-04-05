@@ -1450,9 +1450,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    92
+                                    93
                                 </text>
                             </svg>
                             <span class="title">
@@ -1540,7 +1540,7 @@
                 <section>
                     <div class="field">
                         <div class="audit text">
-                            0.84 s
+                            1.20 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1548,7 +1548,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            0.84 s
+                            1.13 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1564,7 +1564,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            0.84 s
+                            1.13 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1572,7 +1572,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            1.04 s
+                            1.16 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -4077,7 +4077,7 @@
                                             ValveSoftware/Proton
                                         </span>
                                         <span>
-                                            starred 4 hours ago
+                                            starred 5 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4135,7 +4135,7 @@
                                             bitcoin/bitcoin
                                         </span>
                                         <span>
-                                            starred 15 hours ago
+                                            starred 16 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -5349,7 +5349,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.61715832278982 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.6248589342339 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5666,7 +5666,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Mon, 05 Apr 2021 02:08:39 GMT with lowlighter/metrics@3.6.0
+                    Last updated Mon, 05 Apr 2021 03:00:58 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
