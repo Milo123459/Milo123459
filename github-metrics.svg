@@ -1278,8 +1278,8 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="185.64784053156146" height="8" fill="#6f42c1"/>
-                            <rect mask="url(#pr-bar)" x="185.64784053156146" y="0" width="34.35215946843854" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="185.03311258278146" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="185.03311258278146" y="0" width="34.96688741721855" height="8" fill="#28a745"/>
                         </svg>
                         <div class="field horizontal fill-width">
                             <div class="field center">
@@ -1295,7 +1295,7 @@
                                     <path fill="#28a745" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    47 Open
+                                    48 Open
                                 </span>
                             </div>
                         </div>
@@ -1540,7 +1540,7 @@
                 <section>
                     <div class="field">
                         <div class="audit text">
-                            0.83 s
+                            1.15 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1548,7 +1548,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            0.83 s
+                            0.85 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1564,7 +1564,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            0.83 s
+                            0.84 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1572,7 +1572,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            1.04 s
+                            1.42 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -4113,7 +4113,7 @@
                                             climech/grit
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4137,7 +4137,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.29k
+                                        1.30k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4171,7 +4171,7 @@
                                             neovim/neovim
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4213,7 +4213,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        7.77k
+                                        7.78k
                                     </div>
                                 </div>
                             </section>
@@ -4229,7 +4229,7 @@
                                             Ash258/Scoop-Ash258
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -4287,7 +4287,7 @@
                                             git/git
                                         </span>
                                         <span>
-                                            starred 21 hours ago
+                                            starred 22 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -5339,7 +5339,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.07522048278157 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.08415181221461 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5656,7 +5656,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Wed, 07 Apr 2021 05:55:49 GMT with lowlighter/metrics@3.7.0-beta
+                    Last updated Wed, 07 Apr 2021 06:55:52 GMT with lowlighter/metrics@3.7.0-beta
                 </span>
             </footer>
             <div id="metrics-end"></div>
