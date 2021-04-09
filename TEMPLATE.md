@@ -21,6 +21,7 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
+* Send me a DM on twitter [@salvagedev](https://twitter.com/salvagedev)
 
 <details>
 <summary><b>📺 Latest videos</b></summary>
