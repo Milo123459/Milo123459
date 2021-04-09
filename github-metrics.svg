@@ -1456,9 +1456,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    94
+                                    93
                                 </text>
                             </svg>
                             <span class="title">
@@ -1546,7 +1546,7 @@
                 <section>
                     <div class="field">
                         <div class="audit text">
-                            1.19 s
+                            0.84 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1554,7 +1554,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            1.12 s
+                            0.84 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1562,7 +1562,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            0.01 s
+                            0 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1570,7 +1570,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            1.12 s
+                            0.84 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -1578,7 +1578,7 @@
                     </div>
                     <div class="field">
                         <div class="audit text">
-                            1.12 s
+                            1.04 s
                         </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
@@ -4122,7 +4122,7 @@
                                                             benawad/destiny
                                                         </span>
                                                         <span>
-                                                            starred 7 hours ago
+                                                            starred 8 hours ago
                                                         </span>
                                                     </div>
                                                 </div>
@@ -4180,7 +4180,7 @@
                                                             ScoopInstaller/Main
                                                         </span>
                                                         <span>
-                                                            starred 19 hours ago
+                                                            starred 20 hours ago
                                                         </span>
                                                     </div>
                                                 </div>
@@ -5446,7 +5446,7 @@ Is there something I need to do to make sure it doesn't look like this? Or can I
                                                     </defs>
                                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.481773006009 155"/>
+                                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.49111102121384 155"/>
                                                     </svg>
                                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5766,7 +5766,7 @@ Is there something I need to do to make sure it doesn't look like this? Or can I
                                     These metrics include private contributions
                                 </span>
                                 <span>
-                                    Last updated Fri, 09 Apr 2021 03:53:01 GMT with lowlighter/metrics@3.7.0-beta
+                                    Last updated Fri, 09 Apr 2021 04:58:00 GMT with lowlighter/metrics@3.7.0-beta
                                 </span>
                             </footer>
                             <div id="metrics-end"></div>
