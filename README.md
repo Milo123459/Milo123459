@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined github **1** years ago. Since then I've opened **165** issues, **95** PRs and commited a whopping **2144** times! I've accumulated an amazing **253** stars across my repositories!
+I joined github **1** years ago. Since then I've opened **165** issues, **95** PRs and commited a whopping **2145** times! I've accumulated an amazing **253** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **127** projects!
 
@@ -21,6 +21,7 @@ I ♥ helping out open source projects. I've contributed to **127** projects!
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
+* Send me a DM on twitter [@salvagedev](https://twitter.com/salvagedev)
 
 <details>
 <summary><b>📺 Latest videos</b></summary>
