@@ -12,8 +12,7 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 
 ### My current projects:
 * [Glitter](https://github.com/Milo123459/Glitter)
-* [ImageApi](https://imageapi.fionn.live)
-* [ImageAPI.JS](https://npmjs.com/package/imageapi.js)
+* [Salt](https://github.com/Milo123459/salt)
 * [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
 
 ### Random things about me:
