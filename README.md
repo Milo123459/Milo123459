@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined github **1** years ago. Since then I've opened **164** issues, **94** PRs and commited a whopping **2138** times! I've accumulated an amazing **253** stars across my repositories!
+I joined github **1** years ago. Since then I've opened **164** issues, **94** PRs and commited a whopping **2140** times! I've accumulated an amazing **253** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **126** projects!
 
