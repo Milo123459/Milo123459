@@ -11,12 +11,13 @@ I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISS
 I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** projects!
 
 ### My current projects:
-* [Glitter](https://github.com/Milo123459/Glitter)
-* [Salt](https://github.com/Milo123459/salt)
-* [ToastyXD](https://github.com/Shamil-FD/ToastyXD)
+* [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
+* [Salt](https://github.com/Milo123459/salt) - *A CLI-based task manager*
+* [ToastyXD](https://github.com/Shamil-FD/ToastyXD) - *A discord bot designed to help out big servers*
 
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
+* I use Python, Rust, TypeScript and JavaScript a lot.
 
 ### Contact me:
 * Join my [discord](https://discord.gg/3ucGCpa) to chat
