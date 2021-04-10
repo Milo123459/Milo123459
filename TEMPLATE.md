@@ -8,7 +8,7 @@
 
 I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated an amazing **{{ STARS }}** stars across my repositories!
 
-I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** projects!
+I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** open-source projects!
 
 ### My current projects:
 * [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
