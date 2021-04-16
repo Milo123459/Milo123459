@@ -73,8 +73,3 @@ jobs:
           plugin_rss_source: https://dev.to/feed/milo123459
           plugin_rss_limit: 6
           plugin_notable: yes
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-          plugin_screenshot_background: no
