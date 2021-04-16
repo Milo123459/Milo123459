@@ -1,7 +1,7 @@
 
 name: Template
 on:
-  schedule: [{cron: "30 * * * *"}]
+  schedule: [{cron: "*/30 * * * *"}]
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
