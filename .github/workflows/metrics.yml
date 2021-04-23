@@ -73,3 +73,4 @@ jobs:
           plugin_rss_source: https://dev.to/feed/milo123459
           plugin_rss_limit: 6
           plugin_notable: yes
+          plugin_notable_filter: stars:>500
