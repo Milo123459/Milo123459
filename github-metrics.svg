@@ -1285,15 +1285,15 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="10.731707317073171" height="8" fill="#28a745"/>
-                            <rect mask="url(#issues-bar)" x="10.731707317073171" y="0" width="209.2682926829268" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="15.714285714285714" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="15.714285714285714" y="0" width="204.2857142857143" height="8" fill="#d73a49"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                 </svg>
-                                <span class="no-wrap">2 <small>open</small></span>
+                                <span class="no-wrap">3 <small>open</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1477,8 +1477,8 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1540,7 +1540,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.14 s
+                0.99 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1550,7 +1550,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.90 s
+                0.47 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1560,7 +1560,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.04 s
+                0.01 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1570,7 +1570,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.90 s
+                0.42 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1580,7 +1580,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.97 s
+                0.54 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3986,7 +3986,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>lukesampson/scoop</span>
-                                                <span>starred 8 hours ago</span>
+                                                <span>starred 9 hours ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">
@@ -5126,7 +5126,7 @@ If you can let me know how I can help, that'd be great!
                                             </defs>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                 <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.09179353897133 155"/>
+                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.09527973649162 155"/>
                                             </svg>
                                             <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                 <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5434,7 +5434,7 @@ If you can let me know how I can help, that'd be great!
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated Mon, 26 Apr 2021 03:56:28 GMT with lowlighter/metrics@3.8.0-beta</span>
+                        <span>Last updated Mon, 26 Apr 2021 04:19:31 GMT with lowlighter/metrics@3.8.0-beta</span>
                     </footer>
                     <div id="metrics-end"></div>
                 </div>
