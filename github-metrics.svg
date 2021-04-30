@@ -1540,7 +1540,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.15 s
+                0.94 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1550,7 +1550,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.62 s
+                0.90 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1560,7 +1560,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.02 s
+                0 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1570,7 +1570,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.56 s
+                0.90 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1580,7 +1580,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.70 s
+                0.91 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3950,7 +3950,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tensorflow/tensorflow</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3992,7 +3992,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>commaai/openpilot</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4034,7 +4034,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rustup</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4076,7 +4076,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gr2m/twitter-together</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5032,7 +5032,7 @@
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.92370473601598 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.93707670535261 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5340,7 +5340,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated Fri, 30 Apr 2021 01:58:09 GMT with lowlighter/metrics@3.8.0-beta</span>
+                    <span>Last updated Fri, 30 Apr 2021 03:27:41 GMT with lowlighter/metrics@3.8.0-beta</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
