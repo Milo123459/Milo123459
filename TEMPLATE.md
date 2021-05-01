@@ -27,11 +27,11 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 <summary><b>📺 Latest videos</b></summary>
 
 <!-- YOUTUBE:START -->
+- [A QnA](https://www.youtube.com/watch?v=vNrBI4frpdg)
 - [Introducing Glitter](https://www.youtube.com/watch?v=PqXq_Uk0WuQ)
 - [How to make a Discord.JS bot with JS! | Unban command](https://www.youtube.com/watch?v=ZMIL6GHUp9s)
 - [How to make a Discord.JS bot with JS! | Very advanced modmail system](https://www.youtube.com/watch?v=68XuY5VCC0c)
 - [How to make a Discord.JS bot with JS! | Purge command](https://www.youtube.com/watch?v=jxphVKlxcRQ)
-- [How to make a Discord.JS bot with JS! | Did you mean system](https://www.youtube.com/watch?v=tmRBdXUf_VI)
 <!-- YOUTUBE:END -->
 
 </details>
