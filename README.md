@@ -24,19 +24,6 @@ I ♥ helping out open source projects. I've contributed to **136** open-source 
 * Send me a DM on twitter [@salvagedev](https://twitter.com/salvagedev)
 
 <details>
-<summary><b>📺 Latest videos</b></summary>
-
-<!-- YOUTUBE:START -->
-- [A QnA](https://www.youtube.com/watch?v=vNrBI4frpdg)
-- [Introducing Glitter](https://www.youtube.com/watch?v=PqXq_Uk0WuQ)
-- [How to make a Discord.JS bot with JS! | Unban command](https://www.youtube.com/watch?v=ZMIL6GHUp9s)
-- [How to make a Discord.JS bot with JS! | Very advanced modmail system](https://www.youtube.com/watch?v=68XuY5VCC0c)
-- [How to make a Discord.JS bot with JS! | Purge command](https://www.youtube.com/watch?v=jxphVKlxcRQ)
-<!-- YOUTUBE:END -->
-
-</details>
-
-<details>
 <summary><u><b>:zap: My stats</b></u></summary>
 <a href="https://github.com/Milo123459/Milo123459">
 <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
