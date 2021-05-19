@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined GitHub **2** years ago. Since then I've opened **197** issues, **112** PRs and commited a whopping **2212** times! I've accumulated an amazing **201** stars across my repositories!
+I joined GitHub **2** years ago. Since then I've opened **198** issues, **112** PRs and commited a whopping **2214** times! I've accumulated an amazing **201** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **139** open-source projects!
 
@@ -38,8 +38,10 @@ I ♥ helping out open source projects. I've contributed to **139** open-source 
 </details>
 
 <details>
-  <summary><u><b>My website status'</b></u></summary>
-  ![img]()
+  <summary><u><b>😎 Website status'</b></u></summary>
+  <img src="https://milo123459.github.io/downtime/status/1.1.1.1-443.svg"/>
+  <img src="https://milo123459.github.io/downtime/status/hypixel.net-443.svg"/>
+  <img src="https://milo123459.github.io/downtime/status/milo123459.vercel.app-443.svg" />
 </details>
 
 *I <3 TypeScript & Rust*
