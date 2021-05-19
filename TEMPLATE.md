@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined github **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated an amazing **{{ STARS }}** stars across my repositories!
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated an amazing **{{ STARS }}** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** open-source projects!
 
@@ -35,6 +35,11 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
   
+</details>
+
+<details>
+  <summary><u><b>My website status'</b></u></summary>
+  ![img]()
 </details>
 
 *I <3 TypeScript & Rust*
