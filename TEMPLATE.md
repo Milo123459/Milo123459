@@ -39,9 +39,9 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 
 <details>
   <summary><u><b>😎 Website status'</b></u></summary>
-  ![img](https://milo123459.github.io/downtime/status/1.1.1.1-443.svg)
-  ![img](https://milo123459.github.io/downtime/status/hypixel.net-443.svg)
-  ![img](https://milo123459.github.io/downtime/status/milo123459.vercel.app-443.svg)
+  <img src="https://milo123459.github.io/downtime/status/1.1.1.1-443.svg"/>
+  <img src="https://milo123459.github.io/downtime/status/hypixel.net-443.svg"/>
+  <img src="https://milo123459.github.io/downtime/status/milo123459.vercel.app-443.svg" />
 </details>
 
 *I <3 TypeScript & Rust*
