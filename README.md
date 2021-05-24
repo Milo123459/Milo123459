@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined GitHub **2** years ago. Since then I've opened **204** issues, **115** PRs and commited a whopping **2254** times! I've accumulated an amazing **204** stars across my repositories!
+I joined GitHub **2** years ago. Since then I've opened **204** issues, **115** PRs and commited a whopping **2256** times! I've accumulated an amazing **204** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **145** open-source projects!
 
@@ -14,6 +14,7 @@ I ♥ helping out open source projects. I've contributed to **145** open-source 
 * [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
 * [Salt](https://github.com/Milo123459/salt) - *A CLI-based task manager*
 * [ToastyXD](https://github.com/Shamil-FD/ToastyXD) - *A discord bot designed to help out big servers*
+* [Manny](https://github.com/Milo123459/manny) - *A sleek and short documentation system for the terminal*
 
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
