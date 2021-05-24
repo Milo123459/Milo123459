@@ -14,6 +14,7 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
 * [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
 * [Salt](https://github.com/Milo123459/salt) - *A CLI-based task manager*
 * [ToastyXD](https://github.com/Shamil-FD/ToastyXD) - *A discord bot designed to help out big servers*
+* [Manny](https://github.com/Milo123459/manny) - *A sleek and short documentation system for the terminal*
 
 ### Random things about me:
 * I play the drums and I'm learning the bass guitar! 🥁🎸
