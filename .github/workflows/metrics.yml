@@ -7,7 +7,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - run: sleep 600
       - uses: actions/checkout@v2
       - run: git pull
       - uses: lowlighter/metrics@master
@@ -76,4 +75,3 @@ jobs:
           plugin_notable_filter: stars:>500
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: no 
-          
