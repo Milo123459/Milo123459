@@ -74,3 +74,6 @@ jobs:
           plugin_rss_limit: 6
           plugin_notable: yes
           plugin_notable_filter: stars:>500
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: no 
+          
