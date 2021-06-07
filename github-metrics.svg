@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5441" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5488" class="">
     <defs>
         <style/>
     </defs>
@@ -1884,6 +1884,41 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 61.62704662832863%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">77%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 9.23629171092634%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Rust</span>
+                            <div class="bar" style="width: 4.996153987033442%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 3.5446809030194255%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 0.5421046848100802%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Coq</span>
+                            <div class="bar" style="width: 0.03223325152924801%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">PowerShell</span>
+                            <div class="bar" style="width: 0.02148883435283201%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -1979,6 +2014,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@cosmokaat1</span> <span class="mention">@benawad</span> <span class="mention">@alexhunter0310</span> go more like no
+                  
+                  <div class="date">15:12 on 07/06/2021</div>
+                </div>
+                        <div class="tweet">
                   Day 110 of  <span class="hashtag">#100DaysOfCode</span> . Today I coded 2 hrs 12 mins towards my <span class="mention">@WakaTime</span> goal of coding 1 hr per day. <a href="https://t.co/87LMeQCyle" class="link">wakatime.com/goals</a> <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#31373D" d="M34.459 1.375c-1.391-.902-3.248-.506-4.149.884L13.5 28.17l-8.198-7.58c-1.217-1.125-3.114-1.051-4.239.166-1.125 1.216-1.051 3.115.166 4.239l10.764 9.952s.309.266.452.359c.504.328 1.07.484 1.63.484.982 0 1.945-.482 2.52-1.368L35.343 5.524c.902-1.39.506-3.248-.884-4.149z"/></svg>  <span class="hashtag">#code</span>   <span class="hashtag">#codegoal</span>  <a href="https://t.co/UubHvgyFza" class="link">wakatime.com/@salvage_dev</a> <br /><a href="https://t.co/llLRYMFEQe" class="link">pic.twitter.com/llLRYMFEQe</a>
                   
                     <div class="attachments largeable largeable-width-auto">
@@ -2019,11 +2059,6 @@
                     </div>
                   
                   <div class="date">23:00 on 05/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  a rust project a day keeps the doctors away
-                  
-                  <div class="date">22:54 on 05/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -4097,7 +4132,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/sushibot</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5149,7 +5184,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.10936989979706 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.121292710553 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5506,7 +5541,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 07 Jun 2021 15:11:10  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Mon, 07 Jun 2021 16:32:02  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
