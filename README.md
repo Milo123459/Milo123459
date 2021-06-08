@@ -6,9 +6,9 @@
 
 ### More about me
 
-I joined GitHub **2** years ago. Since then I've opened **211** issues, **120** PRs and commited a whopping **2378** times! I've accumulated an amazing **215** stars across my repositories!
+I joined GitHub **2** years ago. Since then I've opened **212** issues, **120** PRs and commited a whopping **2381** times! I've accumulated an amazing **215** stars across my repositories!
 
-I ♥ helping out open source projects. I've contributed to **151** open-source projects!
+I ♥ helping out open source projects. I've contributed to **152** open-source projects!
 
 ### My current projects:
 * [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
