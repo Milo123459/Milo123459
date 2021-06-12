@@ -1352,7 +1352,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.82k views in last two weeks
+                    1.83k views in last two weeks
                   
                 </div>
                             </section>
@@ -1513,10 +1513,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.8606997616874" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="342.8606997616874" y="0" width="60.30945069537484" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="403.1701504570622" y="0" width="37.037572768338805" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="440.207723225401" y="0" width="19.79227677459896" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.536553678989" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="341.536553678989" y="0" width="60.07653241998346" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="401.6130860989725" y="0" width="38.671075941892056" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="440.28416204086454" y="0" width="19.715837959135467" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,7 +1527,7 @@
                     </div>
                             <small>
                                 <div>62.8 kB</div>
-                                <div>74.53%</div>
+                                <div>74.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,8 +1536,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>6.79 kB</div>
-                                <div>8.05%</div>
+                                <div>7.12 kB</div>
+                                <div>8.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1549,7 +1549,7 @@
                     </div>
                             <small>
                                 <div>11 kB</div>
-                                <div>13.11%</div>
+                                <div>13.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>3.63 kB</div>
-                                <div>4.3%</div>
+                                <div>4.29%</div>
                             </small>
                         </div>
                     </section>
@@ -1694,7 +1694,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1704,7 +1704,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1742,7 +1742,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1752,7 +1752,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1959,22 +1959,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 65.53311561071196%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">82%</span>
+                            <div class="bar" style="width: 66.24445383477709%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">83%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 5.737426518615284%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.799704204521445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 4.936903984323972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">6%</span>
+                            <div class="bar" style="width: 4.122121276146207%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 3.7925538863487915%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.8337206845552503%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                     </div>
@@ -4158,7 +4158,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/isitv</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5267,7 +5267,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.21981212550736 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.22397308861302 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5624,7 +5624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 12 Jun 2021 20:42:07  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Sat, 12 Jun 2021 21:10:20  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
