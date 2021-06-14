@@ -1513,10 +1513,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.4204055642633" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.4204055642633" y="0" width="45.2992750783699" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="402.7196806426332" y="0" width="36.83875391849529" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="439.55843456112854" y="0" width="20.44156543887147" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.07058650342873" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.07058650342873" y="0" width="44.54580026252193" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="402.61638676595066" y="0" width="36.905185421445836" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.5215721873965" y="0" width="20.478427812603506" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,7 +1527,7 @@
                     </div>
                             <small>
                                 <div>63.4 kB</div>
-                                <div>77.7%</div>
+                                <div>77.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1537,7 +1537,7 @@
                     </div>
                             <small>
                                 <div>6.54 kB</div>
-                                <div>8.01%</div>
+                                <div>8.02%</div>
                             </small>
                         </div>
                     </section>
@@ -1548,8 +1548,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>8.04 kB</div>
-                                <div>9.85%</div>
+                                <div>7.89 kB</div>
+                                <div>9.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>3.63 kB</div>
-                                <div>4.44%</div>
+                                <div>4.45%</div>
                             </small>
                         </div>
                     </section>
@@ -1694,7 +1694,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.31 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1704,7 +1704,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.31 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1742,7 +1742,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.31 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1752,7 +1752,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.31 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5278,7 +5278,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.49516193841957 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.49850363441782 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5635,7 +5635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 14 Jun 2021 03:49:31  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Mon, 14 Jun 2021 04:12:11  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
