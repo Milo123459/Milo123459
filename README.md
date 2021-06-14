@@ -1,4 +1,4 @@
-### 👋, I'm Milo (aka Salvage), I like to code things 
+### 👋, I'm Mil I like to code things 
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
 
