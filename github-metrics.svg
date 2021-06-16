@@ -1630,10 +1630,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.49 329"/>
+                                <text x="60" y="60" dominant-baseline="central">81</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1683,7 +1683,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1693,7 +1693,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1731,7 +1731,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1741,7 +1741,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.38 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1948,22 +1948,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 39.36177435781374%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 39.39744025370936%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">49%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 33.767115536946925%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.797712085173856%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 5.513183206970691%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.445690338656699%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 1.3579268982686432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.3591573224600748%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -5278,7 +5278,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.01133166484334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.01580244855084 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5635,7 +5635,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 16 Jun 2021 14:10:09  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Wed, 16 Jun 2021 14:40:28  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
