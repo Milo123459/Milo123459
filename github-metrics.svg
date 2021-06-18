@@ -1513,9 +1513,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.95497553017947" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="344.95497553017947" y="0" width="82.99510603588907" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="427.9500815660685" y="0" width="32.04991843393148" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.6711144338442" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="343.6711144338442" y="0" width="84.39825123112679" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="428.069365664971" y="0" width="31.930634335029012" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1526,7 +1526,7 @@
                     </div>
                             <small>
                                 <div>45.9 kB</div>
-                                <div>74.99%</div>
+                                <div>74.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,7 +1536,7 @@
                     </div>
                             <small>
                                 <div>4.27 kB</div>
-                                <div>6.97%</div>
+                                <div>6.94%</div>
                             </small>
                         </div>
                     </section>
@@ -1547,8 +1547,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>11 kB</div>
-                                <div>18.04%</div>
+                                <div>11.2 kB</div>
+                                <div>18.35%</div>
                             </small>
                         </div>
                     </section>
@@ -1683,7 +1683,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.28 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1693,7 +1693,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.37 s
+                0.54 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1731,7 +1731,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.28 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1741,7 +1741,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.37 s
+                0.54 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5318,7 +5318,7 @@ Also, rust-analyzer is giving  me 2 errors in the IDE only:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.31907730593608 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.32645019382609 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5675,7 +5675,7 @@ Also, rust-analyzer is giving  me 2 errors in the IDE only:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18/06/2021, 00:57  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 18/06/2021, 01:47  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
