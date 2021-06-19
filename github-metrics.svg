@@ -1513,9 +1513,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.78149322571346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.78149322571346" y="0" width="130.48803689824155" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="435.26953012395495" y="0" width="24.73046987604497" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.3845154022789" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="305.3845154022789" y="0" width="129.8360845139581" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="435.220599916237" y="0" width="24.77940008376298" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1526,7 +1526,7 @@
                     </div>
                             <small>
                                 <div>45.9 kB</div>
-                                <div>66.26%</div>
+                                <div>66.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,7 +1536,7 @@
                     </div>
                             <small>
                                 <div>3.73 kB</div>
-                                <div>5.38%</div>
+                                <div>5.39%</div>
                             </small>
                         </div>
                     </section>
@@ -1547,8 +1547,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>19.6 kB</div>
-                                <div>28.37%</div>
+                                <div>19.5 kB</div>
+                                <div>28.23%</div>
                             </small>
                         </div>
                     </section>
@@ -1948,27 +1948,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 55.7986253357003%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">70%</span>
+                            <div class="bar" style="width: 55.55837563451776%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">69%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 23.75953995781935%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 24.001692047377325%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">30%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.22334501646259122%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.22238336959149144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 0.18207474168146023%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.18129079042784627%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 0.036414948336292045%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.03625815808556926%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -5274,7 +5274,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.57326110849505 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.57764821894025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5631,7 +5631,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/06/2021, 05:41  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 19/06/2021, 06:10  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
