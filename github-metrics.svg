@@ -1513,9 +1513,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.78149322571346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.78149322571346" y="0" width="130.48803689824155" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="435.26953012395495" y="0" width="24.73046987604497" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.60148946284266" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="304.60148946284266" y="0" width="130.6826464614454" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="435.284135924288" y="0" width="24.71586407571196" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1526,7 +1526,7 @@
                     </div>
                             <small>
                                 <div>45.9 kB</div>
-                                <div>66.26%</div>
+                                <div>66.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,7 +1536,7 @@
                     </div>
                             <small>
                                 <div>3.73 kB</div>
-                                <div>5.38%</div>
+                                <div>5.37%</div>
                             </small>
                         </div>
                     </section>
@@ -1547,8 +1547,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>19.6 kB</div>
-                                <div>28.37%</div>
+                                <div>19.7 kB</div>
+                                <div>28.41%</div>
                             </small>
                         </div>
                     </section>
@@ -4107,7 +4107,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TaKO8Ki/awesome-alternatives-in-rust</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5227,7 +5227,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.81618568176052 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.82149244609334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5584,7 +5584,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/06/2021, 09:08  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 20/06/2021, 09:44  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
