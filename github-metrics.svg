@@ -1513,9 +1513,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.2793728335113" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="309.2793728335113" y="0" width="124.58908016556727" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="433.86845299907856" y="0" width="26.131547000921444" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.3110408987186" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="309.3110408987186" y="0" width="124.48072084722953" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="433.7917617459482" y="0" width="26.20823825405184" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1526,7 +1526,7 @@
                     </div>
                             <small>
                                 <div>45.9 kB</div>
-                                <div>67.23%</div>
+                                <div>67.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1535,8 +1535,8 @@
                       Jupyter Notebook
                     </div>
                             <small>
-                                <div>3.88 kB</div>
-                                <div>5.68%</div>
+                                <div>3.90 kB</div>
+                                <div>5.7%</div>
                             </small>
                         </div>
                     </section>
@@ -1548,7 +1548,7 @@
                     </div>
                             <small>
                                 <div>18.5 kB</div>
-                                <div>27.08%</div>
+                                <div>27.06%</div>
                             </small>
                         </div>
                     </section>
@@ -1632,8 +1632,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">93</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -4121,7 +4121,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/rust-notebooks</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4163,7 +4163,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/evcxr</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5269,7 +5269,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.03397138912672 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.03785803771878 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5626,7 +5626,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21/06/2021, 09:45  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 21/06/2021, 10:11  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
