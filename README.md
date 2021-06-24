@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined GitHub **2** years ago. Since then I've opened **224** issues, **130** PRs and commited a whopping **2498** times! I've accumulated an amazing **221** stars across my repositories!
+I joined GitHub **2** years ago. Since then I've opened **224** issues, **130** PRs and commited a whopping **2499** times! I've accumulated an amazing **221** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **160** open-source projects!
 
@@ -37,13 +37,6 @@ I ♥ helping out open source projects. I've contributed to **160** open-source 
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
   
-</details>
-
-<details>
-  <summary><u><b>😎 Website status'</b></u></summary>
-  <img src="https://milo123459.github.io/downtime/status/1.1.1.1-443.svg"/>
-  <img src="https://milo123459.github.io/downtime/status/hypixel.net-443.svg"/>
-  <img src="https://milo123459.github.io/downtime/status/milo123459.vercel.app-443.svg" />
 </details>
 
 *I <3 TypeScript & Rust*
