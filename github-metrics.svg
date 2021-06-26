@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5429" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5412" class="">
     <defs>
         <style/>
     </defs>
@@ -1506,17 +1506,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 202 edited files from 133 commits over last 13 days
+            estimation from 203 edited files from 133 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.05516729075396" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="327.05516729075396" y="0" width="111.69625396055365" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="438.7514212513076" y="0" width="11.743553204068949" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="450.4949744553765" y="0" width="9.505025544623502" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.2329982170415" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="323.2329982170415" y="0" width="109.92223903630342" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="433.1552372533449" y="0" width="26.84476274665508" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,7 +1526,7 @@
                     </div>
                             <small>
                                 <div>46.9 kB</div>
-                                <div>71.1%</div>
+                                <div>70.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,8 +1535,8 @@
                       Jupyter Notebook
                     </div>
                             <small>
-                                <div>1.68 kB</div>
-                                <div>2.55%</div>
+                                <div>3.90 kB</div>
+                                <div>5.84%</div>
                             </small>
                         </div>
                     </section>
@@ -1548,18 +1547,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>16 kB</div>
-                                <div>24.28%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
-                    </div>
-                            <small>
-                                <div>1.36 kB</div>
-                                <div>2.07%</div>
+                                <div>15.9 kB</div>
+                                <div>23.9%</div>
                             </small>
                         </div>
                     </section>
@@ -1704,7 +1693,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1752,7 +1741,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2085,6 +2074,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@GraphCDN</span> Oh ok. Thanks
+                  
+                  <div class="date">16:53 on 26/06/2021</div>
+                </div>
+                        <div class="tweet">
                   Question for <span class="mention">@GraphCDN</span>.. <br />Why, when I authorize with GitHub you need to be able to:<br />Know which resources I can access<br />and Act on my behalf?<br /><br />Seems a bit un-needed. Verify your github identify would be the only one needed in my mind. This is the only thing stoping me from using it
                   
                   <div class="date">13:13 on 26/06/2021</div>
@@ -2125,11 +2119,6 @@
                     </div>
                   
                   <div class="date">23:00 on 24/06/2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@codeSTACKr</span> <span class="mention">@code</span> left, if you use anything wrong then that is your opinion but it is wrong
-                  
-                  <div class="date">19:27 on 24/06/2021</div>
                 </div>
                     </section>
                 </div>
@@ -4152,7 +4141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/automod</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4194,7 +4183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/serde-yaml</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4236,7 +4225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/cargo-tally</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4278,7 +4267,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/indoc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5259,7 +5248,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.1526461860255 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.1599410652112 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5616,7 +5605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/06/2021, 16:12  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 26/06/2021, 17:01  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
