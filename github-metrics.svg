@@ -1506,16 +1506,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 203 edited files from 133 commits over last 13 days
+            estimation from 202 edited files from 133 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.9040128122615" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="322.9040128122615" y="0" width="110.2785469458622" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="433.18255975812366" y="0" width="26.817440241876337" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.58521363418146" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="322.58521363418146" y="0" width="110.53498559769564" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="433.12019923187705" y="0" width="26.879800768122898" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1525,8 +1525,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>46.9 kB</div>
-                                <div>70.2%</div>
+                                <div>46.7 kB</div>
+                                <div>70.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,7 +1536,7 @@
                     </div>
                             <small>
                                 <div>3.90 kB</div>
-                                <div>5.83%</div>
+                                <div>5.84%</div>
                             </small>
                         </div>
                     </section>
@@ -1548,7 +1548,7 @@
                     </div>
                             <small>
                                 <div>16 kB</div>
-                                <div>23.97%</div>
+                                <div>24.03%</div>
                             </small>
                         </div>
                     </section>
@@ -1693,7 +1693,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1741,7 +1741,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5248,7 +5248,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.16607329203131 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.17044823535008 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5605,7 +5605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/06/2021, 17:43  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 26/06/2021, 18:13  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
