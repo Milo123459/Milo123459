@@ -1513,10 +1513,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.8707996227726" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="248.8707996227726" y="0" width="95.62118429542859" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="344.4919839182012" y="0" width="88.93135454410086" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="433.42333846230207" y="0" width="26.57666153769792" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.8079042748622" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="248.8079042748622" y="0" width="95.6496698277146" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="344.4575741025768" y="0" width="88.95784717739934" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="433.41542127997616" y="0" width="26.58457872002383" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1526,8 +1526,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>10.9 kB</div>
-                                <div>54.1%</div>
+                                <div>10.8 kB</div>
+                                <div>54.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1537,7 +1537,7 @@
                     </div>
                             <small>
                                 <div>3.90 kB</div>
-                                <div>19.33%</div>
+                                <div>19.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1702,7 +1702,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.29 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.29 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1750,7 +1750,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.29 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.29 s
+                0.36 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5293,7 +5293,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.76730921399351 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.77163858772515 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5650,7 +5650,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/06/2021, 13:41  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 29/06/2021, 14:10  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
