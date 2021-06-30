@@ -1513,10 +1513,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.099725754176" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="160.099725754176" y="0" width="148.8988614643065" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="308.9985872184825" y="0" width="106.84783512008643" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="415.8464223385689" y="0" width="44.153577661431065" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.41968523607295" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="160.41968523607295" y="0" width="149.19643600632858" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="309.6161212424015" y="0" width="105.79731867765842" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="415.41343992005994" y="0" width="44.58656007994004" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,7 +1527,7 @@
                     </div>
                             <small>
                                 <div>4.19 kB</div>
-                                <div>34.8%</div>
+                                <div>34.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1536,8 +1536,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>2.79 kB</div>
-                                <div>23.23%</div>
+                                <div>2.76 kB</div>
+                                <div>23%</div>
                             </small>
                         </div>
                     </section>
@@ -1549,7 +1549,7 @@
                     </div>
                             <small>
                                 <div>3.90 kB</div>
-                                <div>32.37%</div>
+                                <div>32.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>1.16 kB</div>
-                                <div>9.6%</div>
+                                <div>9.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1702,7 +1702,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.23 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.54 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1750,7 +1750,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.23 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.54 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2010,7 +2010,7 @@
                                 <div class="infos">
                                     <div class="name">Chlorine</div>
                                     <div class="artist">Twenty One Pilots</div>
-                                    <div class="played-at">Played at 07:21 on 30/06/2021</div>
+                                    <div class="played-at">Played at 17:56 on 30/06/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -5291,7 +5291,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.01585807894153 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.0196224689244 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5648,7 +5648,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/06/2021, 17:46  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 30/06/2021, 18:12  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
