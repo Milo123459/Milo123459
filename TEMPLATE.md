@@ -8,7 +8,7 @@
 
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then I've opened **{{ ISSUES }}** issues, **{{ PULL_REQUESTS }}** PRs and commited a whopping **{{ COMMITS }}** times! I've accumulated an amazing **{{ STARS }}** stars across my repositories!
 
-I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** open-source projects! I've also reviewed **{{ CODE_REVIEWS }}** PRs!
+I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** open-source projects!
 
 ### My current projects
 
