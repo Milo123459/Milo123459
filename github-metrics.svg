@@ -1701,7 +1701,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.54 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1749,7 +1749,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.54 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4157,7 +4157,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geist-org/react</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5255,7 +5255,7 @@ As you can see, the breadcrumbs size didn't change. Still ridiculously confused.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.00674398449392 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.01058925355152 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5612,7 +5612,7 @@ As you can see, the breadcrumbs size didn't change. Still ridiculously confused.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 05/07/2021, 09:46  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 05/07/2021, 10:12  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
