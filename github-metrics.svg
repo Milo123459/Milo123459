@@ -1513,11 +1513,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.59694318946455" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="230.59694318946455" y="0" width="190.13746034797654" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="420.7344035374411" y="0" width="15.454195905027396" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.1885994424685" y="0" width="13.176968182255118" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="449.36556762472355" y="0" width="10.634432375276363" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.2317769566678" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="230.2317769566678" y="0" width="190.56480637266662" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="420.7965833293344" y="0" width="15.429723115312635" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.22630644464704" y="0" width="13.156101540381016" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="449.38240798502807" y="0" width="10.617592014971928" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1528,7 +1528,7 @@
                     </div>
                             <small>
                                 <div>10.4 kB</div>
-                                <div>50.13%</div>
+                                <div>50.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1538,7 +1538,7 @@
                     </div>
                             <small>
                                 <div>699 bytes</div>
-                                <div>3.36%</div>
+                                <div>3.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,8 +1559,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>8.60 kB</div>
-                                <div>41.33%</div>
+                                <div>8.63 kB</div>
+                                <div>41.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1723,7 +1723,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1771,7 +1771,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4216,7 +4216,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pojala/electrino</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5405,7 +5405,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                   Influencer
                   
                     <span class="gh">
-                      ranked 42.1k out of 73m users
+                      ranked 42.2k out of 73m users
                     </span>
                   
                 </div>
@@ -5422,7 +5422,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.40020206486237 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.40595946997082 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5779,7 +5779,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/07/2021, 06:15  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 07/07/2021, 06:54  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
