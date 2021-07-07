@@ -1513,11 +1513,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.55820610687022" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="231.55820610687022" y="0" width="189.46469465648855" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="421.02290076335873" y="0" width="15.340648854961831" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.3635496183206" y="0" width="13.080152671755725" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="449.44370229007626" y="0" width="10.556297709923664" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.24374999999998" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="246.24374999999998" y="0" width="177.28482142857143" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="423.5285714285714" y="0" width="14.354464285714286" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.8830357142857" y="0" width="12.239285714285714" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="450.1223214285714" y="0" width="9.877678571428572" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,8 +1527,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>10.5 kB</div>
-                                <div>50.34%</div>
+                                <div>11.9 kB</div>
+                                <div>53.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1538,7 +1538,7 @@
                     </div>
                             <small>
                                 <div>699 bytes</div>
-                                <div>3.33%</div>
+                                <div>3.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1548,7 +1548,7 @@
                     </div>
                             <small>
                                 <div>481 bytes</div>
-                                <div>2.29%</div>
+                                <div>2.15%</div>
                             </small>
                         </div>
                     </section>
@@ -1560,7 +1560,7 @@
                     </div>
                             <small>
                                 <div>8.63 kB</div>
-                                <div>41.19%</div>
+                                <div>38.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1570,7 +1570,7 @@
                     </div>
                             <small>
                                 <div>596 bytes</div>
-                                <div>2.84%</div>
+                                <div>2.66%</div>
                             </small>
                         </div>
                     </section>
@@ -1660,10 +1660,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
-                                <text x="60" y="60" dominant-baseline="central">87</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1713,7 +1713,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1723,7 +1723,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1761,7 +1761,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1771,7 +1771,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1978,27 +1978,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 38.38983540282992%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 38.49209566274828%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">48%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 33.6170950043315%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.70664195958075%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.2295697372220618%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.2381724477387226%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 2.7536817788045047%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.54791823498755%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 2.009818076812013%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.0151716949446987%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                     </div>
@@ -4240,7 +4240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/graphique</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5277,7 +5277,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.53375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5301,11 +5301,11 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 27.5k out of 238m repositories
+                      ranked 27.2k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 1117 stars</div>
+                                <div class="text">Maintaining a repository with 1132 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5449,7 +5449,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.53256230117961 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.53710599180303 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5765,7 +5765,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/07/2021, 21:12  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 07/07/2021, 21:43  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
