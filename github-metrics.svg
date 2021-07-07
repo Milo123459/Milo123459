@@ -1513,11 +1513,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.0994163815657" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="219.0994163815657" y="0" width="199.7977460253572" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="418.897162406923" y="0" width="16.177299255383375" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.0744616623063" y="0" width="13.793519822901992" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="448.8679814852083" y="0" width="11.132018514791708" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.7411147982494" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="230.7411147982494" y="0" width="190.9863896503631" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="421.72750444861254" y="0" width="15.463858029144422" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.1913624777569" y="0" width="12.167556389169432" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="449.3589188669264" y="0" width="10.64108113307363" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1527,8 +1527,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>9.47 kB</div>
-                                <div>47.63%</div>
+                                <div>10.4 kB</div>
+                                <div>50.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1538,7 +1538,7 @@
                     </div>
                             <small>
                                 <div>699 bytes</div>
-                                <div>3.52%</div>
+                                <div>3.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1548,7 +1548,7 @@
                     </div>
                             <small>
                                 <div>481 bytes</div>
-                                <div>2.42%</div>
+                                <div>2.31%</div>
                             </small>
                         </div>
                     </section>
@@ -1560,7 +1560,7 @@
                     </div>
                             <small>
                                 <div>8.63 kB</div>
-                                <div>43.43%</div>
+                                <div>41.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1569,8 +1569,8 @@
                       PowerShell
                     </div>
                             <small>
-                                <div>596 bytes</div>
-                                <div>3%</div>
+                                <div>550 bytes</div>
+                                <div>2.65%</div>
                             </small>
                         </div>
                     </section>
@@ -1713,7 +1713,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1723,7 +1723,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1761,7 +1761,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1771,7 +1771,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4216,7 +4216,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pojala/electrino</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5422,7 +5422,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.39089452031013 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.39492211440893 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5779,7 +5779,7 @@ Co-authored-by: Philipp Kief &lt;philipp.kief@gmx.de&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/07/2021, 05:12  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 07/07/2021, 05:39  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
