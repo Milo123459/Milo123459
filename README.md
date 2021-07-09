@@ -8,7 +8,7 @@
 
 I joined GitHub **2** years ago. Since then I've opened **239** issues, **138** PRs and commited a whopping **2693** times! I've accumulated an amazing **229** stars across my repositories!
 
-I ♥ helping out open source projects. I've contributed to **170** open-source projects!
+I ♥ helping out open source projects. I've contributed to **169** open-source projects!
 
 ### My current projects
 
