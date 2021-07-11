@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.18444159665864" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="346.18444159665864" y="0" width="91.9243121806129" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="438.10875377727155" y="0" width="21.891246222728494" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.2240427651869" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="346.2240427651869" y="0" width="91.89232788751997" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="438.11637065270685" y="0" width="21.883629347293173" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1537,7 +1537,7 @@
                     </div>
                             <small>
                                 <div>47.5 kB</div>
-                                <div>75.26%</div>
+                                <div>75.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4198,7 +4198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ObserverMC/dashboard.js</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4235,7 +4235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ObserverMC/dashboard-rs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5086,7 +5086,7 @@ assets/SpencerUp.png previously had a thumbs-down texture, and vice versa for as
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.731249999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.77 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5114,7 +5114,7 @@ assets/SpencerUp.png previously had a thumbs-down texture, and vice versa for as
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2335 stars</div>
+                                <div class="text">Maintaining a repository with 2336 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5290,7 +5290,7 @@ assets/SpencerUp.png previously had a thumbs-down texture, and vice versa for as
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.32024977319571 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.32398042649672 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5606,7 +5606,7 @@ assets/SpencerUp.png previously had a thumbs-down texture, and vice versa for as
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/07/2021, 14:14  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 11/07/2021, 14:40  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
