@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.50 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.50 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2093,6 +2093,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@I_AM_WILDCAT</span> I do coding.
+                  
+                  <div class="date">17:55 on 13/07/2021</div>
+                </div>
+                        <div class="tweet">
                   RT <span class="mention">@turtiIz</span>: until twitter unsuspends my main this’ll be my new main twitter so you should totally follow this one
                   
                   <div class="date">11:30 on 13/07/2021</div>
@@ -2122,11 +2127,6 @@
                   <span class="mention">@xPis_</span> No, it’s home not rome.
                   
                   <div class="date">19:35 on 11/07/2021</div>
-                </div>
-                        <div class="tweet">
-                  What is better
-                  
-                  <div class="date">18:13 on 11/07/2021</div>
                 </div>
                     </section>
                 </div>
@@ -4129,7 +4129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imager-io/imager</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4171,7 +4171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-unofficial/awesome-rust</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5104,7 +5104,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.88875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.82625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5128,11 +5128,11 @@
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 10k out of 238m repositories
+                      ranked 9.83k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2881 stars</div>
+                                <div class="text">Maintaining a repository with 2931 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5308,7 +5308,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.77647304564624 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.78061764174275 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5624,7 +5624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13/07/2021, 17:48  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 13/07/2021, 18:17  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
