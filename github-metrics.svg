@@ -1702,7 +1702,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1750,7 +1750,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1967,27 +1967,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 72.62963032218254%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 72.63486368817385%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">91%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.8415078815983845%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.838780200683895%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.5138652555208587%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.512790328306893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 1.1234316273677518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.1226339294056094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 0.8915649133304662%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8909318534297512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -5056,7 +5056,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                   Super developer
                   
                     <span class="gh">
-                      ranked 114k out of 73m users
+                      ranked 114k out of 74m users
                     </span>
                   
                 </div>
@@ -5105,7 +5105,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.4875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.4175 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5129,11 +5129,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 10.8k out of 238m repositories
+                      ranked 10.7k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2690 stars</div>
+                                <div class="text">Maintaining a repository with 2714 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5292,7 +5292,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                   Influencer
                   
                     <span class="gh">
-                      ranked 41.9k out of 73m users
+                      ranked 41.9k out of 74m users
                     </span>
                   
                 </div>
@@ -5309,7 +5309,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.67419832112506 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.67963157098237 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5625,7 +5625,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13/07/2021, 06:15  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 13/07/2021, 06:52  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
