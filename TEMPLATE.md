@@ -42,6 +42,13 @@ I ♥ helping out open source projects. I've contributed to **{{ REPOSITORIES_CO
   
 </details>
 
+<details>
+<summary><u><b> 👀 My discord presence </ub></b></summary>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/450212014912962560)](https://discord.com/users/450212014912962560)
+
+</details>
+
 Loving [Rust](https://rust-lang.org)
 
 ## Quick links
