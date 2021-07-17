@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.4901343531593" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="438.4901343531593" y="0" width="11.945657528870482" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="450.4357918820297" y="0" width="9.564208117970256" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.5494212673828" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="438.5494212673828" y="0" width="11.912732117578482" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="450.4621533849613" y="0" width="9.537846615038722" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1537,7 +1537,7 @@
                     </div>
                             <small>
                                 <div>114 kB</div>
-                                <div>95.32%</div>
+                                <div>95.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1547,7 +1547,7 @@
                     </div>
                             <small>
                                 <div>2.49 kB</div>
-                                <div>2.08%</div>
+                                <div>2.07%</div>
                             </small>
                         </div>
                     </section>
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>3.11 kB</div>
-                                <div>2.6%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                     </section>
@@ -1651,8 +1651,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5124,7 +5124,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.376999999999995 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.532 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5152,7 +5152,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6367 stars</div>
+                                <div class="text">Maintaining a repository with 6372 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5328,7 +5328,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.63486211670791 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.63828700183917 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5644,7 +5644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17/07/2021, 18:50  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 17/07/2021, 19:13  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
