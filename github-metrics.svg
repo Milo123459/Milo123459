@@ -1352,7 +1352,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    2.62k views in last two weeks
+                    2.65k views in last two weeks
                   
                 </div>
                             </section>
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2098,6 +2098,11 @@
             
           </div>
                         <div class="tweet">
+                  books suck
+                  
+                  <div class="date">14:28 on 18/07/2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@Ivel97_</span> e
                   
                   <div class="date">13:17 on 18/07/2021</div>
@@ -2127,11 +2132,6 @@
                   RT <span class="mention">@LunarClient</span>: Our half-yearly Vault Sale has commenced and will last until the end of the month! <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#AAB8C2" d="M18 0c-4.612 0-8.483 3.126-9.639 7.371l3.855 1.052C12.91 5.876 15.233 4 18 4c3.313 0 6 2.687 6 6v10h4V10c0-5.522-4.477-10-10-10z"/><path fill="#FFAC33" d="M31 32c0 2.209-1.791 4-4 4H9c-2.209 0-4-1.791-4-4V20c0-2.209 1.791-4 4-4h18c2.209 0 4 1.791 4 4v12z"/></svg><br /><br />All cosmetics and emotes ever sold o…
                   
                   <div class="date">17:39 on 17/07/2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@ObserverBotMC</span> What a milestone! <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><ellipse fill="#F5F8FA" cx="8.828" cy="18" rx="7.953" ry="13.281"/><path fill="#E1E8ED" d="M8.828 32.031C3.948 32.031.125 25.868.125 18S3.948 3.969 8.828 3.969 17.531 10.132 17.531 18s-3.823 14.031-8.703 14.031zm0-26.562C4.856 5.469 1.625 11.09 1.625 18s3.231 12.531 7.203 12.531S16.031 24.91 16.031 18 12.8 5.469 8.828 5.469z"/><circle fill="#8899A6" cx="6.594" cy="18" r="4.96"/><circle fill="#292F33" cx="6.594" cy="18" r="3.565"/><circle fill="#F5F8FA" cx="7.911" cy="15.443" r="1.426"/><ellipse fill="#F5F8FA" cx="27.234" cy="18" rx="7.953" ry="13.281"/><path fill="#E1E8ED" d="M27.234 32.031c-4.88 0-8.703-6.163-8.703-14.031s3.823-14.031 8.703-14.031S35.938 10.132 35.938 18s-3.824 14.031-8.704 14.031zm0-26.562c-3.972 0-7.203 5.622-7.203 12.531 0 6.91 3.231 12.531 7.203 12.531S34.438 24.91 34.438 18 31.206 5.469 27.234 5.469z"/><circle fill="#8899A6" cx="25" cy="18" r="4.96"/><circle fill="#292F33" cx="25" cy="18" r="3.565"/><circle fill="#F5F8FA" cx="26.317" cy="15.443" r="1.426"/></svg>
-                  
-                  <div class="date">12:39 on 17/07/2021</div>
                 </div>
                     </section>
                 </div>
@@ -4124,7 +4124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukesmurray/scrawl</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5094,7 +5094,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.980000000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.135 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5122,7 +5122,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6580 stars</div>
+                                <div class="text">Maintaining a repository with 6585 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5298,7 +5298,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.80625052091263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.81022318723046 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5614,7 +5614,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18/07/2021, 14:12  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 18/07/2021, 14:39  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
