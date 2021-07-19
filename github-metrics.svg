@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.7931579988135" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="437.7931579988135" y="0" width="12.35910618944038" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="450.1522641882539" y="0" width="9.847735811746094" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.79029373323243" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="437.79029373323243" y="0" width="12.360700282038936" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="450.15099401527135" y="0" width="9.849005984728624" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1649,10 +1649,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
-                                <text x="60" y="60" dominant-baseline="central">86</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -5072,7 +5072,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.544000000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.73 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5096,11 +5096,11 @@
                   Super maintainer
                   
                     <span class="gh">
-                      ranked 3.48k out of 238m repositories
+                      ranked 3.47k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6824 stars</div>
+                                <div class="text">Maintaining a repository with 6830 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5276,7 +5276,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.03272343369484 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.03678828117071 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5592,7 +5592,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/07/2021, 15:48  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 19/07/2021, 16:16  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
