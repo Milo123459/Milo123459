@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.72958897731485" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="437.72958897731485" y="0" width="12.39448520852913" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="450.12407418584394" y="0" width="9.87592581415601" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.6961271102284" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="437.6961271102284" y="0" width="12.413108242303874" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="450.10923535253227" y="0" width="9.890764647467725" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1537,7 +1537,7 @@
                     </div>
                             <small>
                                 <div>110 kB</div>
-                                <div>95.16%</div>
+                                <div>95.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1559,7 +1559,7 @@
                     </div>
                             <small>
                                 <div>3.13 kB</div>
-                                <div>2.69%</div>
+                                <div>2.7%</div>
                             </small>
                         </div>
                     </section>
@@ -1702,7 +1702,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1712,7 +1712,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1750,7 +1750,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1760,7 +1760,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1967,27 +1967,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 76.02043098948624%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 76.02072770653146%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">95%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 1.8566848109760645%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.856546376379362%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 1.175900380284841%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.1758127050402625%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.7903959436283647%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7903370116313748%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.15658787562448737%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.15657620041753653%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2010,7 +2010,7 @@
                                 <div class="infos">
                                     <div class="name">Congratulations - Remix</div>
                                     <div class="artist">pewdiepie</div>
-                                    <div class="played-at">Played at 15:52 on 20/07/2021</div>
+                                    <div class="played-at">Played at 16:41 on 20/07/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -4171,7 +4171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/mem</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4213,7 +4213,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FFmpeg/FFmpeg</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4255,7 +4255,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Phineas/lanyard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5094,7 +5094,7 @@ As you can see it disappears when I react, and I propose it stays and updates on
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.791 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.853 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5122,7 +5122,7 @@ As you can see it disappears when I react, and I propose it stays and updates on
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6961 stars</div>
+                                <div class="text">Maintaining a repository with 6963 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5298,7 +5298,7 @@ As you can see it disappears when I react, and I propose it stays and updates on
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.25662326341326 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.25967175402715 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5614,7 +5614,7 @@ As you can see it disappears when I react, and I propose it stays and updates on
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/07/2021, 17:07  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 20/07/2021, 17:27  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
