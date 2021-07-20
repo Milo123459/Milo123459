@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.7161393852074" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="437.7161393852074" y="0" width="12.40197051134942" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="450.11810989655675" y="0" width="9.881890103443219" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.71517807840974" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="437.71517807840974" y="0" width="12.402505521811154" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="450.1176836002209" y="0" width="9.882316399779127" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4136,7 +4136,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FFmpeg/FFmpeg</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4178,7 +4178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Phineas/lanyard</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4220,7 +4220,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shinokada/awesome</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4261,7 +4261,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rauchg/spot</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5099,7 +5099,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.86900000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.931 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5127,7 +5127,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 6899 stars</div>
+                                <div class="text">Maintaining a repository with 6901 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5286,7 +5286,7 @@
                   Influencer
                   
                     <span class="gh">
-                      ranked 40.9k out of 74m users
+                      ranked 40.8k out of 74m users
                     </span>
                   
                 </div>
@@ -5303,7 +5303,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.14263879169837 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.14829986491628 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5619,7 +5619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/07/2021, 04:14  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 20/07/2021, 04:52  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
