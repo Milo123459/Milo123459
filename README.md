@@ -6,7 +6,7 @@
 
 ### More about me
 
-I joined GitHub **2** years ago. Since then I've opened **242** issues, **141** PRs and commited a whopping **2755** times! I've accumulated an amazing **231** stars across my repositories!
+I joined GitHub **2** years ago. Since then I've opened **242** issues, **141** PRs and commited a whopping **2756** times! I've accumulated an amazing **231** stars across my repositories!
 
 I ♥ helping out open source projects. I've contributed to **170** open-source projects!
 
@@ -40,6 +40,13 @@ I ♥ helping out open source projects. I've contributed to **170** open-source 
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
   
+</details>
+
+<details>
+<summary><u><b> 👀 My discord presence </ub></b></summary>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/450212014912962560)](https://discord.com/users/450212014912962560)
+
 </details>
 
 Loving [Rust](https://rust-lang.org)
