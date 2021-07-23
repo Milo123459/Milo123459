@@ -1524,10 +1524,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.69509390571096" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="381.69509390571096" y="0" width="41.01475661172863" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="422.70985051743963" y="0" width="27.438673821387503" height="8" fill="#959DA5"/>
-                    <rect mask="url(#languages-bar)" x="450.1485243388271" y="0" width="9.851475661172863" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.68055954776275" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="381.68055954776275" y="0" width="41.032863849765256" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="422.713423397528" y="0" width="27.4360448404714" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="450.1494682379994" y="0" width="9.850531762000575" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1538,7 +1538,7 @@
                     </div>
                             <small>
                                 <div>34.6 kB</div>
-                                <div>82.98%</div>
+                                <div>82.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1713,7 +1713,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1723,7 +1723,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.61 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1761,7 +1761,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1771,7 +1771,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.61 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1978,17 +1978,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 57.06019995745586%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 57.06507868991919%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">71%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 18.574771325249944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.570820927264993%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 4.365028717294193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.364100382815823%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                     </div>
@@ -4141,7 +4141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LinusU/rust-log-update</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4179,7 +4179,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GreenwichDB/GreenwichDB</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5101,7 +5101,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.244 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.306 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5129,7 +5129,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7524 stars</div>
+                                <div class="text">Maintaining a repository with 7526 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5305,7 +5305,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.78834237102042 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.79241400613584 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5621,7 +5621,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23/07/2021, 05:13  with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 23/07/2021, 05:40  with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
