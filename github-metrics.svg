@@ -1705,7 +1705,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1753,7 +1753,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.35 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4148,7 +4148,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chartjs/Chart.js</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4228,7 +4228,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GreenwichDB/GreenwichDB</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5129,7 +5129,7 @@ Co-authored-by: NoobieYT &lt;NoobieYT@users.noreply.github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.011 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.042 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5157,7 +5157,7 @@ Co-authored-by: NoobieYT &lt;NoobieYT@users.noreply.github.com&gt;</span>
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7581 stars</div>
+                                <div class="text">Maintaining a repository with 7582 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5333,7 +5333,7 @@ Co-authored-by: NoobieYT &lt;NoobieYT@users.noreply.github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.11621284722222 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.12138052146754 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5649,7 +5649,7 @@ Co-authored-by: NoobieYT &lt;NoobieYT@users.noreply.github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/07/2021, 18:16  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 24/07/2021, 18:51  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
