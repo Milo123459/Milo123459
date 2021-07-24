@@ -1524,9 +1524,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.46281158834233" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="377.46281158834233" y="0" width="49.45322203287022" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="426.91603362121253" y="0" width="33.083966378787444" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.4723465703971" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="377.4723465703971" y="0" width="49.447509025270755" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="426.91985559566785" y="0" width="33.08014440433213" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4159,7 +4159,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chartjs/Chart.js</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4201,7 +4201,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LinusU/rust-log-update</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5129,7 +5129,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.36 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5157,7 +5157,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7558 stars</div>
+                                <div class="text">Maintaining a repository with 7560 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5333,7 +5333,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.96960292261227 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.97625034650875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5649,7 +5649,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/07/2021, 01:42  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 24/07/2021, 02:27  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
