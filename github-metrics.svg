@@ -1524,10 +1524,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.114289310551" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="302.114289310551" y="0" width="77.00682840869756" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="379.12111771924856" y="0" width="68.3435602127191" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="447.4646779319676" y="0" width="12.535322068032348" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.1192573945878" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="302.1192573945878" y="0" width="77.00440528634361" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="379.1236626809314" y="0" width="68.34140969162996" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="447.46507237256134" y="0" width="12.534927627438641" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1570,7 +1570,7 @@
                     </div>
                             <small>
                                 <div>1.73 kB</div>
-                                <div>2.73%</div>
+                                <div>2.72%</div>
                             </small>
                         </div>
                     </section>
@@ -1682,8 +1682,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">93</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -1717,7 +1717,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1727,7 +1727,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1765,7 +1765,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1775,7 +1775,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.47 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4195,7 +4195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>colin-kiegel/rust-derive-builder</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4237,7 +4237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/coco</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5171,7 +5171,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.421 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.452 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5199,7 +5199,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7691 stars</div>
+                                <div class="text">Maintaining a repository with 7692 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -5375,7 +5375,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.14200255969368 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.14604029593164 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5691,7 +5691,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/07/2021, 14:13  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 29/07/2021, 14:41  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
