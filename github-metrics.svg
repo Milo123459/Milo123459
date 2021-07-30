@@ -1636,8 +1636,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                                <text x="60" y="60" dominant-baseline="central">98</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1687,7 +1687,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1697,7 +1697,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.50 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1735,7 +1735,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.25 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1745,7 +1745,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.50 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1970,7 +1970,7 @@
                                 <div class="infos">
                                     <div class="name">We Could Get More Machinegun Psystyle! -And More Genre Switches-</div>
                                     <div class="artist">Camellia</div>
-                                    <div class="played-at">Played at 17:36 on 30/07/2021</div>
+                                    <div class="played-at">Played at 19:13 on 30/07/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -4140,7 +4140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rig-sh/rig</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5291,7 +5291,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.39527379582067 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.39934029474252 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5607,7 +5607,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/07/2021, 18:51  with lowlighter/metrics@3.12.0-beta</span>
+                <span>Last updated 30/07/2021, 19:19  with lowlighter/metrics@3.12.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
