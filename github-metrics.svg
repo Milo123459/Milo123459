@@ -1535,10 +1535,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.25957717374024" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="299.25957717374024" y="0" width="79.02845334604991" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="378.28803051979014" y="0" width="69.04752821491019" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="447.3355587347003" y="0" width="12.664441265299633" height="8" fill="#959DA5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.25446684046545" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="299.25446684046545" y="0" width="79.03096585489922" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="378.28543269536465" y="0" width="69.04972340560819" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="447.3351561009729" y="0" width="12.66484389902715" height="8" fill="#959DA5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1738,7 +1738,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.31 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1786,7 +1786,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.31 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -5375,7 +5375,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.59484349386416 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.59822370394153 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5691,7 +5691,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31/07/2021, 17:24  with lowlighter/metrics@3.12.0-beta</span>
+                <span>Last updated 31/07/2021, 17:47  with lowlighter/metrics@3.12.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
