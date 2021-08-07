@@ -1648,10 +1648,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="250.04 329"/>
+                                <text x="60" y="60" dominant-baseline="central">76</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1711,7 +1711,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.66 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1759,7 +1759,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.66 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2052,7 +2052,7 @@
             
           </div>
                         <div class="tweet">
-                  mog pan sus <br /><a href="https://t.co/w9JGKifSZy" class="link">twitter.com/disneydxd/stat…</a>
+                  mog pan sus <br /><a href="https://t.co/w9JGKifSZy" class="link">twitter.com/DisneyDXD/stat…</a>
                   
                   <div class="date">07:58 on 06/08/2021</div>
                 </div>
@@ -4171,7 +4171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tc39/proposal-pattern-matching</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5118,7 +5118,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.196250000000003 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.204 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5146,7 +5146,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7735 stars</div>
+                                <div class="text">Maintaining a repository with 7736 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -5357,7 +5357,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.99436371036276 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.99944689791033 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5673,7 +5673,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/08/2021, 07:36  with lowlighter/metrics@3.13.0-beta</span>
+                <span>Last updated 07/08/2021, 08:10  with lowlighter/metrics@3.13.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
