@@ -76,4 +76,5 @@ jobs:
           plugin_stackoverflow_user: 13050631
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 4                              
-          plugin_stackoverflow_lines: 4       
+          plugin_stackoverflow_lines: 4 
+          plugin_discussions: yes      
