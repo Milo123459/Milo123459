@@ -20,6 +20,7 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_languages_details: bytes-size, percentage
           plugin_followup: yes
+          plugin_followup_sections: repositories, user
           plugin_lines: yes
           plugin_traffic: yes
           plugin_habits: yes
