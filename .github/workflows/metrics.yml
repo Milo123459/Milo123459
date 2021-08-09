@@ -71,4 +71,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>500
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: no 
+          plugin_languages_indepth: no
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 4                              
+          plugin_stackoverflow_lines: 4       
