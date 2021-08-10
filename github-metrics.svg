@@ -1269,7 +1269,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            4760 Commits
+            4761 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1345,7 +1345,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    952k added, 329k removed
+                    952k added, 339k removed
                   
                 </div>
                             </section>
@@ -1369,7 +1369,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.97k views in last two weeks
+                    2k views in last two weeks
                   
                 </div>
                             </section>
@@ -1647,16 +1647,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 75 edited files from 81 commits over last 14 days
+            estimation from 75 edited files from 80 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.42170732612973" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="193.42170732612973" y="0" width="160.54138353570235" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="353.9630908618321" y="0" width="106.03690913816791" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.3846546110697" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="178.3846546110697" y="0" width="169.59714431412544" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="347.98179892519516" y="0" width="112.01820107480485" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1666,8 +1666,8 @@
                       Lua
                     </div>
                             <small>
-                                <div>11.3 kB</div>
-                                <div>42.05%</div>
+                                <div>9.89 kB</div>
+                                <div>38.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1677,7 +1677,7 @@
                     </div>
                             <small>
                                 <div>6.21 kB</div>
-                                <div>23.05%</div>
+                                <div>24.35%</div>
                             </small>
                         </div>
                     </section>
@@ -1689,7 +1689,7 @@
                     </div>
                             <small>
                                 <div>9.40 kB</div>
-                                <div>34.9%</div>
+                                <div>36.87%</div>
                             </small>
                         </div>
                     </section>
@@ -1836,7 +1836,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1846,7 +1846,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.62 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1884,7 +1884,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1894,7 +1894,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.62 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1918,13 +1918,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 81 commits)</small>
+        <small class="h-details">(computed from last 80 commits)</small>
       
     </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.5 characters per line of code written</li>
+                        <li>Has approximately 38.8 characters per line of code written</li>
                         <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -2014,8 +2014,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -2070,8 +2070,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">6</span>
-                <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 7.8125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -2101,22 +2101,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 33.072429906542055%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">41%</span>
+                            <div class="bar" style="width: 30.472374200508593%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">38%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 27.45035046728972%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">34%</span>
+                            <div class="bar" style="width: 28.971256839022885%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">36%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 18.130841121495326%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">23%</span>
+                            <div class="bar" style="width: 19.135393388302383%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">24%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.346378504672897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4209755721661401%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -2216,7 +2216,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/></svg>
-            ~8.71 commits per day
+            ~8.72 commits per day
           </div>
                     </section>
                 </div>
@@ -4171,10 +4171,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8695652173913047 0,1.8695652173913044 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8695652173913044 1.7,2.8695652173913047 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.739130434782609)">
+                            <g transform="translate(-3.4, 7.6521739130434785)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.260869565217391 0,1.2608695652173914 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2608695652173914 1.7,2.260869565217391 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3478260869565215 0,1.3478260869565217 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3478260869565217 1.7,2.3478260869565215 z"/>
                             </g>
                         </g>
                     </g>
@@ -4195,7 +4195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aria2/aria2</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4237,7 +4237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CloneTrooper1019/Roblox-Client-Tracker</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4275,7 +4275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hora-search/hora</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4292,7 +4292,7 @@
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    1.09k
+                    1.11k
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -4317,7 +4317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>montlikadani/TabList</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5464,7 +5464,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.3435 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.328 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5492,7 +5492,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7754 stars</div>
+                                <div class="text">Maintaining a repository with 7752 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -5703,7 +5703,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.69857314949581 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.714989502949 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6019,7 +6019,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/08/2021, 15:12  with lowlighter/metrics@3.13.0-beta</span>
+                <span>Last updated 10/08/2021, 17:03  with lowlighter/metrics@3.13.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
