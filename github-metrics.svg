@@ -1722,9 +1722,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.1497634891365" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="364.1497634891365" y="0" width="47.980437745530345" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="412.13020123466686" y="0" width="47.869798765333115" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="363.4795134443022" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="363.4795134443022" y="0" width="48.73879641485276" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="412.21830985915494" y="0" width="47.78169014084507" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1735,7 +1735,7 @@
                     </div>
                             <small>
                                 <div>9.87 kB</div>
-                                <div>79.16%</div>
+                                <div>79.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1745,7 +1745,7 @@
                     </div>
                             <small>
                                 <div>1.30 kB</div>
-                                <div>10.41%</div>
+                                <div>10.39%</div>
                             </small>
                         </div>
                     </section>
@@ -1756,8 +1756,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>1.30 kB</div>
-                                <div>10.43%</div>
+                                <div>1.32 kB</div>
+                                <div>10.6%</div>
                             </small>
                         </div>
                     </section>
@@ -1914,7 +1914,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.31 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1962,7 +1962,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.31 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4301,7 +4301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swc-project/swc</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5767,7 +5767,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.43301295582827 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.4381061306919 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6161,7 +6161,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14/08/2021, 02:13  with lowlighter/metrics@3.13.0-beta</span>
+                <span>Last updated 14/08/2021, 02:47  with lowlighter/metrics@3.13.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
