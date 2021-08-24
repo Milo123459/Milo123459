@@ -1722,9 +1722,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.58305369127515" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="375.58305369127515" y="0" width="74.09395973154362" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="449.6770134228188" y="0" width="10.322986577181208" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.8589568685067" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="375.8589568685067" y="0" width="73.81047329205583" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="449.6694301605625" y="0" width="10.330569839437507" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1735,7 +1735,7 @@
                     </div>
                             <small>
                                 <div>7.79 kB</div>
-                                <div>81.65%</div>
+                                <div>81.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1745,7 +1745,7 @@
                     </div>
                             <small>
                                 <div>214 bytes</div>
-                                <div>2.24%</div>
+                                <div>2.25%</div>
                             </small>
                         </div>
                     </section>
@@ -1756,8 +1756,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>1.54 kB</div>
-                                <div>16.11%</div>
+                                <div>1.53 kB</div>
+                                <div>16.05%</div>
                             </small>
                         </div>
                     </section>
@@ -1904,7 +1904,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.65 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1914,7 +1914,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.81 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1952,7 +1952,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.65 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1962,7 +1962,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.81 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4280,7 +4280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withfig/fig</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4318,7 +4318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AtollStudios/Knit</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4360,7 +4360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zkat/miette</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6032,7 +6032,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="101.57971662932837 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="101.58259018217275 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6426,7 +6426,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/08/2021, 04:52  with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 24/08/2021, 05:11  with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
