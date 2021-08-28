@@ -1722,9 +1722,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.58305369127515" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="375.58305369127515" y="0" width="74.09395973154362" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="449.6770134228188" y="0" width="10.322986577181208" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.56534508076356" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="375.56534508076356" y="0" width="74.10950283196979" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="449.67484791273336" y="0" width="10.325152087266625" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1734,8 +1734,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>7.79 kB</div>
-                                <div>81.65%</div>
+                                <div>7.78 kB</div>
+                                <div>81.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1914,7 +1914,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1962,7 +1962,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -6285,7 +6285,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28/08/2021, 10:50  with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 28/08/2021, 11:10  with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
