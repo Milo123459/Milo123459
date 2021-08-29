@@ -1715,7 +1715,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 79 edited files from 119 commits over last 13 days
+            estimation from 79 edited files from 119 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -2158,12 +2158,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 69.57446808510637%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 69.20634920634922%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">87%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 10.425531914893618%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.793650793650793%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">13%</span>
                         </div>
                     </div>
@@ -4292,7 +4292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meilisearch/MeiliSearch</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4334,7 +4334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/tokio</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4376,7 +4376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harryfei/which-rs</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4418,7 +4418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Byron/gitoxide</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6266,7 +6266,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29/08/2021, 00:29  with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 29/08/2021, 01:39  with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
