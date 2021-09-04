@@ -1704,16 +1704,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 74 edited files from 77 commits over last 13 days
+            estimation from 76 edited files from 77 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.97967053694936" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="260.97967053694936" y="0" width="168.96810160539883" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.9477721423482" y="0" width="30.05222785765184" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.9329431396061" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="260.9329431396061" y="0" width="169.00777312862138" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.94071626822745" y="0" width="30.05928373177256" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1724,7 +1724,7 @@
                     </div>
                             <small>
                                 <div>67.6 kB</div>
-                                <div>56.73%</div>
+                                <div>56.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1746,7 +1746,7 @@
                     </div>
                             <small>
                                 <div>43.8 kB</div>
-                                <div>36.73%</div>
+                                <div>36.74%</div>
                             </small>
                         </div>
                     </section>
@@ -1893,7 +1893,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.26 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1941,7 +1941,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.26 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4316,7 +4316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust-semverver</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4358,7 +4358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4400,7 +4400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/crates.io</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4442,7 +4442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/docs.rs</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6286,7 +6286,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 04/09/2021, 02:27  with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 04/09/2021, 02:50  with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
