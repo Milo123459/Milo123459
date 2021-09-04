@@ -1704,7 +1704,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 76 edited files from 77 commits over last 13 days
+            estimation from 74 edited files from 77 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -4316,7 +4316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust-semverver</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4358,7 +4358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4400,7 +4400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/crates.io</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4442,7 +4442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/docs.rs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6286,7 +6286,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 04/09/2021, 01:37  with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 04/09/2021, 02:27  with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
