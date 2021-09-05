@@ -1704,15 +1704,14 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 63 edited files from 76 commits over last 14 days
+            estimation from 45 edited files from 75 commits over last 9 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.9421487603306" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="278.9421487603306" y="0" width="181.05785123966942" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1723,21 +1722,11 @@
                     </div>
                             <small>
                                 <div>67.5 kB</div>
-                                <div>60.64%</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
-                    </div>
-                            <small>
-                                <div>43.8 kB</div>
-                                <div>39.36%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4321,7 +4310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thelittlewonder/gitstalk</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4363,7 +4352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/emoj</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4410,7 +4399,7 @@
                   
                   <div class="name">
                     <span>parasyte/pixels</span>
-                    <span>starred 24 hours ago</span>
+                    <span>starred 1 day ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -5117,7 +5106,7 @@
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
-              ~9 coding hours recorded
+              ~4 coding hours recorded
             </div>
           
           
@@ -5137,7 +5126,7 @@
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/></svg>
-              ~2 hours of coding per day
+              ~1 hours of coding per day
             </div>
           
           
@@ -5166,26 +5155,26 @@
                   
                     <div class="entry">
                       <span class="name">backend</span>
-                      <div class="bar" style="width: 59.367999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">74%</span>
+                      <div class="bar" style="width: 41.368%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">52%</span>
                     </div>
                   
                     <div class="entry">
-                      <span class="name">the-bad-backend</span>
-                      <div class="bar" style="width: 6.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">8%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">serenity</span>
-                      <div class="bar" style="width: 3.6479999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <span class="name">bevy</span>
+                      <div class="bar" style="width: 12.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">15%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">azl</span>
-                      <div class="bar" style="width: 2.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">3%</span>
+                      <div class="bar" style="width: 5.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">7%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">docs.rs</span>
+                      <div class="bar" style="width: 4.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
                     </div>
                   
                 
@@ -5199,26 +5188,26 @@
                   
                     <div class="entry">
                       <span class="name">Rust</span>
-                      <div class="bar" style="width: 55.696000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                      <span class="value">70%</span>
+                      <div class="bar" style="width: 54.416%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <span class="value">68%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">TypeScript</span>
-                      <div class="bar" style="width: 10.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">13%</span>
-                    </div>
-                  
-                    <div class="entry">
-                      <span class="name">TOML</span>
-                      <div class="bar" style="width: 4.4479999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">6%</span>
+                      <div class="bar" style="width: 8.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">11%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Markdown</span>
-                      <div class="bar" style="width: 3.9840000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <div class="bar" style="width: 6.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">8%</span>
+                    </div>
+                  
+                    <div class="entry">
+                      <span class="name">JSON</span>
+                      <div class="bar" style="width: 5.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">6%</span>
                     </div>
                   
                 
@@ -6243,7 +6232,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 05/09/2021, 23:12  with lowlighter/metrics@3.14.0-beta</span>
+          <span>Last updated 05/09/2021, 23:39  with lowlighter/metrics@3.14.0-beta</span>
         </footer>
       
 
