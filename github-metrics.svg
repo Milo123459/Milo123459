@@ -1704,14 +1704,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 45 edited files from 77 commits over last 14 days
+            estimation from 63 edited files from 77 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="278.9421487603306" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="278.9421487603306" y="0" width="181.05785123966942" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1722,11 +1723,21 @@
                     </div>
                             <small>
                                 <div>67.5 kB</div>
-                                <div>100%</div>
+                                <div>60.64%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
+                    </div>
+                            <small>
+                                <div>43.8 kB</div>
+                                <div>39.36%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -1881,7 +1892,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1929,7 +1940,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4310,7 +4321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thelittlewonder/gitstalk</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4352,7 +4363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/emoj</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4399,7 +4410,7 @@
                   
                   <div class="name">
                     <span>parasyte/pixels</span>
-                    <span>starred 22 hours ago</span>
+                    <span>starred 23 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -6232,7 +6243,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 05/09/2021, 21:10  with lowlighter/metrics@3.14.0-beta</span>
+          <span>Last updated 05/09/2021, 21:39  with lowlighter/metrics@3.14.0-beta</span>
         </footer>
       
 
