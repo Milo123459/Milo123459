@@ -1778,7 +1778,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.47 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1788,7 +1788,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1826,7 +1826,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.47 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1836,7 +1836,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3977,7 +3977,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parasyte/pixels</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5347,7 +5347,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                   <span class="prefix">Super</span> maintainer
                   
                     <span class="gh">
-                      ranked 2.92k out of 238m repositories
+                      ranked 2.93k out of 238m repositories
                     </span>
                   
                   
@@ -5962,7 +5962,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 05/09/2021, 08:12  with lowlighter/metrics@3.14.0-beta</span>
+                    <span>Last updated 05/09/2021, 08:44  with lowlighter/metrics@3.14.0-beta</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
