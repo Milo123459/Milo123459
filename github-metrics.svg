@@ -1711,8 +1711,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.40852849025543" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="412.40852849025543" y="0" width="47.59147150974457" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.77635057548" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="414.77635057548" y="0" width="45.223649424519984" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1723,7 +1723,7 @@
                     </div>
                             <small>
                                 <div>67.5 kB</div>
-                                <div>89.65%</div>
+                                <div>90.17%</div>
                             </small>
                         </div>
                     </section>
@@ -1734,8 +1734,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>7.79 kB</div>
-                                <div>10.35%</div>
+                                <div>7.36 kB</div>
+                                <div>9.83%</div>
                             </small>
                         </div>
                     </section>
@@ -4319,7 +4319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>launchbadge/sqlx</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5853,7 +5853,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.81187475274291 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.81646635987443 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6247,7 +6247,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/09/2021, 10:12  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 08/09/2021, 10:43  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
