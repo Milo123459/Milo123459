@@ -1711,8 +1711,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.2449277916585" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="355.2449277916585" y="0" width="104.75507220834155" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.21559680597323" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="355.21559680597323" y="0" width="104.78440319402675" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1723,7 +1723,7 @@
                     </div>
                             <small>
                                 <div>74.4 kB</div>
-                                <div>77.23%</div>
+                                <div>77.22%</div>
                             </small>
                         </div>
                     </section>
@@ -1735,7 +1735,7 @@
                     </div>
                             <small>
                                 <div>21.9 kB</div>
-                                <div>22.77%</div>
+                                <div>22.78%</div>
                             </small>
                         </div>
                     </section>
@@ -1900,7 +1900,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1948,7 +1948,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.33 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2155,22 +2155,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 61.9134892141208%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 61.91097053708545%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">77%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 17.857876590421366%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 17.860404568429832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">22%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.17167905779929415%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.17167207379458338%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.056955137658533606%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05695282069014615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2193,7 +2193,7 @@
                                 <div class="infos">
                                     <div class="name">good 4 u</div>
                                     <div class="artist">Olivia Rodrigo</div>
-                                    <div class="played-at">Played at 16:46 on 11/09/2021</div>
+                                    <div class="played-at">Played at 19:09 on 11/09/2021</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -4311,7 +4311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kb24x7/redock</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5887,7 +5887,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.52447864408929 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.52825085140792 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6281,7 +6281,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/09/2021, 18:45  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 11/09/2021, 19:10  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
