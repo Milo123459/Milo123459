@@ -4368,7 +4368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/path-to-error</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4410,7 +4410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serde-rs/serde</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5567,7 +5567,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 85.8k out of 76m users
+                      ranked 85.9k out of 76m users
                     </span>
                   
                   
@@ -5863,7 +5863,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.7445620067542 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.74963199747907 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6257,7 +6257,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12/09/2021, 19:37  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 12/09/2021, 20:12  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
