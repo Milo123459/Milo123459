@@ -1890,7 +1890,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.37 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1900,7 +1900,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.54 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1938,7 +1938,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.37 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1948,7 +1948,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.54 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2155,27 +2155,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 65.44791013286195%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">82%</span>
+                            <div class="bar" style="width: 52.63505457213611%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">66%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 12.937218452414893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">16%</span>
+                            <div class="bar" style="width: 26.066220306337705%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">33%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.9625363517135199%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7740988718701275%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 0.3330102069909335%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.2678161973768688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.3193248560187033%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.25681005227918924%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4332,7 +4332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matklad/once_cell</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -5050,23 +5050,23 @@ Ah alright.
                             <div class="chart-bars horizontal">
                                 <div class="entry">
                                     <span class="name">sushibot</span>
-                                    <div class="bar" style="width: 48.6%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                    <span class="value">61%</span>
+                                    <div class="bar" style="width: 51.616%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                    <span class="value">65%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">backend</span>
-                                    <div class="bar" style="width: 15.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">20%</span>
+                                    <div class="bar" style="width: 13.928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">17%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">serenity</span>
-                                    <div class="bar" style="width: 7.4159999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">9%</span>
+                                    <div class="bar" style="width: 7.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">10%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">fig-autocomplete</span>
-                                    <div class="bar" style="width: 5.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">7%</span>
+                                    <div class="bar" style="width: 4.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">5%</span>
                                 </div>
                             </div>
                         </section>
@@ -5075,23 +5075,23 @@ Ah alright.
                             <div class="chart-bars horizontal">
                                 <div class="entry">
                                     <span class="name">Rust</span>
-                                    <div class="bar" style="width: 59.536%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                    <span class="value">74%</span>
+                                    <div class="bar" style="width: 61.264%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                    <span class="value">77%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">TypeScript</span>
-                                    <div class="bar" style="width: 6.335999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">8%</span>
+                                    <div class="bar" style="width: 4.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">6%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">TOML</span>
-                                    <div class="bar" style="width: 4.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <div class="bar" style="width: 4.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                     <span class="value">6%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">Other</span>
-                                    <div class="bar" style="width: 2.8960000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">4%</span>
+                                    <div class="bar" style="width: 2.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">3%</span>
                                 </div>
                             </div>
                         </section>
@@ -5874,7 +5874,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.62537440377665 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.62962298444634 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6268,7 +6268,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 16/09/2021, 23:11  with lowlighter/metrics@3.13.0</span>
+                    <span>Last updated 16/09/2021, 23:40  with lowlighter/metrics@3.13.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
