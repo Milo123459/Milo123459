@@ -1711,8 +1711,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.8347000431593" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="284.8347000431593" y="0" width="175.16529995684076" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.6963843023528" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="308.6963843023528" y="0" width="151.30361569764722" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1723,7 +1723,7 @@
                     </div>
                             <small>
                                 <div>14.3 kB</div>
-                                <div>61.92%</div>
+                                <div>67.11%</div>
                             </small>
                         </div>
                     </section>
@@ -1734,8 +1734,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>8.82 kB</div>
-                                <div>38.08%</div>
+                                <div>7.03 kB</div>
+                                <div>32.89%</div>
                             </small>
                         </div>
                     </section>
@@ -5883,7 +5883,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.83781805698251 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="106.84196066986935 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -6277,7 +6277,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17/09/2021, 23:12  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 17/09/2021, 23:40  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
