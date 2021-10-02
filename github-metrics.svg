@@ -1782,8 +1782,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.69941378613305" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="340.69941378613305" y="0" width="119.300586213867" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.6958525345622" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="337.6958525345622" y="0" width="122.30414746543778" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1794,7 +1794,7 @@
                     </div>
                             <small>
                                 <div>7.33 kB</div>
-                                <div>74.07%</div>
+                                <div>73.41%</div>
                             </small>
                         </div>
                     </section>
@@ -1805,8 +1805,8 @@
                       RenderScript
                     </div>
                             <small>
-                                <div>2.57 kB</div>
-                                <div>25.93%</div>
+                                <div>2.65 kB</div>
+                                <div>26.59%</div>
                             </small>
                         </div>
                     </section>
@@ -2225,14 +2225,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 77.6917663617171%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">97%</span>
+                            <span class="name">Rust</span>
+                            <div class="bar" style="width: 59.25207196280574%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">74%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Rust</span>
-                            <div class="bar" style="width: 2.3082336382828994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 20.74792803719426%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">26%</span>
                         </div>
                     </div>
                 </section>
@@ -4417,7 +4417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/yoctocolors</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6362,7 +6362,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/10/2021, 05:38  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 02/10/2021, 06:13  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
