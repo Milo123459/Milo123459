@@ -1782,8 +1782,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.81028020703195" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="300.81028020703195" y="0" width="159.18971979296805" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.35462888710686" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="300.35462888710686" y="0" width="159.64537111289317" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1794,7 +1794,7 @@
                     </div>
                             <small>
                                 <div>7.33 kB</div>
-                                <div>65.39%</div>
+                                <div>65.29%</div>
                             </small>
                         </div>
                     </section>
@@ -1805,8 +1805,8 @@
                       RenderScript
                     </div>
                             <small>
-                                <div>3.88 kB</div>
-                                <div>34.61%</div>
+                                <div>3.90 kB</div>
+                                <div>34.71%</div>
                             </small>
                         </div>
                     </section>
@@ -1971,7 +1971,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2019,7 +2019,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.34 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2225,14 +2225,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 77.97029702970298%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">97%</span>
+                            <span class="name">Rust</span>
+                            <div class="bar" style="width: 52.36155769917828%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">65%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Rust</span>
-                            <div class="bar" style="width: 2.0297029702970297%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 27.638442300821723%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">35%</span>
                         </div>
                     </div>
                 </section>
@@ -4433,7 +4433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kb24x7/rustyvibes</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6309,7 +6309,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/10/2021, 21:12  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 02/10/2021, 21:38  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
