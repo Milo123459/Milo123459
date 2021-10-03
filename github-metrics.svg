@@ -1775,29 +1775,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 17 edited files from 39 commits over last 14 days
+            estimation from 41 edited files from 39 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.3292079207921" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="448.3292079207921" y="0" width="11.67079207920792" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.07895677027506" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="301.07895677027506" y="0" width="158.9210432297249" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      RenderScript
-                    </div>
-                            <small>
-                                <div>1.57 kB</div>
-                                <div>97.46%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1805,8 +1793,20 @@
                       Rust
                     </div>
                             <small>
-                                <div>41 bytes</div>
-                                <div>2.54%</div>
+                                <div>7.33 kB</div>
+                                <div>65.45%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      RenderScript
+                    </div>
+                            <small>
+                                <div>3.87 kB</div>
+                                <div>34.55%</div>
                             </small>
                         </div>
                     </section>
@@ -1971,7 +1971,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2019,7 +2019,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.33 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2225,14 +2225,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">Rust</span>
-                            <div class="bar" style="width: 51.82919282114756%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">65%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 77.97029702970298%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">97%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 28.170807178852442%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">35%</span>
+                            <span class="name">Rust</span>
+                            <div class="bar" style="width: 2.0297029702970297%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                     </div>
                 </section>
@@ -4414,7 +4414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shift-d/onotone</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6299,7 +6299,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 03/10/2021, 02:28  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 03/10/2021, 02:50  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
