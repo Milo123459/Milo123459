@@ -1775,29 +1775,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 43 edited files from 40 commits over last 14 days
+            estimation from 19 edited files from 40 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.24756129712625" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="297.24756129712625" y="0" width="162.75243870287372" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.8668171557562" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="442.8668171557562" y="0" width="17.13318284424379" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Rust
-                    </div>
-                            <small>
-                                <div>7.35 kB</div>
-                                <div>64.62%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1805,8 +1793,20 @@
                       RenderScript
                     </div>
                             <small>
-                                <div>4.03 kB</div>
-                                <div>35.38%</div>
+                                <div>1.71 kB</div>
+                                <div>96.28%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Rust
+                    </div>
+                            <small>
+                                <div>66 bytes</div>
+                                <div>3.72%</div>
                             </small>
                         </div>
                     </section>
@@ -1961,7 +1961,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1971,7 +1971,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.46 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2009,7 +2009,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.28 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2019,7 +2019,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.46 s
+                0.34 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2225,14 +2225,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 77.02031602708803%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">96%</span>
+                            <span class="name">Rust</span>
+                            <div class="bar" style="width: 48.899698414242636%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">61%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Rust</span>
-                            <div class="bar" style="width: 2.979683972911964%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 31.10030158575737%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">39%</span>
                         </div>
                     </div>
                 </section>
@@ -6298,7 +6298,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 03/10/2021, 15:12  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 03/10/2021, 15:43  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
