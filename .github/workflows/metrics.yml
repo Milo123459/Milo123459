@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: git pull
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -79,3 +79,10 @@ jobs:
           plugin_stackoverflow_limit: 4                              
           plugin_stackoverflow_lines: 4 
           plugin_discussions: yes      
+          plugin_support: yes
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 100
+          plugin_code_visibility: public
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, about
