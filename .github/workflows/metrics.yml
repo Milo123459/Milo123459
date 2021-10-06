@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: git pull
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.13
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
