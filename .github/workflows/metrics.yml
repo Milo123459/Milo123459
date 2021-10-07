@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: git pull
-      - uses: lowlighter/metrics@v3.13
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -72,7 +72,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>500
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 13050631
           plugin_stackoverflow_sections: answers-top, answers-recent
