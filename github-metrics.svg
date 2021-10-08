@@ -1782,9 +1782,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.61005335030103" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="296.61005335030103" y="0" width="149.76848906074102" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.378542411042" y="0" width="13.621457588957957" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.6487721302113" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="296.6487721302113" y="0" width="148.8422941992331" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="445.49106632944444" y="0" width="14.508933670555601" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1795,7 +1795,7 @@
                     </div>
                             <small>
                                 <div>39.5 kB</div>
-                                <div>64.48%</div>
+                                <div>64.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1804,8 +1804,8 @@
                       RenderScript
                     </div>
                             <small>
-                                <div>1.81 kB</div>
-                                <div>2.96%</div>
+                                <div>1.93 kB</div>
+                                <div>3.15%</div>
                             </small>
                         </div>
                     </section>
@@ -1816,8 +1816,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>19.9 kB</div>
-                                <div>32.56%</div>
+                                <div>19.8 kB</div>
+                                <div>32.36%</div>
                             </small>
                         </div>
                     </section>
@@ -1972,7 +1972,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1982,7 +1982,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.36 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2020,7 +2020,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.25 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2030,7 +2030,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.36 s
+                0.32 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4434,7 +4434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evaera/roblox-lua-promise</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4476,7 +4476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/rbxts-greenwich</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4518,7 +4518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustls/rustls</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6533,7 +6533,7 @@ use rustc_hir as hir;</code>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/10/2021, 04:29  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 08/10/2021, 05:20  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
