@@ -1555,9 +1555,9 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="13.128729752770672" height="8" fill="#28a745"/>
-                            <rect mask="url(#pr-bar)" x="13.128729752770672" y="0" width="114.21994884910487" height="8" fill="#d73a49"/>
-                            <rect mask="url(#pr-bar)" x="127.34867860187555" y="0" width="92.65132139812445" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="13.1175468483816" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="13.1175468483816" y="0" width="114.31005110732538" height="8" fill="#d73a49"/>
+                            <rect mask="url(#pr-bar)" x="127.42759795570699" y="0" width="92.57240204429301" height="8" fill="#6f42c1"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
@@ -1570,7 +1570,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d73a49" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">609 <small>closed</small></span>
+                                <span class="no-wrap">610 <small>closed</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1995,7 +1995,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.51 s
+                0.55 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2043,7 +2043,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.51 s
+                0.55 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2260,22 +2260,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 56.07647695227285%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 56.078466149944134%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">70%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 19.228490857173263%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">24%</span>
+                            <div class="bar" style="width: 20.548766428406733%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">26%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 3.0377950800773283%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 1.7154715240949967%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 1.657237110476562%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.6572958975541405%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -6447,17 +6447,17 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                     <section class="largeable-column-fields">
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-              From <span class="blue space">Milo123459/rbxts-greenwich</span>
+              From <span class="blue space">Milo123459/website</span>
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              fix
+              Merge pull request #183 from Milo123459/dependabot/npm_and_yarn/types/node-16.10.3
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1b98eea5</span>
+                            <span class="code">62407be9</span>
                             <span class="code">package.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -6469,14 +6469,15 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span>
-{
-<span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line"> "name": "@rbxts/greenwichdb",
-</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "version": "1.0.0",
-</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "version": "1.0.1",
-</span></span><span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line"> "description": "Bindings from GreenwichDB to be compatible with roblox-ts",
-</span><span class="token prefix unchanged"> </span><span class="token line"> "main": "src/init.lua",
-</span><span class="token prefix unchanged"> </span><span class="token line"> "scripts": {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,7 +18,7 @@</span>
+		"react-dom": "17.0.2"
+	},
+	"devDependencies": {
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		"@types/node": "^16.6.2",
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		"@types/node": "^16.10.3",
+</span></span>		"@types/react": "^17.0.19",
+		"eslint": "^7.32.0",
+		"eslint-config-next": "^11.1.0",</code>
                         </div>
                     </section>
                 </div>
@@ -6524,7 +6525,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12/10/2021, 06:25  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 12/10/2021, 07:37  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
