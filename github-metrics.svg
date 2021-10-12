@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="7938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8031" class="">
     <defs>
         <style/>
     </defs>
@@ -1500,7 +1500,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.26k views in last two weeks
+                    1.25k views in last two weeks
                   
                 </div>
                             </section>
@@ -2005,7 +2005,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.55 s
+                0.61 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2053,7 +2053,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.55 s
+                0.61 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -4421,7 +4421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>banga/git-split-diffs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6416,20 +6416,20 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                     <section class="largeable-column-fields">
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-              From <span class="blue space">Milo123459/rbxts-greenwich</span>
+              From <span class="blue space">GreenwichDB/GreenwichDB</span>
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              fix again
+              Add a note about typescript
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">695f1118</span>
-                            <span class="code">src/index.d.ts</span>
+                            <span class="code">20069ed8</span>
+                            <span class="code">README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -6438,14 +6438,16 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -26,4 +26,5 @@</span>
-interface Database {
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,6 +14,8 @@</span>
+Go back to the start of time, where DataStores weren't complex.
 
-}
+Start off by copying [`greenwich.lua`](/greenwich.lua) over to `ServerStorage`. Make sure it's a ModuleScript named `Greenwich`.
 
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export default GreenwichDB;
-</span></span>declare const GreenwichDB: GreenwichDB;
-\ No newline at end of file</code>
+<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">If you are using TypeScript with [roblox-ts](https://roblox.ts) - check out [this package](https://npmjs.com/package/@rbxts/greenwichdb)
+</span><span class="token prefix inserted">+</span><span class="token line">
+</span></span>## Concept
+
+The concept of Greenwich is to provide one DataStore, and just one, in order to completely removes complications. It's faster and lighter on the server, and provides a simple API.</code>
                         </div>
                     </section>
                 </div>
@@ -6493,7 +6495,7 @@ interface Database {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12/10/2021, 08:27  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 12/10/2021, 09:22  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
