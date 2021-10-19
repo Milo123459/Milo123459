@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6791" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6797" class="">
     <defs>
         <style/>
     </defs>
@@ -1476,7 +1476,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    917k added, 314k removed
+                    937k added, 331k removed
                   
                 </div>
                             </section>
@@ -1776,17 +1776,19 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 64 edited files from 100 commits over last 11 days
+            estimation from 91 edited files from 100 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.7792032410534" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="388.7792032410534" y="0" width="34.61129867206842" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="423.3905019131218" y="0" width="24.516767949583613" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="447.9072698627054" y="0" width="12.092730137294621" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.7455713020372" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="318.7455713020372" y="0" width="45.59935045763212" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="364.3449217596693" y="0" width="32.094405078240335" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="396.4393268379096" y="0" width="28.376513138470624" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="424.81583997638023" y="0" width="20.10038382049011" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="444.9162237968704" y="0" width="15.083776203129613" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1797,7 +1799,17 @@
                     </div>
                             <small>
                                 <div>37.5 kB</div>
-                                <div>84.52%</div>
+                                <div>69.29%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TSX
+                    </div>
+                            <small>
+                                <div>3.78 kB</div>
+                                <div>6.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1807,11 +1819,21 @@
                     </div>
                             <small>
                                 <div>2.37 kB</div>
-                                <div>5.33%</div>
+                                <div>4.37%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TypeScript
+                    </div>
+                            <small>
+                                <div>5.37 kB</div>
+                                <div>9.91%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1819,17 +1841,17 @@
                     </div>
                             <small>
                                 <div>3.34 kB</div>
-                                <div>7.52%</div>
+                                <div>6.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JavaScript
                     </div>
                             <small>
-                                <div>1.17 kB</div>
-                                <div>2.63%</div>
+                                <div>1.78 kB</div>
+                                <div>3.28%</div>
                             </small>
                         </div>
                     </section>
@@ -1933,8 +1955,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                                <text x="60" y="60" dominant-baseline="central">98</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                                <text x="60" y="60" dominant-baseline="central">97</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1947,10 +1969,10 @@
                             <span class="title">Accessibility</span>
                         </div>
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
-                                <text x="60" y="60" dominant-baseline="central">87</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                                <text x="60" y="60" dominant-baseline="central">93</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -1994,7 +2016,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.18 s
+                1.14 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2042,7 +2064,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.18 s
+                1.14 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -2249,27 +2271,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 31.322001127849838%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 31.334622823984528%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">39%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 18.72875211471844%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.70406189555126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 18.04559735760896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.052869116698904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 11.452509465882542%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.457124435847842%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 0.45113993394022395%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.4513217279174726%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -4347,7 +4369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chronotope/chrono</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4389,7 +4411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>retrooper/packetevents</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4431,7 +4453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>time-rs/time</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4473,7 +4495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discordjs/opus</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6408,17 +6430,17 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              fixes
+              fixes and changed title
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">07577fd8</span>
-                            <span class="code">yarn.lock</span>
+                            <span class="code">a408ad4b</span>
+                            <span class="code">src/pages/about.tsx</span>
                             <span class="code">
-                                <span class="snippet additions">++5</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -6426,19 +6448,16 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2559,6 +2559,11 @@</span>
-postcss@8.2.15:
-<span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line">   nanoid "^3.1.23"
-</span><span class="token prefix unchanged"> </span><span class="token line">   source-map "^0.6.1"
-</span></span>
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">preact@^10.5.15:
-</span><span class="token prefix inserted">+</span><span class="token line"> version "10.5.15"
-</span><span class="token prefix inserted">+</span><span class="token line"> resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.15.tgz#6df94d8afecf3f9e10a742fd8c362ddab464225f"
-</span><span class="token prefix inserted">+</span><span class="token line"> integrity sha512-5chK29n6QcJc3m1lVrKQSQ+V7K1Gb8HeQY6FViQ5AxCAEGu3DaHffWNDkC9+miZgsLvbvU9rxbV1qinGHMHzqA==
-</span><span class="token prefix inserted">+</span><span class="token line">
-</span></span>prelude-ls@^1.2.1:
-<span class="token unchanged"><span class="token prefix unchanged"> </span><span class="token line"> version "1.2.1"
-</span><span class="token prefix unchanged"> </span><span class="token line"> resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -20,7 +20,7 @@</span>
+export default function About() {
+						&lt;code&gt;Rust&lt;/code&gt;, and I love it for its performance and DX. Aside
+						from how I started programming, my pronouns are &lt;code&gt;he/him&lt;/code&gt;,
+						and if you want to chat with me, you can send me a PM on Twitter{' '}
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">						&lt;Link passHref={false} href="https://twitter.com/salvagedev"&gt;
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">						&lt;Link passHref href="https://twitter.com/salvagedev"&gt;
+</span></span>							&lt;code&gt;@salvagedev&lt;/code&gt;
+						&lt;/Link&gt;
+						.</code>
                         </div>
                     </section>
                 </div>
@@ -6486,7 +6505,7 @@ postcss@8.2.15:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2021, 01:32:57  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 19 Oct 2021, 02:22:48  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
