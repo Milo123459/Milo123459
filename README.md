@@ -4,12 +4,6 @@
 
 ## I enjoy coding random things and contributing to open source projects
 
-### More about me
-
-I joined GitHub **2** years ago. Since then I've opened **343** issues, **171** PRs and commited a whopping **3287** times! I've accumulated an amazing **255** stars across my repositories!
-
-I ♥ helping out open source projects. I've contributed to **209** open-source projects!
-
 ### My current projects
 
 * [Glitter](https://github.com/Milo123459/Glitter) - *Git tooling of the future*
