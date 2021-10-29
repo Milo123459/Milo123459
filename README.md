@@ -27,15 +27,6 @@
     <a href="https://github.com/Milo123459/Milo123459">
     <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
 </a>
-</details>
-
-<details>
-<summary><u><b> 🎧 What I'm listening to right now </u></b></summary>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
-  
-</details>
-
 Loving [Rust](https://rust-lang.org)
 
 ## Quick links
