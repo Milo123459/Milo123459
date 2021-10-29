@@ -2,7 +2,7 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=Milo123459)
 
-#### 👷 Check out what I'm currently working on
+#### 👷 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
