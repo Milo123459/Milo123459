@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![profile_views](https://komarev.com/ghpvc/?username=Milo123459)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -23,3 +25,9 @@
 #### My stats
 
 <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
+
+#### Quick links
+
+[git.io/milo](https://git.io/milo)
+
+[git.io/sponsor-milo](https://git.io/sponsor-milo)
