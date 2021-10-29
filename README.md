@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.414.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.414.0), today) - Fig adds autocomplete to your terminal.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) ([13.3.0](https://github.com/discordjs/discord.js/releases/tag/13.3.0), today) - A powerful JavaScript library for interacting with the Discord API
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) ([tokio-1.13.0](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.13.0), today) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.413.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.413.0), 1 day ago) - Fig adds autocomplete to your terminal.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) ([v3.15](https://github.com/lowlighter/metrics/releases/tag/v3.15), 1 day ago) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) ([nightly](https://github.com/rust-analyzer/rust-analyzer/releases/tag/nightly), 2 days ago) - A Rust compiler front-end for IDEs
 
