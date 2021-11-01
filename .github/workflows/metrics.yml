@@ -75,4 +75,4 @@ jobs:
           plugin_code_visibility: public
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
-          plugin_notable_form: all
+          plugin_notable_from: all
