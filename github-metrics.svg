@@ -1500,7 +1500,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    1.04k views in last two weeks
+                    1.06k views in last two weeks
                   
                 </div>
                             </section>
@@ -1649,18 +1649,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 100 edited files from 93 commits over last 10 days
+            estimation from 91 edited files from 93 commits over last 10 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.72116702565108" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="227.72116702565108" y="0" width="131.28960250636382" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="359.01076953201493" y="0" width="47.34207949872724" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="406.35284903074216" y="0" width="40.04621108282749" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="446.39906011356965" y="0" width="13.600939886430389" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.79253339601206" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="227.79253339601206" y="0" width="131.33074783562503" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="359.1232812316371" y="0" width="47.356916206369725" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="406.4801974380068" y="0" width="39.91460022721041" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="446.39479766521725" y="0" width="13.60520233478278" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1671,7 +1671,7 @@
                     </div>
                             <small>
                                 <div>12.6 kB</div>
-                                <div>49.5%</div>
+                                <div>49.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1703,7 +1703,7 @@
                     </div>
                             <small>
                                 <div>7.29 kB</div>
-                                <div>28.54%</div>
+                                <div>28.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1712,8 +1712,8 @@
                       RenderScript
                     </div>
                             <small>
-                                <div>2.22 kB</div>
-                                <div>8.71%</div>
+                                <div>2.21 kB</div>
+                                <div>8.68%</div>
                             </small>
                         </div>
                     </section>
@@ -1991,47 +1991,47 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 36.54344772225567%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 36.541981056349336%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">46%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 27.514348785871967%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 27.51645528977364%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">34%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 8.438290186634557%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.437951517097448%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">11%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 3.5191651615492674%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.519023920372452%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Smarty</span>
-                            <div class="bar" style="width: 2.4242424242424243%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.424145127628833%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 0.8926349588601245%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8925991330871729%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.34356813164760186%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3435543425911061%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.24402970098334337%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.24401990688714081%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.08027292795504716%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.08026970621287527%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4090,7 +4090,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GuillaumeGomez/doc-comment</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4132,7 +4132,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/with_lock</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -6164,21 +6164,35 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                     <section class="largeable-column-fields">
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-              From <span class="blue space">Milo123459/with_lock</span>
+              From <span class="blue space">Milo123459/website</span>
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              feat: *: create package
+              Bump next from 12.0.1 to 12.0.2
+
+Bumps [next](https://github.com/vercel/next.js) from 12.0.1 to 12.0.2.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v12.0.1...v12.0.2)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6b106490</span>
-                            <span class="code">.github/dependabot.yml</span>
+                            <span class="code">0d89c86b</span>
+                            <span class="code">package.json</span>
                             <span class="code">
-                                <span class="snippet additions">++7</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -6186,15 +6200,15 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span>
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version: 2
-</span><span class="token prefix inserted">+</span><span class="token line">updates:
-</span><span class="token prefix inserted">+</span><span class="token line">- package-ecosystem: cargo
-</span><span class="token prefix inserted">+</span><span class="token line">directory: "/"
-</span><span class="token prefix inserted">+</span><span class="token line">schedule:
-</span><span class="token prefix inserted">+</span><span class="token line">  interval: daily
-</span><span class="token prefix inserted">+</span><span class="token line">open-pull-requests-limit: 10
-</span></span>\ No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,7 +14,7 @@</span>
+		"framer-motion": "^5.0.0",
+		"inter-ui": "^3.19.3",
+		"modern-normalize": "^1.1.0",
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		"next": "^12.0.1",
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		"next": "^12.0.2",
+</span></span>		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"react-query": "^3.29.0",</code>
                         </div>
                     </section>
                 </div>
@@ -6242,7 +6256,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2021, 11:09:00  with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 1 Nov 2021, 12:06:14  with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
