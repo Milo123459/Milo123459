@@ -1531,7 +1531,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    806k added, 297k removed
+                    828k added, 314k removed
                   
                 </div>
                             </section>
@@ -1624,7 +1624,7 @@
             <section>
                 <h2 class="field">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/></svg>
-      20 Languages
+      12 Languages
     </h2>
             </section>
             <section class="column">
@@ -1704,18 +1704,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 94 edited files from 94 commits over last 10 days
+            estimation from 94 edited files from 94 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.73235563703025" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="231.73235563703025" y="0" width="133.69385884509623" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="365.4262144821265" y="0" width="48.175985334555456" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="413.60219981668195" y="0" width="32.55728689275894" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="446.1594867094409" y="0" width="13.84051329055912" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.61366360367558" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="246.61366360367558" y="0" width="118.57451058729524" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="365.1881741909708" y="0" width="48.29724330803036" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="413.4854174990012" y="0" width="32.6392329204954" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="446.12465041949656" y="0" width="13.875349580503396" height="8" fill="#f0c040"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1725,8 +1725,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>12.6 kB</div>
-                                <div>50.38%</div>
+                                <div>13.4 kB</div>
+                                <div>53.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1736,7 +1736,7 @@
                     </div>
                             <small>
                                 <div>2.63 kB</div>
-                                <div>10.47%</div>
+                                <div>10.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1746,7 +1746,7 @@
                     </div>
                             <small>
                                 <div>755 bytes</div>
-                                <div>3.01%</div>
+                                <div>3.02%</div>
                             </small>
                         </div>
                     </section>
@@ -1757,8 +1757,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>7.29 kB</div>
-                                <div>29.06%</div>
+                                <div>6.45 kB</div>
+                                <div>25.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1768,7 +1768,7 @@
                     </div>
                             <small>
                                 <div>1.78 kB</div>
-                                <div>7.08%</div>
+                                <div>7.1%</div>
                             </small>
                         </div>
                     </section>
@@ -4171,7 +4171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FGRibreau/spinners</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4209,7 +4209,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Roblox/luau</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4226,7 +4226,7 @@
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    980
+                    1k
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -5945,7 +5945,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.583583583583586 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.738738738738736 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5969,12 +5969,12 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 174k out of 238m repositories
+                      ranked 173k out of 238m repositories
                     </span>
                   
                   
                 </div>
-                                <div class="text">Maintaining a repository with 153 stars</div>
+                                <div class="text">Maintaining a repository with 154 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -6310,7 +6310,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2021, 08:22:30  with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 4 Nov 2021, 09:19:20  with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
