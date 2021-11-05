@@ -63,6 +63,8 @@ jobs:
           plugin_gists: yes
           plugin_notable: yes
           plugin_notable_filter: stars:>500
+          plugin_notable_repositories: yes
+          plugin_notable_from: all
           plugin_languages_sections: most-used, recently-used
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 13050631
@@ -77,4 +79,3 @@ jobs:
           plugin_code_visibility: public
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
-          plugin_notable_from: all
