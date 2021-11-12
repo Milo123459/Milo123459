@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6453" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6300" class="">
     <defs>
         <style/>
     </defs>
@@ -1561,7 +1561,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    857 views in last two weeks
+                    850 views in last two weeks
                   
                 </div>
                             </section>
@@ -1896,17 +1896,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 74 edited files from 90 commits over last 14 days
+            estimation from 62 edited files from 89 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.44141689373294" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="254.44141689373294" y="0" width="153.4477996342055" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="407.8892165279384" y="0" width="40.538240453883766" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="448.42745698182216" y="0" width="11.572543018177745" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.18018094191257" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="227.18018094191257" y="0" width="173.79808911811955" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="400.9782700600321" y="0" width="45.91443307685804" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="446.89270313689013" y="0" width="13.107296863109832" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1916,8 +1916,8 @@
                       Rust
                     </div>
                             <small>
-                                <div>14.8 kB</div>
-                                <div>55.31%</div>
+                                <div>11.6 kB</div>
+                                <div>49.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1927,7 +1927,7 @@
                     </div>
                             <small>
                                 <div>2.36 kB</div>
-                                <div>8.81%</div>
+                                <div>9.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1939,7 +1939,7 @@
                     </div>
                             <small>
                                 <div>8.94 kB</div>
-                                <div>33.36%</div>
+                                <div>37.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1949,7 +1949,7 @@
                     </div>
                             <small>
                                 <div>674 bytes</div>
-                                <div>2.52%</div>
+                                <div>2.85%</div>
                             </small>
                         </div>
                     </section>
@@ -6400,40 +6400,11 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
       Code snippet of the day
     </h2>
                 <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-              From <span class="blue space">Milo123459/website</span>
-            </div>
-                        <div class="field">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              add a blog system
-            </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
-                            </svg>
-                            <span class="code">82a71506</span>
-                            <span class="code">src/styles/globals.css</span>
-                            <span class="code">
-                                <span class="snippet additions">++4</span>
-                                <span class="snippet deletions">--0</span>
-                            </span>
-                        </div>
-                    </section>
-                </div>
-                <div class="row">
-                    <section class="snippet">
-                        <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,3 +7,7 @@</span>
-*::-webkit-scrollbar {
-	display: none;
-}
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">
-</span><span class="token prefix inserted">+</span><span class="token line">html {
-</span><span class="token prefix inserted">+</span><span class="token line">	scroll-behavior: smooth;
-</span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
-                        </div>
+                    <section>
+                        <div class="field error">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
+            An error occured
+          </div>
                     </section>
                 </div>
             </section>
@@ -6480,7 +6451,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2021, 22:19:07  with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 12 Nov 2021, 23:19:27  with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
