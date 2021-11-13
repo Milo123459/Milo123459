@@ -79,3 +79,4 @@ jobs:
           plugin_code_visibility: public
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
+          plugin_languages_aliases: RenderScript:Rust
