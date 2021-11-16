@@ -65,6 +65,8 @@ jobs:
           plugin_notable_filter: stars:>500
           plugin_notable_repositories: yes
           plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           plugin_languages_sections: most-used, recently-used
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 13050631
