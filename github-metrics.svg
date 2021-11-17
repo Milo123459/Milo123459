@@ -1869,7 +1869,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    12 Languages
+                    20 Languages
                 </h2>
             </section>
             <section class="column">
@@ -4440,7 +4440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nebulatgs/cli-rs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Railway CLI</div>
@@ -4493,7 +4493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moby/moby</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</div>
@@ -6585,34 +6585,30 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">nebulatgs/cli-rs</span>
+                            <span class="blue space">Milo123459/Milo123459</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            format
+                            notable changes
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">0e6d4aec</span>
-                            <span class="code">src/commands/connect.rs</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">b730a290</span>
+                            <span class="code">.github/workflows/metrics.yml</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,5 +4,5 @@</span>
-use clap::Parser;
-pub struct Args;
-
-pub async fn command(args: Args) -&gt; super::CommandResult {
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">todo!("Connect command used!");</span><span class="token prefix deleted">-</span><span class="token line">}</span></span>\ No newline at end of file
-<span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">todo!("Connect command used!");</span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -65,6 +65,8 @@</span>
+jobs:
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">plugin_notable_filter: stars:&gt;500</span><span class="token prefix unchanged"></span><span class="token line">plugin_notable_repositories: yes</span><span class="token prefix unchanged"></span><span class="token line">plugin_notable_from: all</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">plugin_notable_repositories: yes</span><span class="token prefix inserted">+</span><span class="token line">plugin_notable_indepth: yes</span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">plugin_languages_sections: most-used, recently-used</span><span class="token prefix unchanged"></span><span class="token line">plugin_stackoverflow: yes</span><span class="token prefix unchanged"></span><span class="token line">         plugin_stackoverflow_user: 13050631</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -6664,7 +6660,7 @@ pub async fn command(args: Args) -&gt; super::CommandResult {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2021, 09:19:36  with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 17 Nov 2021, 10:21:10  with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
