@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6542" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6435" class="">
     <defs>
         <style/>
     </defs>
@@ -1469,7 +1469,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6436 Commits
+                            6437 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1577,7 +1577,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    833k added, 319k removed
+                                    830k added, 316k removed
                                 </div>
                             </section>
                             <section>
@@ -1869,7 +1869,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    12 Languages
+                    20 Languages
                 </h2>
             </section>
             <section class="column">
@@ -1954,14 +1954,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 133 edited files from 185 commits over last 9 days</small>
+                <small>estimation from 135 edited files from 185 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.70343601216086" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="349.70343601216086" y="0" width="110.29656398783916" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.5640686922061" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="349.5640686922061" y="0" width="110.43593130779392" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1974,7 +1974,7 @@
                             </div>
                             <small>
                                 <div>13.2 kB</div>
-                                <div>76.02%</div>
+                                <div>75.99%</div>
                             </small>
                         </div>
                     </section>
@@ -1988,7 +1988,7 @@
                             </div>
                             <small>
                                 <div>4.18 kB</div>
-                                <div>23.98%</div>
+                                <div>24.01%</div>
                             </small>
                         </div>
                     </section>
@@ -4450,10 +4450,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8688524590163933 0,2.8688524590163933 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8688524590163933 1.7,3.8688524590163933 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.918032786885246)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.081967213114754 0,2.081967213114754 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.081967213114754 1.7,3.081967213114754 z"/>
+                            <g transform="translate(-1.7, 5.8196721311475414)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.180327868852459 0,2.180327868852459 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.180327868852459 1.7,3.180327868852459 z"/>
                             </g>
                         </g>
                     </g>
@@ -4476,7 +4476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserless/chrome</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chrome as a service in docker. Run on our cloud, or bring your own</div>
@@ -6597,20 +6597,20 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Milo123459/Spencer</span>
+                            <span class="blue space">nebulatgs/cli-rs</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            more debugging
+                            fix names
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3041b7dd</span>
-                            <span class="code">src/events/Client Events/ReadyEvent.ts</span>
+                            <span class="code">ad5504a7</span>
+                            <span class="code">.github/workflows/release.yml</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -6618,12 +6618,9 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -26,7 +26,7 @@</span>
-export const run: RunFunction = async (client) =&gt; {
-		const ReminderSchema = await client.db.load('reminder');
-<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">console.log("after getting schema");</span></span>		(await ReminderSchema.find({})).forEach(async (value: Document) =&gt; {
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">console.log(Date.now() - (value as any).Time, Date.now() &gt;= (value as any).Time);</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">console.log(Date.now() - (value as any).Time, Date.now() &gt;= (value as any).Time, Date.now() - (value as any).Time);</span></span>			if (Date.now() &gt;= (value as any).Time) {
-<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">console.log("passed the if");</span></span>				const User: User = client.users.cache.get((value as any).User);</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -113,5 +113,5 @@</span>
+jobs:
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">- name: Build | Publish</span><span class="token prefix unchanged"></span><span class="token line">uses: softprops/action-gh-release@v1</span><span class="token prefix unchanged"></span><span class="token line">with:</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">files: glitter-*/glitter-*</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">files: railway-*/railway-*</span></span><span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">body_path: RELEASE.md</span></span>\ No newline at end of file</code>
                         </div>
                     </section>
                 </div>
@@ -6675,7 +6672,7 @@ export const run: RunFunction = async (client) =&gt; {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2021, 05:17:52  with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 22 Nov 2021, 06:23:50  with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
