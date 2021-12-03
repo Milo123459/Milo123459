@@ -221,7 +221,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    556 views in last two weeks
+                                    555 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -572,10 +572,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.54170080288384" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="294.54170080288384" y="0" width="109.44125839750943" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="403.9829592003932" y="0" width="41.34950024578077" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="445.332459446174" y="0" width="14.667540553825987" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.61215932914047" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="294.61215932914047" y="0" width="109.39465408805032" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="404.00681341719076" y="0" width="41.33189203354298" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="445.33870545073376" y="0" width="14.661294549266247" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -588,7 +588,7 @@
                             </div>
                             <small>
                                 <div>19.5 kB</div>
-                                <div>64.03%</div>
+                                <div>64.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -614,7 +614,7 @@
                             </div>
                             <small>
                                 <div>7.26 kB</div>
-                                <div>23.79%</div>
+                                <div>23.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1016,37 +1016,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 44.95990495990496%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">56%</span>
+                            <div class="bar" style="width: 43.18294901786046%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">54%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 21.562221562221563%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 21.566224796702684%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">27%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 7.62993762993763%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 9.401804611785675%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 2.88981288981289%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.8903494114589137%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 2.6937926937926937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.69429282239798%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 0.1485001485001485%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14852771898555567%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.11583011583011582%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.11585162080873343%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3141,7 +3141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atomiks/floating-ui</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript positioning library for tooltips, popovers, dropdowns, and more</div>
@@ -3162,7 +3162,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        895
+                                        907
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3194,7 +3194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>misolori/vscode-fluent-icons</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fluent Icons for Visual Studio Code</div>
@@ -3315,7 +3315,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        938
+                                        939
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -5241,19 +5241,19 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Milo123459/with_lock</span>
+                            <span class="blue space">Milo123459/glitter</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore: release: release v0.4.2
+                            chore: release: release v1.5.9
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">c6fbc2f7</span>
+                            <span class="code">b4d2bea3</span>
                             <span class="code">Cargo.toml</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -5264,10 +5264,10 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                         <div class="body markdown">
                             <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span>
 [package]
-name = "with_lock"
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "0.4.1"</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "0.4.2"</span></span>edition = "2021"
-description = "Deadlock freedom"
-documentation = "https://docs.rs/with_lock"</code>
+name = "glitter"
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version = "1.5.8"</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version = "1.5.9"</span></span>authors = ["Milo123459"]
+edition = "2018"
+include = ["src/**/*", "LICENSE", "README.md"]</code>
                         </div>
                     </section>
                 </div>
@@ -5319,7 +5319,7 @@ documentation = "https://docs.rs/with_lock"</code>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2021, 17:25:33  with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 3 Dec 2021, 18:22:45  with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
