@@ -572,11 +572,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.0764459168928" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="287.0764459168928" y="0" width="117.7034504634688" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="404.77989638036166" y="0" width="20.411658971557465" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="425.1915553519191" y="0" width="20.103619638388608" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="445.2951749903077" y="0" width="14.704825009692314" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.7635256676353" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="281.7635256676353" y="0" width="115.52511415525113" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="397.28863982288635" y="0" width="28.244776532447766" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="425.53341635533417" y="0" width="20.033900650339007" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="445.56731700567315" y="0" width="14.43268299432683" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -589,19 +589,19 @@
                             </div>
                             <small>
                                 <div>17.7 kB</div>
-                                <div>62.41%</div>
+                                <div>61.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Lua
                             </div>
                             <small>
-                                <div>1.26 kB</div>
-                                <div>4.44%</div>
+                                <div>1.77 kB</div>
+                                <div>6.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -613,7 +613,7 @@
                             </div>
                             <small>
                                 <div>907 bytes</div>
-                                <div>3.2%</div>
+                                <div>3.14%</div>
                             </small>
                         </div>
                     </section>
@@ -627,19 +627,19 @@
                             </div>
                             <small>
                                 <div>7.26 kB</div>
-                                <div>25.59%</div>
+                                <div>25.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                Dockerfile
                             </div>
                             <small>
-                                <div>1.24 kB</div>
-                                <div>4.37%</div>
+                                <div>1.26 kB</div>
+                                <div>4.36%</div>
                             </small>
                         </div>
                     </section>
@@ -3123,7 +3123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/runner</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3219,7 +3219,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                             </svg>
-                                            11
+                                            12
                                         </div>
                                     </div>
                                 </section>
@@ -3313,7 +3313,7 @@
                                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                             </svg>
-                                            71
+                                            72
                                         </div>
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -5226,20 +5226,20 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                                     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                 </svg>
                                 From
-                                <span class="blue space">Milo123459/easy-runner</span>
+                                <span class="blue space">Milo123459/website</span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                 </svg>
-                                different name
+                                some changes in configuration
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                                 </svg>
-                                <span class="code">10543010</span>
-                                <span class="code">Dockerfile</span>
+                                <span class="code">6756e787</span>
+                                <span class="code">package.json</span>
                                 <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                             </div>
                         </section>
@@ -5247,13 +5247,13 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                     <div class="row">
                         <section class="snippet">
                             <div class="body markdown">
-                                <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,7 +10,7 @@</span>
-RUN curl -o actions-runner -L https://github.com/actions/runner/releases/downloa
-
-RUN tar xzf ./actions-runner
-
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">USER runner</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">USER 7000</span></span>
-RUN ./config.sh --url https://github.com/${REPO} --token ${TOKEN}</code>
+                                <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -27,7 +27,7 @@</span>
+		"reading-time": "^1.5.0",
+		"rehype-autolink-headings": "^6.1.0",
+		"rehype-code-titles": "^1.0.3",
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"rehype-prism-plus": "^1.1.3",</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"rehype-shiki": "^0.0.9",</span></span>		"rehype-slug": "^5.0.0",
+		"remark-gfm": "^3.0.1"
+	},</code>
                             </div>
                         </section>
                     </div>
@@ -5305,7 +5305,7 @@ RUN ./config.sh --url https://github.com/${REPO} --token ${TOKEN}</code>
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 5 Dec 2021, 04:26:26  with lowlighter/metrics@3.17.0-beta</span>
+                    <span>Last updated 5 Dec 2021, 05:17:51  with lowlighter/metrics@3.17.0-beta</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
