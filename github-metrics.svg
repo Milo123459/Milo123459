@@ -572,11 +572,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.1663055610269" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="257.1663055610269" y="0" width="109.63167224739018" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="366.79797780841704" y="0" width="47.386251723458734" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="414.18422953187576" y="0" width="26.803886809795813" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.9881163416716" y="0" width="19.01188365832841" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.4488971318805" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="259.4488971318805" y="0" width="110.60475591177055" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="370.0536530436511" y="0" width="47.715440153672915" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="417.769093197324" y="0" width="27.041796383387428" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="444.8108895807115" y="0" width="15.1891104192886" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -589,7 +589,7 @@
                             </div>
                             <small>
                                 <div>17 kB</div>
-                                <div>55.91%</div>
+                                <div>56.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -600,8 +600,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.14 kB</div>
-                                <div>10.3%</div>
+                                <div>3.13 kB</div>
+                                <div>10.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -612,8 +612,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>1.26 kB</div>
-                                <div>4.13%</div>
+                                <div>997 bytes</div>
+                                <div>3.3%</div>
                             </small>
                         </div>
                     </section>
@@ -627,7 +627,7 @@
                             </div>
                             <small>
                                 <div>7.26 kB</div>
-                                <div>23.83%</div>
+                                <div>24.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -639,7 +639,7 @@
                             </div>
                             <small>
                                 <div>1.77 kB</div>
-                                <div>5.83%</div>
+                                <div>5.88%</div>
                             </small>
                         </div>
                     </section>
@@ -5358,7 +5358,7 @@ RUN curl -o actions-runner -L https://github.com/actions/runner/releases/downloa
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 10 Dec 2021, 02:33:45  with lowlighter/metrics@3.17.0-beta</span>
+                    <span>Last updated 10 Dec 2021, 03:20:01  with lowlighter/metrics@3.17.0-beta</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
