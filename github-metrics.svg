@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6459" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6485" class="">
     <defs>
         <style/>
     </defs>
@@ -572,9 +572,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.943539630836" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="258.943539630836" y="0" width="119.59500542888165" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="378.5385450597177" y="0" width="81.46145494028231" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.53531396234627" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="259.53531396234627" y="0" width="119.8683208183698" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="379.40363478071606" y="0" width="80.59636521928392" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -587,7 +587,7 @@
                             </div>
                             <small>
                                 <div>10.3 kB</div>
-                                <div>56.29%</div>
+                                <div>56.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -598,8 +598,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>3.26 kB</div>
-                                <div>17.71%</div>
+                                <div>3.22 kB</div>
+                                <div>17.52%</div>
                             </small>
                         </div>
                     </section>
@@ -613,7 +613,7 @@
                             </div>
                             <small>
                                 <div>4.79 kB</div>
-                                <div>26%</div>
+                                <div>26.06%</div>
                             </small>
                         </div>
                     </section>
@@ -1015,27 +1015,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 44.106981443079704%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 44.32380443494523%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">55%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 14.267028234168128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">18%</span>
+                            <div class="bar" style="width: 13.943895271172856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 13.318445259743712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 13.383916644402884%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 7.052693146168981%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.087363077745125%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 1.2548519168394747%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.2610205717339031%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -3105,7 +3105,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ohmyzsh/ohmyzsh</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3166,7 +3166,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rig-sh/rig</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Containerized environments at scale.</div>
@@ -3207,7 +3207,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Milo123459/transformer</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">convert data from one api to your own with proxier</div>
@@ -5197,13 +5197,13 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add a pre_install to rbxfpsunlocker
+                            add a post install
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e90a8310</span>
+                            <span class="code">cd98a7b1</span>
                             <span class="code">bucket/rbxfpsunlocker.json</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--1</span></span>
                         </div>
@@ -5212,8 +5212,8 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -20,5 +20,6 @@</span>
-<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">"hash": {</span><span class="token prefix unchanged"></span><span class="token line">"url": "$url.sha256"</span><span class="token prefix unchanged"></span><span class="token line">}</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">}</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">},</span><span class="token prefix inserted">+</span><span class="token line">"pre_install": ["ps rbxfpsunlocker -ErrorAction SilentlyContinue | kill -PassThru"]</span></span>}</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -21,5 +21,6 @@</span>
+<span class="token unchanged"><span class="token prefix unchanged"></span><span class="token line">"url": "$url.sha256"</span><span class="token prefix unchanged"></span><span class="token line">}</span><span class="token prefix unchanged"></span><span class="token line">},</span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"pre_install": ["ps rbxfpsunlocker -ErrorAction SilentlyContinue | kill -PassThru"]</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"pre_install": ["ps rbxfpsunlocker -ErrorAction SilentlyContinue | kill -PassThru"],</span><span class="token prefix inserted">+</span><span class="token line">"post_install": ["rbxfpsunlocker"]</span></span>}</code>
                         </div>
                     </section>
                 </div>
@@ -5265,7 +5265,7 @@ Updating the nickname is simply, just call .me.setNickname("new nickname") - it'
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2021, 07:05:54  with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 26 Dec 2021, 08:07:36  with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
