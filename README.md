@@ -13,3 +13,5 @@ Thank you for reading! 👋
 [git.io/milo](https://git.io/milo)
 
 [git.io/sponsor-milo](https://git.io/sponsor-milo)
+
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FMilo123459)
